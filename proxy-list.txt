@@ -2015,6 +2015,7 @@ dataliberation.org
 datawav.club
 date2night.xyz
 daylenerio.com
+db.tt
 dcard.cc
 dcard.io
 dcard.link
@@ -2201,6 +2202,19 @@ drivevideo.xyz
 driving.co.uk
 drkogyi.com
 dronedj.com
+dropbox-dns.com
+dropbox.com
+dropbox.tech
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxforum.com
+dropboxforums.com
+dropboxinsiders.com
+dropboxmail.com
+dropboxpartners.com
+dropboxstatic.com
+dropboxusercontent.com
 drtuber.com
 drunk6.com
 drunkenstepfather.com
@@ -2295,6 +2309,7 @@ elitvip.ru
 elog-ch.com
 elog-ch.net
 elpornoamateur.com
+embed-cdn.com
 empero-right.mom
 empflix.com
 empornium.site
@@ -3504,6 +3519,7 @@ full:oscar.reyesleon.xyz
 full:p16-tiktokcdn-com.akamaized.net
 full:p2p.publictracker.xyz
 full:p4p.arenabg.com
+full:paper-attachments.s3.amazonaws.com
 full:pirate.t-1.org
 full:production-openaicom-storage.azureedge.net
 full:public.tracker.vraphim.com
@@ -3779,6 +3795,7 @@ get.page
 get.rsvp
 getbumptop.com
 getchu.com
+getdropbox.com
 getfappy.com
 geti2p.net
 getlantern.org
@@ -4850,6 +4867,9 @@ imagepost.com
 imagetwist.com
 imaypb.com
 imgbox.com
+imgur.com
+imgur.io
+imgurinc.com
 imhentai.xxx
 imilfs.com
 imlive.com
@@ -5842,6 +5862,7 @@ me-gay.com
 media.igram.world
 mediachinese.com
 mediasama.com
+mediawiki.org
 medium.com
 medium.systems
 medow.ru
@@ -7723,6 +7744,7 @@ rjgsp1.buzz
 rk.com
 rlczdo.xyz
 rm2029.com
+rmbl.ws
 ro89.com
 rockettube.com
 rocksdb.com
@@ -7763,6 +7785,7 @@ rule34pornvids.com
 rule34video.com
 ruleporn.com
 rumah123.com
+rumble.com
 rumporn.com
 run.app
 runporn.com
@@ -8394,6 +8417,7 @@ storm.mg
 storyful.com
 straightpornstuds.com
 stream-mydirtyhobby.biz
+streamable.com
 streamate.com
 streamingporn.xyz
 streamlatina.com
@@ -8790,6 +8814,7 @@ tomatespodres.com
 tomonews.net
 tomsguide.com
 tonicmovies.com
+toolforge.org
 toomadporn.pro
 toon-3d.com
 toonsexblog.com
@@ -9335,6 +9360,7 @@ vtrahe.page
 vtvan.com
 vulgarx.com
 vuvuzela.io
+w.wiki
 w0512.com
 w6un.com
 wa.me
@@ -9469,11 +9495,23 @@ wifesharingpics.com
 wifevideos.net
 wifewantstoplay.com
 wikawika.xyz
+wikibooks.org
+wikidata.org
 wikifeet.com
 wikileaks.org
+wikimedia.org
+wikimediacloud.org
+wikimediafoundation.org
+wikinews.org
+wikipedia.org
 wikiporn.tv
+wikiquote.org
 wikisexguide.com
+wikisource.org
 wikiunblocked.org
+wikiversity.org
+wikivoyage.org
+wiktionary.org
 wildberries.ru
 wildcamporn.com
 wildfanny.com
@@ -9492,6 +9530,9 @@ wixipedia.net
 wiz-s.jp
 wjny-one.sbs
 wm18s.buzz
+wmcloud.org
+wmflabs.org
+wmfusercontent.org
 wnacg.com
 wnacg.link
 wnacg.org

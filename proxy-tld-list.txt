@@ -160,6 +160,7 @@ full:oscar.reyesleon.xyz
 full:p16-tiktokcdn-com.akamaized.net
 full:p2p.publictracker.xyz
 full:p4p.arenabg.com
+full:paper-attachments.s3.amazonaws.com
 full:pirate.t-1.org
 full:production-openaicom-storage.azureedge.net
 full:public.tracker.vraphim.com
