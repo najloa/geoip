@@ -28,7 +28,7 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file_glob: false
-          file: geosite.dat, proxy-list.txt
+          file: geosite.dat,proxy-list.txt
           release_name: Updated Release
           tag: ${{ env.TAG_NAME }}
 
