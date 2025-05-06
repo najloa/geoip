@@ -27,8 +27,8 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file_glob: false
-          file: geosite.dat
+          file_glob: true
+          file: geosite.dat*
           overwrite: true
           release_name: Updated Release
           tag: ${{ env.TAG_NAME }}
