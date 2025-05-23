@@ -105,6 +105,7 @@
 1lib.eu
 1lib.limited
 1lib.pl
+1lib.sk
 1lib.to
 1lib.tw
 1pondo.tv
@@ -3390,6 +3391,7 @@ full:as-dash-uk-live.akamaized.net
 full:as-hls-uk-live.akamaized.net
 full:asahishimbun.sc.omtrdc.net
 full:avail.googleflights.net
+full:bbs.boingboing.net
 full:bigfoot1942.sektori.org
 full:bittorrent-tracker.e-n-c-r-y-p-t.net
 full:browser-intake-datadoghq.com
@@ -5534,6 +5536,7 @@ lazymike.com
 lbfmaddiction.com
 lbtube.com
 lcgirls.com
+ldstatic.com
 leakedmeat.com
 leakedzone.com
 leaksmodels.com
@@ -9643,7 +9646,11 @@ xchina.co
 xchina.fun
 xcity.jp
 xcum.com
+xda-cdn.com
+xda-developers.com
 xdaddy.in
+xdaforums.com
+xdaimages.com
 xdh999.one
 xdir.vip
 xdporner.com
@@ -10498,8 +10505,12 @@ yy8y.com
 yyfb.cyou
 yzld188.top
 yzzk.com
+z-lib.fm
+z-lib.gd
+z-lib.gl
 z-lib.org
 z-library.se
+z-library.sk
 z00.world
 z18r.co
 z18r.com
