@@ -194,7 +194,7 @@
       "args": {
         "outputDir": "./output",
         "outputName": "geoip.dat",
-        "wantedList": ["cn", "private", "cloudflare", "cloudfront", "facebook", "fastly", "netflix", "telegram", "telegramcn", "twitter", "tor"]
+        "wantedList": ["cn", "private", "cloudflare", "cloudfront", "fastly", "telegram", "telegramcn"]
       }
     },
     {
