@@ -16,6 +16,7 @@ full:2mdn.net
 full:6.pocketnet.app
 full:6ahddutb1ucc3cp.ru
 full:9.rarbg.com
+full:a4e8s8k3.map2.ssl.hwcdn.net
 full:admob-cn.com
 full:aegir.sexy
 full:amigacity.xyz
@@ -87,6 +88,7 @@ full:epider.me
 full:evan.im
 full:exodus.desync.com
 full:explodie.org
+full:f3b7q2p3.ssl.hwcdn.net
 full:fbcdn-a.akamaihd.net
 full:fh2.cmp-gaming.com
 full:foxnewsplayer-a.akamaihd.net
@@ -182,6 +184,17 @@ full:run.publictracker.xyz
 full:ryjer.com
 full:scanservice1.qcpp1.net
 full:share.dmhy.org
+full:steambroadcast.akamaized.net
+full:steamcdn-a.akamaihd.net
+full:steamcommunity-a.akamaihd.net
+full:steammobile.akamaized.net
+full:steampipe-kr.akamaized.net
+full:steampipe-partner.akamaized.net
+full:steampipe.akamaized.net
+full:steamstore-a.akamaihd.net
+full:steamusercontent-a.akamaihd.net
+full:steamuserimages-a.akamaihd.net
+full:steamvideo-a.akamaihd.net
 full:su-data.com
 full:t-115.rhcloud.com
 full:t.acg.rip
