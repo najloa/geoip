@@ -93,6 +93,8 @@ full:fbcdn-a.akamaihd.net
 full:fh2.cmp-gaming.com
 full:foxnewsplayer-a.akamaihd.net
 full:free.publictracker.xyz
+full:gamer-cds.cdn.hinet.net
+full:gamer2-cds.cdn.hinet.net
 full:github-cloud.s3.amazonaws.com
 full:gonglchuangl.net
 full:gongyichuangyi.net
