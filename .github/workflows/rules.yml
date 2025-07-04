@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: rules
 
@@ -22,7 +22,6 @@ jobs:
           TAG_NAME=$(curl --silent https://api.github.com/repos/${{ github.repository }}/releases/latest | jq -r .tag_name)
           echo "Latest release tag: $TAG_NAME"
           echo "TAG_NAME=$TAG_NAME" >> $GITHUB_ENV
-          ls
 
       - name: Upload files to GitHub release
         uses: svenstaro/upload-release-action@v2
@@ -31,7 +30,8 @@ jobs:
           file_glob: true
           file: ./*
           overwrite: true
-          tag: ${{ github.ref }}
+          release_name: ${{ env.TAG_NAME }}
+          tag: ${{ env.TAG_NAME }}
 
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
