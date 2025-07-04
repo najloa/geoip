@@ -76,14 +76,6 @@
         "uri": "https://core.telegram.org/resources/cidr.txt"
       }
     },
-#    {
-#      "type": "text",
-#      "action": "add",
-#      "args": {
-#        "name": "telegramcn",
-#        "uri": "https://raw.githubusercontent.com/najloa/geoip/refs/heads/master/tg.txt"
-#      }
-#    },
     {
       "type": "json",
       "action": "add",
