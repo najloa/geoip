@@ -29,9 +29,8 @@ jobs:
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           file_glob: true
-          file: geosite.dat*
+          file: ./*
           overwrite: true
-          release_name: Updated Release
           tag: ${{ env.TAG_NAME }}
 
       - name: Delete workflow runs
