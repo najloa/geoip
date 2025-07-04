@@ -31,7 +31,7 @@ jobs:
           file_glob: true
           file: ./*
           overwrite: true
-          tag: ${{ env.TAG_NAME }}
+          tag: ${{ github.ref }}
 
       - name: Delete workflow runs
         uses: Mattraks/delete-workflow-runs@main
