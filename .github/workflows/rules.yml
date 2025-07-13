@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - rules
 
 jobs:
   upload_to_release:
