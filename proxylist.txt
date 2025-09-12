@@ -327,7 +327,6 @@ rarbgway.org
 dronedj.com
 electrek.co
 spaceexplored.com
-thetype.cloud @cn
 thetype.com
 typeisbeautiful.com
 startupschool.org
@@ -1046,9 +1045,7 @@ full:himalaya-exchange.zendesk.com
 apexprint.com.hk
 eprc.com.hk
 etbc.com.hk
-etnet.com.cn @cn
 etnet.com.hk
-etnetchina.com.cn @cn
 etpress.com.hk
 ettrade.com.hk
 etwealth.com
@@ -1540,7 +1537,6 @@ skysportsonline.com
 skysportsracing.com
 
 # CDN
-cn-cdn1.skymansion.net @cn
 # All .theguardian domains
 theguardian
 
@@ -1599,7 +1595,6 @@ tvb.com
 tvb.com.au
 tvbanywhere.com
 tvbanywhere.com.sg
-tvbc.com.cn @cn
 tvbeventpower.com.hk
 tvbusa.com
 tvbweekly.com
@@ -9146,8 +9141,6 @@ linkedin.at
 linkedin.com
 lnkd.in
 
-licdn.cn @cn
-linkedin.cn @cn
 
 # platform domain
 full:e122475.dscg.akamaiedge.net
@@ -9450,7 +9443,6 @@ firebase.io
 firebaseapp.com
 firebaseio.com
 
-full:firebase-settings.crashlytics.com @cn
 full:firebase.google.com
 full:firebase.googleapis.com
 full:firebaseappcheck.googleapis.com
@@ -9567,11 +9559,8 @@ xn--ngstr-lra8j.com
 # if connect to services.googleapis.cn directly,
 # then these domains will be used.
 # 北京 (2x3)、上海 (ni5)、广州 (j5o)
-regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$ @cn
 # the same but DNS pollution in China mainland.
-regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$ @cn
 
-full:redirector.c.play.google.com @cn
 charlestonroadregistry.com
 crr.com
 registry.google
@@ -9664,11 +9653,7 @@ full:scholar.googleusercontent.com
 full:scholar.l.google.com
 pki.goog
 
-full:pki-goog.l.google.com @cn
 
-full:c.pki.goog @cn
-full:i.pki.goog @cn
-full:o.pki.goog @cn
 
 # Google Public CA API Endpoint
 full:publicca.googleapis.com
@@ -9679,9 +9664,6 @@ full:clients1.google.com
 full:pki.google.com
 
 # Deprecated recently
-full:crl.pki.goog @cn
-full:crls.pki.goog @cn
-full:ocsp.pki.goog @cn
 full:alt1-mtalk.google.com @!cn
 full:alt2-mtalk.google.com @!cn
 full:alt3-mtalk.google.com @!cn
@@ -9709,7 +9691,6 @@ v8project.org
 # All .youtube domains
 youtube
 
-ggpht.cn @cn
 ggpht.com
 googlevideo.com
 wide-youtube.l.google.com
@@ -10591,7 +10572,6 @@ yahoo.cg
 yahoo.ch
 yahoo.cl
 yahoo.cm
-yahoo.cn @cn
 yahoo.co.ao
 yahoo.co.bw
 yahoo.co.ck
@@ -10620,7 +10600,6 @@ yahoo.com.bd
 yahoo.com.bo
 yahoo.com.br
 yahoo.com.bz
-yahoo.com.cn @cn
 yahoo.com.co
 yahoo.com.do
 yahoo.com.ec
@@ -11032,35 +11011,20 @@ full:steamvideo-a.akamaihd.net
 
 
 # 完美
-csgo.wmsj.cn @cn
-dota2.wmsj.cn @cn
-wmsjsteam.com @cn
 
 # Steam更新
-client-update.queniuqe.com @cn
 
 # 新流云
-dl.steam.clngaa.com @cn
 
 # 白山云
-st.dl.bscstorage.net @cn
-st.dl.eccdnx.com @cn
-st.dl.pinyuncloud.com @cn
 
 # 网宿
-steampowered.com.8686c.com @cn
-steamstatic.com.8686c.com @cn
 
 # 阿里云
-full:alibaba.cdn.steampipe.steamcontent.com @cn
-full:lv.queniujq.cn @cn
-full:xz.pphimalayanrt.com @cn
 
 # 蒸汽中国
-steamchina.com @cn
 
 # 数云科技
-gstore.val.manlaxy.com @cn
 
 # Others
 # AvaxHome main site:
@@ -11937,8 +11901,6 @@ pca.st
 pocketcasts.com
 # Prime Video
 aiv-cdn.net
-amazonprimevideo.cn @cn
-amazonprimevideo.com.cn @cn
 amazonprimevideos.com
 amazonvideo.cc
 amazonvideo.com
