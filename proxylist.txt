@@ -12112,9 +12112,6 @@ weverse.io
 yande.re
 
 # Apple Podcast
-amp-api.podcast.apple.com
-bag.itunes.apple.com
-bookeeper.itunes.apple.com
 
 # category-orgs
 4pcdn.org
