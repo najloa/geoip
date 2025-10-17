@@ -1995,9 +1995,11 @@ javbus22.com
 javcdn.cc
 javcc.cc
 javcc.com
+jav.app
 javdb.com
 jdbimgs.com
 jdbstatic.com
+regexp:javdb\d+\.com$
 javwide.com
 javwide.tv
 jkf.net
@@ -9505,6 +9507,7 @@ youtubekids.com
 youtubemobilesupport.com
 yt.be
 ytimg.com
+full:yt3.googleusercontent.com
 and
 chrome
 dclk
@@ -10438,8 +10441,11 @@ grok.com
 x.ai
 anthropic.com
 claude.ai
+claude.com
 claudeusercontent.com
+claudemcpclient.com
 full:servd-anthropic-website.b-cdn.net
+cerebras.ai
 cursor-cdn.com
 cursor.com
 cursor.sh
@@ -10505,10 +10511,12 @@ githubstatus.com
 githubuniverse.com
 githubusercontent.com
 myoctocat.com
+octocaptcha.com
 opensource.guide
 repo.new
 thegithubshop.com
 blob.core.windows.net
+full:github-api.arkoselabs.com
 full:github-cloud.s3.amazonaws.com
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
 gitlab.com
@@ -10554,6 +10562,7 @@ full:steamstore-a.akamaihd.net
 full:steamusercontent-a.akamaihd.net
 full:steamuserimages-a.akamaihd.net
 full:steamvideo-a.akamaihd.net
+full:steamcloudsweden.blob.core.windows.net
 clubhouse.com
 clubhouseapi.com
 joinclubhouse.com
