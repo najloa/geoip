@@ -8995,6 +8995,7 @@ twttr.net
 twvid.com
 vine.co
 x.com
+cdn-vk.ru
 mradx.net
 mvk.com
 userapi.com
@@ -9003,6 +9004,7 @@ vk-apps.com
 vk-apps.ru
 vk-cdn.me
 vk-cdn.net
+vkcloud-static.ru
 vk-portal.net
 vk.cc
 vk.com
@@ -10481,6 +10483,7 @@ clipdrop.co
 jasper.ai
 chutes.ai
 copilot.microsoft.com
+diabrowser.com
 dify.ai
 gateway.ai.cloudflare.com
 meta.ai

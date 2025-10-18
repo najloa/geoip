@@ -15,17 +15,20 @@ kc9.cn
 n0q.cn
 pushcfg.com
 s0n.cn
+alog.umeng.com @ads
+alog.umengcloud.com @ads
+w.cnzz.com @ads
+z.gds.cnzz.com @ads
+cnzz.com
 mobmore.com
+puata.info
+shujupie.com
 umeng.com
 umengcloud.com
 umsns.com
 umtrack.com
 uyunad.com
 whalecloud.com
-alog.umeng.com @ads
-alog.umengcloud.com @ads
-w.cnzz.com @ads
-z.gds.cnzz.com @ads
 httpdns-api.aliyuncs.com @ads
 httpdns-sc.aliyuncs.com @ads
 httpdns.alicdn.com @ads
@@ -557,6 +560,10 @@ luckincoffeecdn.com
 yyds.co
 3songshu.com
 haidilao.com
+anlaiye.com
+anlaiye.com.cn
+imcoming.com
+imcome.net
 56laile.com
 800best.cn
 800best.com
@@ -1810,6 +1817,14 @@ hzman.net
 wasu.cn
 wasu.tv
 wasumedia.cn
+1xhh.cn
+accxiaoheihe.com
+chat.top
+debugmode.cn
+max-c.com
+maxadmin.cn
+maxjia.com
+xiaoheihe.cn
 ximalaya.com
 xmcdn.com
 kumiao.com
@@ -2166,6 +2181,17 @@ wss.zone
 wss1.cn
 123pan.cn
 123pan.com
+123panpay.com
+123957.com
+123912.com
+123860.com
+123842.com
+123641.com
+123624.com
+123294.com
+123254.com
+123245.com
+123952.com
 cloud.189.cn
 ctfile.com
 feimaoyun.com
@@ -2934,8 +2960,11 @@ aliyun-inc.com
 aliyun-iot-share.com
 aliyun.com
 aliyuncdn.com
+aliyuncdn.net
 aliyunfile.com
+aliyunpds.com
 cdngslb.com
+fcapp.run
 hichina.com
 ica-alliance.org
 kunlunaq.com
@@ -2993,8 +3022,10 @@ dingtalk.cn
 dingtalk.com
 dingtalk.net
 dingtalkapps.com
+dingtalkcloud.com
 laiwang.com
 lwurl.to
+ztna-dingtalk.com
 teambition.com
 teambition.net
 teambitionapis.com
@@ -3161,6 +3192,13 @@ npmmirror.com
 goofish.com
 kaola.com
 kaolacdn.com
+lydaas.cn
+lydaas.com
+lydaas.com.cn
+lydaas.net
+lydass.cn
+lydass.com.cn
+lydass.net
 b3log.org
 a.baidu.com @ads
 ad.duapps.com @ads
