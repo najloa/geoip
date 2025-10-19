@@ -10702,6 +10702,8 @@ imgur.io
 imgurinc.com
 mypikpak.com
 mypikpak.net
+pickpackapp.com
+pikpak.io
 pikpak.me
 pikpakdrive.com
 full:o4504926511693824.ingest.sentry.io @ads
@@ -11332,6 +11334,7 @@ spotifycodes.com
 spotifyforbrands.com
 spotifyjobs.com
 spotify.link
+tospotify.com
 full:audio-ak-spotify-com.akamaized.net
 full:audio4-ak-spotify-com.akamaized.net
 full:cdn-spotify-experiments.conductrics.com
