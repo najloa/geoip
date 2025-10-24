@@ -319,7 +319,6 @@ bankcomm.com
 bankofbeijing.com.cn
 bosc.cn
 bsb.com.cn
-ccb.com
 cebbank.com
 cgbchina.com.cn
 cib.com.cn
@@ -395,7 +394,6 @@ grzq.com
 gsgh.cn
 gszq.com
 gtja.com
-gtja.com
 guodu.com
 guosen.com.cn
 gyzq.com.cn
@@ -405,7 +403,6 @@ hfzq.com.cn
 hlzqgs.com
 hongtastock.com
 hrsec.com.cn
-hsbcqh.com.cn
 htsc.com.cn
 htsec.com
 huajingsec.com
@@ -549,6 +546,7 @@ mryys.com
 mryys.cn
 4thworkshop.com
 4thworkshop.cn
+aloys233.top
 fanmingming.com
 zway.top
 517lppz.com
@@ -720,7 +718,6 @@ baijiayun.com
 bootcdn.cn
 bootcdn.net
 bootcss.com
-bootcdn.cn
 phpcomposer.com
 acadn.cn
 acadn.com
@@ -821,18 +818,30 @@ upyun.com
 oncdp.com
 51cdn.com
 8686c.com
+cdn20.com
 cdn30.org
 chinanetcenter.com
+lxdns.cn
 lxdns.com
 lxdns.info
+lxdns.net
 lxdns.org
+mwcdns.com
+mwcloudcdn.com
 ourdvsss.com
+qtlcdn.cn
+qtlcdn.com
+qtlcdn.net
 speedws.info
 speedws.org
 wangsu.com
 wscdns.com
 wscdns.info
 wscdns.org
+wsglb.com
+wsglb.net
+wswebcdn.com
+wswebpic.com
 yfcache.com
 yfcalc.com
 yfcdn.net
@@ -856,7 +865,6 @@ ganjistatic1.com
 58cdn.com.cn
 58che.com
 58control.cn
-58corp.com
 58corp.com
 58dns.org
 58lovepet.com
@@ -968,6 +976,7 @@ shizhuang-inc.net
 theduapp.cn
 theduapp.com
 theduapp.com.cn
+thepoizon.ru @!cn
 wodehaodewu.cn
 womendedw.cn
 womendedw.com
@@ -1281,22 +1290,48 @@ hqchip.com
 hqdoc.com
 hqpcb.com
 infineon.com
+fa-part.com
 forface3d.com
-jlcfa.com
-jlcgroup.cn
 jlc-3dp.cn
+jlc-3dp.com
 jlc-bbs.com
+jlc-cad.com
+jlc-cam.com
 jlc-cnc.com
 jlc-dfm.com
 jlc-drm.com
+jlc-ecad.com
+jlc-erp.com
 jlc-fpc.com
 jlc-gw.com
-jlc-smt.com
+jlc-jh.com
 jlc-layout.com
+jlc-pcb.com
+jlc-smt.com
 jlc-zh.com
+jlc.com
+jlc3dp.cn
+jlccad.com
+jlccam.com
+jlccnc.com
+jlcdfm.com
+jlcecad.com
+jlceda.cn
+jlceda.com
+jlcerp.com
+jlcfa.com
+jlcgroup.cn
+jlcops.com
+jlcsj.com
+jlcsmt.com
+lceda.cn
+lckfb.com
 oshwhub.com
-szlcsc.com
+sanweihou.com
 sz-jlc.com
+szjlc.cn
+szlcsc.com
+zs-jlc.com
 zxhgroup.com
 quecmall.cn
 quectel.com.cn
@@ -1408,7 +1443,6 @@ ledu.com
 longtugame.com
 morefreegame.com
 heavenlywind.cc
-steampp.net
 tgpro.top
 tgprocs.net
 winegame.net
@@ -1836,8 +1870,10 @@ cibntv.net
 zhanqi.tv
 lsplayer.com
 yeshen.com
+51zmt.top
 bsbsb.top
 dongqiudi.com
+goka.top
 pearvideo.com
 leigod.com
 tmjiasuqi.com
@@ -2119,6 +2155,7 @@ zol.com.cn
 anzhuo.cn
 idcquan.com
 admin5.com
+jxpp.com
 115.com
 115cdn.com
 115cdn.net
@@ -2325,6 +2362,7 @@ ystbds.com
 neoscholar.com
 neoschool.com
 winyoungreading.com
+saduck.top
 csdl.ac.cn
 iscas.ac.cn
 las.ac.cn
@@ -2406,7 +2444,6 @@ pkulaw.com
 rdfybk.com
 resset.com
 sciencechina.cn
-sslibrary.com
 tokyotrial.cn
 tongxianghuicn.com
 twscholar.com
@@ -2458,6 +2495,8 @@ orayer.com
 orayimg.com
 sunlogin.net
 todesk.com
+asklink.com
+privateapi.xyz
 tower.im
 tritoninfo.net
 xiumi.us
@@ -2503,45 +2542,6 @@ jianshu.io
 jianshuapi.com
 jinshuju.net
 jinshujucdn.com
-fa-part.com
-forface3d.com
-jlc-3dp.cn
-jlc3dp.cn
-jlc-3dp.com
-jlc-cad.com
-jlccad.com
-jlc-cam.com
-jlccam.com
-jlccam.com
-jlc-cnc.com
-jlccnc.com
-jlc.com
-jlc-dfm.com
-jlcdfm.com
-jlc-drm.com
-jlc-ecad.com
-jlcecad.com
-jlceda.cn
-jlceda.com
-jlc-erp.com
-jlcerp.com
-jlcfa.com
-jlc-fpc.com
-jlcgroup.cn
-jlc-gw.com
-jlc-jh.com
-jlc-layout.com
-jlcops.com
-jlc-pcb.com
-jlcsj.com
-jlcsmt.com
-lceda.cn
-lckfb.com
-oshwhub.com
-sanweihou.com
-szjlc.cn
-sz-jlc.com
-zs-jlc.com
 gotokeep.com
 keepcdn.com
 lagou.com
@@ -2781,9 +2781,18 @@ programmer.com.cn
 programmer.net.cn
 deepin.cn
 deepin.com
-deepin.io
-deepin.org
+deepin.io @!cn
+deepin.org @!cn
+deepin.org.cn
+sndu.cn
+51changxie.com
+51jianxie.cn
+91changxie.com
+changxie.com
 chinauos.com
+linglong.space
+linyaps.org.cn
+uniontech.cn
 uniontech.com
 gitee.com
 gitee.io
@@ -3449,6 +3458,9 @@ i.snssdk.com @ads
 mcs.snssdk.com @ads
 pangolin-dsp-toutiao-b.com @ads
 pangolin-dsp-toutiao.com @ads
+pangolin-hl.snssdk.com @ads
+pangolin-lf.snssdk.com @ads
+pangolin-lq.snssdk.com @ads
 pangolin-sdk-toutiao-b.com @ads
 pangolin-sdk-toutiao.com @ads
 pangolin-sdk-toutiao1.com @ads
@@ -4633,7 +4645,6 @@ yiwanzhushou.com
 360zqaq.com
 anquanke.com
 appjiagu.com
-baomitu.com
 dhsvc.cn
 haoso.com
 haosou.com
@@ -4662,8 +4673,6 @@ qihoo.com
 qihoo.net
 qihuapi.cn
 qihucdn.com
-qiku.com
-qikucdn.com
 so.com
 sou.cn
 sou.com
@@ -4793,7 +4802,6 @@ spcloudhw.com
 spcloudhw.net
 srmkp.cn
 starlakelab.com
-tamaegis.com
 tapd.cn
 tcdlive.com
 tcdnhw.com
@@ -5037,6 +5045,7 @@ rumt-us.com @!cn
 ad.qq.com @ads
 ad.qun.qq.com @ads
 adfilter.imtt.qq.com @ads
+adnet.qq.com @ads
 adping.qq.com @ads
 adpm.app.qq.com @ads
 adsclick.qq.com @ads
@@ -5170,12 +5179,14 @@ sentry.d.xiaomi.net @ads
 tjqonline.cn @ads
 tracker.ai.xiaomi.com @ads
 tracking.miui.com @ads
+mgslb.com
 mi-idc.com
 mi-img.com
 mi.com
 mifile.cn
 migames.com
 mijia.tech
+mitvos.com
 miui.com
 miwifi.com
 xiaomi.cn
@@ -5590,6 +5601,7 @@ amzndns-cn.com @cn
 amzndns-cn.net @cn
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$ @cn
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$ @cn
+cf-china.info @cn
 cf-ns.com @cn
 cf-ns.net @cn
 cf-ns.site @cn
