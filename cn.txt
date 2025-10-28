@@ -820,6 +820,7 @@ oncdp.com
 8686c.com
 cdn20.com
 cdn30.org
+cdnmg.com
 chinanetcenter.com
 lxdns.cn
 lxdns.com
@@ -838,6 +839,7 @@ wangsu.com
 wscdns.com
 wscdns.info
 wscdns.org
+wsdvs.com
 wsglb.com
 wsglb.net
 wswebcdn.com
@@ -988,6 +990,14 @@ eleme.io
 elemecdn.cn
 elemecdn.com
 elenet.me
+ads.union.jd.com @ads
+ads-union.jd.com @ads
+c-nfa.jd.com @ads
+cps.360buy.com @ads
+gia.jd.com @ads
+img-x.jd.com @ads
+jzt.jd.com @ads
+stat.m.jd.com @ads
 1huizhan.com
 3.cn
 300hu.com
@@ -1218,15 +1228,8 @@ yihaodian.com
 yihaodianimg.com
 yiyaojd.com
 yizhitou.com
+imdada.cn
 duolabao.com
-ads.union.jd.com @ads
-ads-union.jd.com @ads
-c-nfa.jd.com @ads
-cps.360buy.com @ads
-gia.jd.com @ads
-img-x.jd.com @ads
-jzt.jd.com @ads
-stat.m.jd.com @ads
 lianjia.com
 ljcdn.com
 beckyroom.com
@@ -1413,6 +1416,11 @@ youba.com
 yxhhdl.com
 cowlevel.net
 cdncl.net
+hero.com
+herogame.com
+heroesports.com
+shyxhy.com
+yingxiong.com
 supercell.com @!cn
 tgbus.com
 tiancity.com
@@ -2506,6 +2514,7 @@ shimonote.com
 smgv.cn
 nlark.com
 yuque.com
+woodo.cn
 doc88.com
 docin.com
 douding.cn
@@ -2747,6 +2756,8 @@ tieba.baidu.com
 tieba.com
 dandan818.com
 dandanvoice.com
+maimai.cn
+taou.com
 aixcoder.com
 nnthink.com
 apifox.cn
@@ -4732,6 +4743,14 @@ cloudsite.vip
 cncqcloud.com
 computeinit.com
 coolsite.vip
+dcloudlive.com
+dcloudlive.net
+dcloudsp.com
+dcloudsp.net
+dcloudstc.com
+dcloudstc.net
+dcloudvod.com
+dcloudvod.net
 dnsv1.com
 dnsv1.com.cn
 dothework.cn
@@ -4849,6 +4868,7 @@ tencentcloudses.com
 tencentcos.cn
 tencentcos.com
 tencentcos.com.cn
+tencentcs.cn
 tencentcs.com
 tencentdayu.com
 tencentdb.com
@@ -5184,7 +5204,6 @@ mi-idc.com
 mi-img.com
 mi.com
 mifile.cn
-migames.com
 mijia.tech
 mitvos.com
 miui.com
@@ -5211,6 +5230,8 @@ xiaomisa.net
 xiaomisa.org
 xiaomiwear.com
 xiaomixiaoai.com
+migames.com
+wali.com
 airstarfinance.net
 mipay.com
 duokan.com
