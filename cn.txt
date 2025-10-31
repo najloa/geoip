@@ -889,7 +889,10 @@ jxksw.net
 roomeet.cn
 xinchong.com
 zhuancorp.com
+zhuaninc.com
+zhuanspirit.cn
 zhuanspirit.com
+zhuanstatic.com
 zhuanzhuan.com
 c-ctrip.com
 colinker.com
@@ -2022,6 +2025,7 @@ ruanmei.com
 saayaa.com
 win7china.com
 win8china.com
+zuihuimai.com
 binglianhuajianzhan.com
 ggoplay.com
 ggowan.com
@@ -3405,6 +3409,7 @@ bce-cdn.cn
 bce-cdn.com
 bce-cdn.net
 bcebos.com
+bcelive.com
 bdcloudapi.com
 bdimg.com
 bdstatic.com
@@ -3440,6 +3445,7 @@ tieba.com
 tiebaimg.com
 xianfae.com
 xiaodutv.com
+yoojia.com
 duxiaoman-int.com
 duxiaoman.com
 duxiaomanfintech.com
@@ -5184,6 +5190,7 @@ vivo.cn
 vivo.com
 vivo.com.cn
 vivoglobal.com @!cn
+vvstc.com
 a.market.xiaomi.com @ads
 ad.intl.xiaomi.com @ads
 ad.mi.com @ads
@@ -5318,6 +5325,7 @@ chinatelecom-h.com
 chinatelecom.com.cn
 chinatelecomglobal.com @!cn
 chntel.com
+vnet.cn
 chinatelecomhk.com @!cn
 unicom
 xn--8y0a063a
@@ -5387,6 +5395,8 @@ sinopecgroup.com
 sinopecnews.com.cn
 sinopecsales.com
 aiqicha.baidu.com
+aiqicha.cn
+aiqicha.com
 hongdunwang.com.cn
 qcc.com
 qichacha.com
