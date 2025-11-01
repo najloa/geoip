@@ -76,6 +76,7 @@ httpdns.kwd.inkuai.com @ads
 httpdns.pro @ads
 httpdns.volcengineapi.com @ads
 httpdns.yunxindns.com @ads
+httpdns.zhihu.com @ads
 httpdns.zybang.com @ads
 full:id6.me
 cmpassport.com
@@ -1251,7 +1252,9 @@ mogu.com
 mogucdn.com
 mogujie.com
 pddcdn.com
+pddim.com
 pddpic.com
+pddugc.com
 pinduoduo.com
 pinduoduo.net
 yangkeduo.com
@@ -2188,6 +2191,9 @@ aliyundrive.cloud
 aliyundrive.com
 aliyundrive.net
 yunpan.aliyun.com
+c-t.work
+cowcs.com
+cowtransfer.com
 baidupan.com
 ilanzou.com
 lanosso.com
@@ -2531,8 +2537,6 @@ chinaz.com
 chinaz.net
 caiyunai.com
 caiyunapp.com
-c-t.work
-cowtransfer.com
 dida365.com
 allflow.cn
 flowus.cn
@@ -2980,6 +2984,7 @@ alicloudapi.com
 alidayu.com
 alidns.com
 alikunlun.com
+alikunlun.net
 aliyun-inc.com
 aliyun-iot-share.com
 aliyun.com
@@ -3061,6 +3066,7 @@ uczzd.cn
 56che.com
 95095.com
 9game.cn
+ali-health.com
 aliapp.org
 alibaba-inc.com
 alibaba.com
@@ -4673,6 +4679,7 @@ n.cn
 namiso.com
 nicaifu.com
 nzwgs.com
+qh-cdn.com
 qhcdn.com
 qhimg.com
 qhimgs0.com
