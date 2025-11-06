@@ -10464,6 +10464,12 @@ cursor-cdn.com
 cursor.com
 cursor.sh
 cursorapi.com
+cici.com
+ciciai.com
+ciciaicdn.com
+dola.com
+elevenlabs.com
+elevenlabs.io
 groq.com
 hf.co
 huggingface.co
