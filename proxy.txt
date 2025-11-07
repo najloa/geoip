@@ -9220,6 +9220,7 @@ jules.google
 jules.google.com
 labs.google
 aisandbox-pa.googleapis.com
+aida.googleapis.com
 googleplay.com
 play-fe.googleapis.com
 play-games.googleusercontent.com
