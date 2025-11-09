@@ -10498,6 +10498,8 @@ pplx.ai
 full:pplx-res.cloudinary.com
 coderabbit.ai
 coderabbit.gallery.vsassets.io
+cohere.ai
+cohere.com
 clipdrop.co
 jasper.ai
 chutes.ai
