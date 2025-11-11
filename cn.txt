@@ -1421,6 +1421,13 @@ we4399.com
 webgame163.com
 youba.com
 yxhhdl.com
+bilibiligame.cn
+bilibiligame.co
+bilibiligame.net
+biligame.co
+biligame.com
+biligame.net
+sl916.com
 cowlevel.net
 cdncl.net
 hero.com
@@ -1428,7 +1435,106 @@ herogame.com
 heroesports.com
 shyxhy.com
 yingxiong.com
-supercell.com @!cn
+mhystatic.com
+mhyurl.cn
+mihayo.com
+mihayou.com
+mihoyo.com
+mihoyocg.com
+mihoyogift.com
+mihoyomall.com
+miyoushe.com
+benghuai.com
+bh3.com
+bhsr.com
+themisweeps.com
+yuanshen.com
+juequling.com
+battlecare.net
+gameitop.com
+gameloop.com
+gcloudcs.com
+gcloudcstest.com
+gcloudcstestonly.com
+gclouddolphin.com
+gcloudsdk.com
+gdtimg.com
+goto-game.com
+goto-game.mobi
+goto-game.net.cn
+goto-game.org
+happyhlddz.com
+hdyxgame.com
+hkgcloudcs.com
+ihappystudio.cn
+ihappystudio.com
+in.th
+ludosuperstar.cn
+ludoworld.net
+mahjongai.net
+mahjongcup.cn
+mahjongcup.com
+mahjongcup.net
+metalrevolution.com
+midasbuy.com
+nagcloudcs.com
+proximabeta.com
+pubghelper.com
+pubgno1.cn
+pubgtool.com
+qqgameapp.com
+rmwxgame.com
+skydweller.cn
+syxlgame.com
+tencent-gcloud.com
+tencentstart.com
+texasholdemcup.cn
+texasholdemcup.com
+texasholdemcup.net
+timibase.com
+videoxiaoyouxi.com
+wcbygame.com
+yxdmgame.com
+yximg.cn
+yxwsgame.com
+yzyxgame.com
+zcjbgame.com
+zhuoyuegame.com
+xn--owtw8cc49ajfl.cn
+roblox.cn
+roblox.qq.com
+robloxdev.cn
+nextstudios.com
+nextworkshop.net
+mszdld.cn
+mszdld.com
+mszdld.net
+gamebonfire.com
+gouhuo.qq.com
+ffbuddy.com
+gotolink.net
+gtgres.com
+realcybertron.com
+wegame.com
+wegame.com.cn
+wegameplus.com
+werepository.com.cn
+brawlstars.cn
+haydaypop.cn
+labycore.cn
+sccreator.cn
+sccreators.cn
+scescdn.cn
+scid.cn
+scsentry.cn
+supercellcommunity.cn
+supercellsupport.cn
+codm.com
+bcfmglobal.com
+tcfmglobal.com
+anticheatexpert.com
+17roco.com
+roco.qq.com
 tgbus.com
 tiancity.com
 tiancitycdn.com
@@ -1441,7 +1547,7 @@ tapimg.com
 tapimg.net
 taptap.cn
 taptap.com
-taptap.io
+taptap.io @!cn
 taptapdada.com
 ro.com
 xd.cn
@@ -3473,6 +3579,7 @@ beisenpaas.com
 bsurl.cc
 bsurl.cn
 zhiye.com
+bluepoch.com
 bds.snssdk.com @ads
 byteadverts.com @ads
 ctobsnssdk.com @ads
@@ -5665,116 +5772,9 @@ cloudflareperf.com @cn
 cloudflareprod.com @cn
 cloudflarestaging.com @cn
 cloudflarestoragegw.com @cn
-bilibiligame.cn @cn
-bilibiligame.co @cn
-bilibiligame.net @cn
-biligame.co @cn
-biligame.com @cn
-biligame.net @cn
-sl916.com @cn
 kurogames.com @cn
 aki-game.com @cn
-mhystatic.com @cn
-mhyurl.cn @cn
-mihayo.com @cn
-mihayou.com @cn
-mihoyo.com @cn
-mihoyocg.com @cn
-mihoyogift.com @cn
-mihoyomall.com @cn
-miyoushe.com @cn
-benghuai.com @cn
-bh3.com @cn
-bhsr.com @cn
-themisweeps.com @cn
-yuanshen.com @cn
-juequling.com @cn
 regexp:^.+-mihayo\.akamaized\.net$ @cn
-battlecare.net @cn
-gameitop.com @cn
-gameloop.com @cn
-gcloudcs.com @cn
-gcloudcstest.com @cn
-gcloudcstestonly.com @cn
-gclouddolphin.com @cn
-gcloudsdk.com @cn
-gdtimg.com @cn
-goto-game.com @cn
-goto-game.mobi @cn
-goto-game.net.cn @cn
-goto-game.org @cn
-happyhlddz.com @cn
-hdyxgame.com @cn
-hkgcloudcs.com @cn
-ihappystudio.cn @cn
-ihappystudio.com @cn
-in.th @cn
-ludosuperstar.cn @cn
-ludoworld.net @cn
-mahjongai.net @cn
-mahjongcup.cn @cn
-mahjongcup.com @cn
-mahjongcup.net @cn
-metalrevolution.com @cn
-midasbuy.com @cn
-nagcloudcs.com @cn
-proximabeta.com @cn
-pubghelper.com @cn
-pubgno1.cn @cn
-pubgtool.com @cn
-qqgameapp.com @cn
-rmwxgame.com @cn
-skydweller.cn @cn
-syxlgame.com @cn
-tencent-gcloud.com @cn
-tencentstart.com @cn
-texasholdemcup.cn @cn
-texasholdemcup.com @cn
-texasholdemcup.net @cn
-timibase.com @cn
-videoxiaoyouxi.com @cn
-wcbygame.com @cn
-yxdmgame.com @cn
-yximg.cn @cn
-yxwsgame.com @cn
-yzyxgame.com @cn
-zcjbgame.com @cn
-zhuoyuegame.com @cn
-xn--owtw8cc49ajfl.cn @cn
-roblox.cn @cn
-roblox.qq.com @cn
-robloxdev.cn @cn
-nextstudios.com @cn
-nextworkshop.net @cn
-mszdld.cn @cn
-mszdld.com @cn
-mszdld.net @cn
-gamebonfire.com @cn
-gouhuo.qq.com @cn
-ffbuddy.com @cn
-gotolink.net @cn
-gtgres.com @cn
-realcybertron.com @cn
-wegame.com @cn
-wegame.com.cn @cn
-wegameplus.com @cn
-werepository.com.cn @cn
-brawlstars.cn @cn
-haydaypop.cn @cn
-labycore.cn @cn
-sccreator.cn @cn
-sccreators.cn @cn
-scescdn.cn @cn
-scid.cn @cn
-scsentry.cn @cn
-supercellcommunity.cn @cn
-supercellsupport.cn @cn
-codm.com @cn
-bcfmglobal.com @cn
-tcfmglobal.com @cn
-anticheatexpert.com @cn
-17roco.com @cn
-roco.qq.com @cn
 full:kc.kexinshe.com @cn
 full:ntp.aliyun.com @cn
 full:ntp1.aliyun.com @cn
@@ -5821,4 +5821,3 @@ owsgo.com @cn
 teleows.com @cn
 saasops.tech @cn
 weui.io @cn
-bluepoch.com @cn
