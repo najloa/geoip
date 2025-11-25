@@ -8598,7 +8598,6 @@ facebook30.com
 facebook30.net
 facebook30.org
 facebook4business.com
-facebookads.com
 facebookadvertisingsecrets.com
 facebookatschool.com
 facebookawards.com
@@ -9001,7 +9000,7 @@ sushi.ski
 trpger.us
 threads.com
 threads.net
-ads-twitter.com
+ads-twitter.com @ads
 cms-twdigitalassets.com
 periscope.tv
 pscp.tv
@@ -9187,6 +9186,8 @@ advertiserscommunity.com @ads
 adwords-community.com @ads
 adwords.com @ads
 adwordsexpress.com @ads
+app-analytics-services.com @ads
+app-analytics-services-att.com @ads
 app-measurement-cn.com @ads
 app-measurement.com @ads
 doubleclick-cn.net @ads
@@ -9196,6 +9197,7 @@ doubleclick.net @ads
 google-analytics-cn.com @ads
 google-analytics.com @ads
 googleadapis.com @ads
+googleadapis.l.google.com @ads
 googleads-cn.com @ads
 googleads.com @ads
 googleadservices-cn.com @ads
@@ -9214,9 +9216,13 @@ googletraveladservices-cn.com @ads
 googletraveladservices.com @ads
 googlevads-cn.com @ads
 mail-ads.google.com @ads
+mobileads.google.com @ads
 marketingplatform.google.com @ads
+pagead.l.google.com @ads
+partnerad.l.google.com @ads
 urchin.com @ads
 full:analytics.google.com @ads
+full:fundingchoicesmessages.google.com @ads
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$ @ads
 deepmind.com
 deepmind.google
