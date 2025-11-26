@@ -740,6 +740,9 @@ maixhub.com
 ti.com.cn
 wch.cn
 wch-ic.com
+ymtc.com
+ymtc.com.cn
+ymtc.cn
 autohome.com
 autohome.com.cn
 autohome.tel
@@ -1548,6 +1551,13 @@ xd.cn
 xd.com
 xdcdn.net
 xindong.com
+dobest.com
+langrenclub.com
+sanguosha.com
+xhlsgs.com
+xinwuji.com
+yokaverse.com
+zhuoyou.com
 9xgame.com
 astral-vector.com
 forevernine.com
@@ -1560,6 +1570,9 @@ morefreegame.com
 heavenlywind.cc
 tgpro.top
 tgprocs.net
+tuyoo.com
+wanmei.com
+wmsj.cn
 winegame.net
 wo1wan.com
 ycgame.com
@@ -1811,9 +1824,11 @@ full:log-sdk.gifshow.com @ads
 full:wlog.kuaishou.com @ads
 ecukwai.com
 gifshow.com
+inkuai.com
 inkwai.com
 ksapisrv.com
 kskwai.com
+kuaishou.cn
 kuaishou.com
 kuaishouapps.com
 kuaishoupay.com
@@ -1845,19 +1860,10 @@ kugouyouth.com
 koowo.cn
 koowo.com
 kuwo.cn
-api.game.letvstore.com @ads
+apple.www.letv.com @ads
 ark.letv.com @ads
 dc.letv.com @ads
-fz.letv.com @ads
 g3.letv.com @ads
-letv.allyes.com @ads
-minisite.letv.com @ads
-msg.m.letv.com @ads
-n.mark.letv.com @ads
-pro.hoye.letv.com @ads
-pro.letv.com @ads
-stat.letv.com @ads
-static.app.m.letv.com @ads
 le.com
 leautolink.com
 lecloud.com
@@ -2223,7 +2229,13 @@ cztvcdn.com
 cztvcloud.com
 zjstv.com
 cqcb.com
+cqhlw.cn
+cqliving.com
+cqnews.net
+cqsjb.com
 hntv.tv
+hndt.com
+dianzhenkeji.com
 dgtle.com
 gcores.com
 geekpark.net
@@ -2259,6 +2271,7 @@ yundzh.com
 caixin.com
 news.cn
 xinhuanet.com
+xinhuaxmt.com
 people.cn
 people.com.cn
 huanqiu.com
@@ -3153,6 +3166,7 @@ alihealth.com.cn
 alihealth.hk @!cn
 aliimg.com
 alikmd.com
+alimama.cn
 alimama.com
 alimebot.com
 alimei.com
@@ -3196,6 +3210,7 @@ gongyi.xin
 ialicdn.com
 iconfont.cn
 ics.design
+imgcook.com
 jhgtgb.com
 kanbox.com
 lazada.com
@@ -3218,6 +3233,7 @@ shuqi.com
 shuqireader.com
 sparenode.com
 supet.com
+tanx.com
 ttpod.com
 wandoujia.com
 xin.xin
@@ -3251,6 +3267,7 @@ lingshoujia.com
 mashort.cn
 pailitao.com
 taobao.com
+taobao.net
 taobao.org
 taobaocdn.com
 taobizhong.com
@@ -3264,6 +3281,7 @@ tmall.ru @!cn
 tmalltv.com
 tmjl.ai
 cueme.cn
+myquark.cn
 quark.cn
 alitrip.com
 feizhu.cn
@@ -4372,10 +4390,12 @@ hupun.com.cn
 kata.com.cn
 newniu.com
 wanliniu.com
-iflytek.com
-xunfei.cn
 iflyink.com
 iflyrec.com
+iflysec.com
+iflytek.com
+xfyun.cn
+xunfei.cn
 ets100.com
 zhixue.com
 changyan.com
@@ -4557,6 +4577,8 @@ sentry.music.163.com @ads
 321fenx.com
 haowu.link
 icourse163.org
+lf126.net
+lf127.net
 lofter.com
 nease.net
 netease-inc.com
@@ -5298,9 +5320,6 @@ p2cdn.com
 thundercdn.com
 xycloud.com
 xycdn.com
-ymtc.com
-ymtc.com.cn
-ymtc.cn
 aitcfw.com
 aizgtc.com
 hangzhouyq.cn
