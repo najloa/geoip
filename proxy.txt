@@ -10503,6 +10503,10 @@ coze.com
 marscode.com
 trae.ai
 cerebras.ai
+oystermercury.top
+comfy.org
+comfyci.org
+comfyregistry.org
 cursor-cdn.com
 cursor.com
 cursor.sh

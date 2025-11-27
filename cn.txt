@@ -3243,8 +3243,11 @@ yunos-inc.com
 yunos.com
 yushanfang.com
 zuodao.com
+ae-rus.net @!cn
+aestatic.net @!cn
 aliexpress.com
 aliexpress.ru @!cn
+aliexpress-media.com
 alipayplus.com
 alipay.hk @!cn
 alipaymo.com @!cn
