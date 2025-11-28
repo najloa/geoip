@@ -11288,6 +11288,9 @@ last.fm
 full:lastfm.freetls.fastly.net
 litv.tv
 litvfreepc.akamaized.net
+ofiii.com
+full:ntdofifreepc-tgc.cdn.hinet.net
+full:ntdofifreevcpc-tgc.cdn.hinet.net
 manhuagui.com
 mubi.com
 mubicdn.net
@@ -11465,7 +11468,6 @@ full:p16-tiktokcdn-com.akamaized.net @!cn
 themoviedb.org
 tmdb.org
 full:tmdb-image-prod.b-cdn.net
-thetvdb.com
 dogatch.jp
 gorin.jp
 screens-lab.jp
@@ -11566,7 +11568,6 @@ fireside.fm
 internationalsaimoe.com
 joox.com
 linetv.tw
-litv.tv
 megaphone.fm
 mikanani.me
 moov.hk
