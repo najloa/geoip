@@ -11340,6 +11340,9 @@ nicoseiga.jp
 nicovideo.jp
 nimg.jp
 simg.jp
+playfamily.ru
+okko.sport
+okko.tv
 haiwaikan.com
 iole.tv
 olehd.com
@@ -11468,6 +11471,7 @@ full:p16-tiktokcdn-com.akamaized.net @!cn
 themoviedb.org
 tmdb.org
 full:tmdb-image-prod.b-cdn.net
+thetvdb.com
 dogatch.jp
 gorin.jp
 screens-lab.jp
@@ -11576,7 +11580,6 @@ omobi.cc
 oranum.com
 overcast.fm
 syosetu.com
-thetvdb.com
 weverse.io
 yande.re
 4pcdn.org
