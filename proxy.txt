@@ -10358,6 +10358,7 @@ admetrica.ru
 dzen.ru
 naydex.net
 rostaxi.org
+turbopages.org
 webvisor.com
 webvisor.org
 ya.ru
@@ -10485,9 +10486,11 @@ whatsapp.net
 whatsapp.org
 whatsapp.tv
 whatsappbrand.com
+llama.com
 meta.ai
 meta.com
 grok.com
+grok.x.com
 x.ai
 anthropic.com
 claude.ai
