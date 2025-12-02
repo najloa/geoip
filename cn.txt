@@ -518,6 +518,8 @@ anlaiye.com
 anlaiye.com.cn
 imcoming.com
 imcome.net
+meican.com
+meicanstatic.com
 56laile.com
 800best.cn
 800best.com
@@ -1579,6 +1581,11 @@ wmsj.cn
 winegame.net
 wo1wan.com
 ycgame.com
+aamgame.net
+aamgame.com
+aamgame.mobi
+aamsmart.com
+singworld.net
 ac.fun
 acfun.cn
 acfun.net
@@ -1731,6 +1738,21 @@ funshion.net
 ibidian.com
 jvcsmart.cn
 jvcsmart.com.cn
+full:ads3-normal-hl.zijieapi.com @ads
+full:ads3-normal.zijieapi.com @ads
+full:ads5-normal-hl.zijieapi.com @ads
+full:ads5-normal.zijieapi.com @ads
+full:log3-applog-hl.fqnovel.com @ads
+full:log3-applog.fqnovel.com @ads
+full:log5-applog-hl.fqnovel.com @ads
+full:log5-applog.fqnovel.com @ads
+full:p3-ad-sign.byteimg.com @ads
+full:p6-ad-sign.byteimg.com @ads
+full:p9-ad-sign.byteimg.com @ads
+full:rtlog3-applog-hl.fqnovel.com @ads
+full:rtlog3-applog.fqnovel.com @ads
+full:rtlog5-applog-hl.fqnovel.com @ads
+full:rtlog5-applog.fqnovel.com @ads
 activity-zhendingtech.com
 changdunovel.com
 fanqienovel.com
@@ -1742,9 +1764,9 @@ fanqiesdk.com
 fanqiesdkpic.com
 fanqiesdkstatic.com
 fanqiesdkvod.com
+fqnovel-op.com
 fqnovel.com
 fqnovelim.com
-fqnovel-op.com
 fqnovelop.com
 fqnovelpic.com
 fqnovelstatic.com
@@ -1761,15 +1783,6 @@ qznovelstatic.com
 qznovelvod.com
 full:p3-novel.byteimg.com
 full:p6-novel.byteimg.com
-full:ads3-normal-hl.zijieapi.com @ads
-full:ads5-normal-hl.zijieapi.com @ads
-full:log3-applog-hl.fqnovel.com @ads
-full:log5-applog-hl.fqnovel.com @ads
-full:p3-ad-sign.byteimg.com @ads
-full:p6-ad-sign.byteimg.com @ads
-full:p9-ad-sign.byteimg.com @ads
-full:rtlog3-applog-hl.fqnovel.com @ads
-full:rtlog5-applog-hl.fqnovel.com @ads
 gamersky.com
 click.gamersky.com @ads
 ja.gamersky.com @ads
@@ -1966,6 +1979,11 @@ max-c.com
 maxadmin.cn
 maxjia.com
 xiaoheihe.cn
+xyzfm.space
+xyzfm.link
+xyzcdn.net
+xiaoyuzhoufm.com
+podcast.xyz
 ximalaya.com
 xmcdn.com
 kumiao.com
@@ -2655,6 +2673,10 @@ sunlogin.net
 todesk.com
 asklink.com
 privateapi.xyz
+xedge.cc
+glxcc.net
+xn0.cc
+ganjiangvpn.com
 tower.im
 tritoninfo.net
 xiumi.us
@@ -5362,10 +5384,6 @@ deepepg.com
 kookong.com
 51togic.com
 ezpro.pro
-xedge.cc
-glxcc.net
-xn0.cc
-ganjiangvpn.com
 10099.com.cn
 chn.cn
 ahitv.com
@@ -5462,11 +5480,6 @@ infinitynewtab.com
 inftab.com
 moulem.com
 limestart.cn
-aamgame.net
-aamgame.com
-aamgame.mobi
-aamsmart.com
-singworld.net
 aiqicha.baidu.com
 aiqicha.cn
 aiqicha.com
