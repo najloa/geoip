@@ -1460,6 +1460,7 @@ gcloudcstest.com
 gcloudcstestonly.com
 gclouddolphin.com
 gcloudsdk.com
+gcloudsvcs.com
 gdtimg.com
 goto-game.com
 goto-game.mobi
@@ -2044,6 +2045,7 @@ leigod.com
 tmjiasuqi.com
 uu.163.com
 xunyou.com
+xunyou.mobi
 bohejiasuqi.com
 jiasu.bohe.com
 golink.com
@@ -2330,11 +2332,13 @@ kankanews.com
 kankannews.com
 kksmg.com
 statickksmg.com
+latepost.com
 nanyuenews.com
 nbd.com.cn
 news.cn
 xinhuanet.com
 xinhuaxmt.com
+ofweek.com
 3conline.com
 pconline.com.cn
 people.cn
