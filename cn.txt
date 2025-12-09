@@ -2742,12 +2742,13 @@ allflow.cn
 flowus.cn
 geetest.com
 full:geetest.datasink.sensorsdata.cn
+hanyi.com
+hanyi.com.cn
+fontstar.com.cn
 hellofont.cn
 hellowebfont.com
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
-hanyi.com.cn
-fontstar.com.cn
 intsig.com
 intsig.net
 camscanner.com
@@ -3547,6 +3548,7 @@ pglstatp-snssdk-toutiao.com @ads
 pglstatp-toutiao-b.com @ads
 pglstatp-toutiao.com @ads
 sf3-ttcdn-tos.pstatp.com @ads
+shoppingads.cn @ads
 anycross.com
 blmpb.com
 bytedancehermestest.com
@@ -4090,6 +4092,10 @@ ppximg.com
 ppxstatic.com
 ppxvod.com
 xiaoxiaapi.com
+douyinec.com
+ecombdapi.com
+ecombdstatic.com
+jinritemai.com
 faceu.com
 ulikecam.com
 rsproxy.cn
@@ -4703,9 +4709,6 @@ realmebbs.com
 realmemobile.com
 shopoppo.cn
 shopoppo.com.cn
-75.team
-75team.com
-baomitu.com
 fenxi.com @ads
 lianmeng.360.cn @ads
 mediav.com @ads
@@ -4768,6 +4771,7 @@ yiwanzhushou.com
 360zqaq.com
 anquanke.com
 appjiagu.com
+baomitu.com
 dhsvc.cn
 haoso.com
 haosou.com
