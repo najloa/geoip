@@ -677,6 +677,7 @@ arrow.cn
 boe.com
 boe.com.cn
 bouffalolab.com
+cxmt.com
 esp8266.cn
 esp8266.com
 esp8266.com.cn
@@ -2007,12 +2008,14 @@ xxsy.net
 ldmnq.com
 lsplayer.com
 yeshen.com
-51zmt.top
-bsbsb.top
 17k.com
 3dmgame.com
+51zmt.top
 ali213.net
+baofeng.com
+baofeng.net
 bgwxc.com
+bsbsb.top
 dmzj.com
 muwai.com
 dongqiudi.com
@@ -2295,6 +2298,7 @@ cqliving.com
 cqnews.net
 cqsjb.com
 cs.com.cn
+cyzone.cn
 cztv.com
 cztvcdn.com
 cztvcloud.com
@@ -2304,6 +2308,8 @@ gw.com.cn
 yundzh.com
 dgtle.com
 donews.com
+dzng.com
+dzwww.com
 expreview.com
 freebuf.com
 gcores.com
@@ -2322,6 +2328,7 @@ iresearch.cn
 jianyuweb.com
 wallstcn.com
 wallstreetcn.com
+jiqizhixin.com
 jrj.com.cn
 jrjimg.cn
 jsbc.com
@@ -2345,8 +2352,11 @@ people.cn
 people.com.cn
 pingwest.com
 qbitai.com
+qiluyidian.net
+ql1d.com
 qingdaonews.com
 qianzhan.com
+scsjb.cn
 secrss.com
 sfccn.com
 shangyexinzhi.com
@@ -3121,6 +3131,7 @@ alicdn.com
 alicloudapi.com
 alidayu.com
 alidns.com
+aligfwaf.com
 alikunlun.com
 alikunlun.net
 aliyun-inc.com
@@ -3862,7 +3873,6 @@ bytedance.com
 bytedance.net
 bytedance.org
 bytedanceapi.com
-bytedapm.com
 bytedcdn.com
 bytedeliver.com
 bytedgames.com
@@ -4667,6 +4677,7 @@ static163.net
 ydstatic.com
 yeah.net
 youdao.com
+yunxinfw.com
 zhuanzfx.com
 oneplus.com
 oneplus.cn
@@ -4710,6 +4721,7 @@ realmebbs.com
 realmemobile.com
 shopoppo.cn
 shopoppo.com.cn
+fenxi.360.cn @ads
 fenxi.com @ads
 lianmeng.360.cn @ads
 mediav.com @ads
@@ -4976,6 +4988,7 @@ tcloudhw.com
 tcloudhw.net
 tcloudscdn.com
 tcloudscdn.net
+tdnsstic1.cn
 tdnsx1.com
 techo.chat
 tefscloud.com

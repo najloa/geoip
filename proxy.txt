@@ -10567,6 +10567,8 @@ meta.ai
 mistral.ai
 openart.ai
 openrouter.ai
+collector.github.com @ads
+copilot-telemetry.githubusercontent.com @ads
 npm.community
 npmjs.com
 npmjs.org
@@ -11472,10 +11474,12 @@ full:i.jeded.com
 tidal.com
 tidalhifi.com
 wimpmusic.com
+bytedapm.com @!cn
 byteoversea.com @!cn
 muscdn.com @!cn
 musical.ly @!cn
 tik-tokapi.com @!cn
+tiktok-minis.com @!cn
 tiktok-row.net @!cn
 tiktok.com @!cn
 tiktokcdn-eu.com @!cn
@@ -11496,6 +11500,10 @@ ttlivecdn.com @!cn
 ttoverseaus.net @!cn
 ttwstatic.com @!cn
 full:p16-tiktokcdn-com.akamaized.net @!cn
+full:roovza-launches.appsflyersdk.com @!cn
+full:roovza.inapps.appsflyersdk.com @!cn
+full:roovza.launches.appsflyersdk.com @!cn
+full:roovza.skadsdk.appsflyersdk.com @!cn
 themoviedb.org
 tmdb.org
 full:tmdb-image-prod.b-cdn.net
