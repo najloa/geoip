@@ -22,8 +22,10 @@ kc9.cn
 n0q.cn
 pushcfg.com
 s0n.cn
+aaid.umeng.com @ads
 alog.umeng.com @ads
 alog.umengcloud.com @ads
+utoken.umeng.com @ads
 w.cnzz.com @ads
 z.gds.cnzz.com @ads
 cnzz.com
@@ -2946,6 +2948,8 @@ duowan.com
 dwstatic.com
 yy.com
 yystatic.com
+crash2.zhihu.com @ads
+zhihu-web-analytics.zhihu.com @ads
 zhihu.com
 zhimg.com
 tieba.baidu.com
@@ -3076,6 +3080,11 @@ alibaba
 alipay
 taobao
 tmall
+adashx.ut.amap.com @ads
+dualstack-logs.amap.com @ads
+logs.amap.com @ads
+optimus-ads.amap.com @ads
+v6-adashx.ut.amap.com @ads
 ad.api.3g.youku.com @ads
 ad.api.mobile.youku.com @ads
 ad.mobile.youku.com @ads
@@ -3107,7 +3116,6 @@ adash.man.aliyuncs.com @ads
 adashbc.m.taobao.com @ads
 adashbc.ut.taobao.com @ads
 adashx.m.taobao.com @ads
-adashx.ut.amap.com @ads
 adashx.ut.ele.me @ads
 adashx4ae.ut.taobao.com @ads
 adashx4yt.m.taobao.com @ads
@@ -3135,7 +3143,6 @@ retcode.taobao.com @ads
 tce.alicdn.com @ads
 tns.simba.taobao.com @ads
 track.lc.quark.cn @ads
-v6-adashx.ut.amap.com @ads
 v6-adashx.ut.cainiao.com @ads
 v6-adashx.ut.ele.me @ads
 v6-adashx.ut.taobao.com @ads
@@ -5249,6 +5256,7 @@ adsview.qq.com @ads
 adsview2.qq.com @ads
 adv.app.qq.com @ads
 adver.qq.com @ads
+badjs.weixinbridge.com @ads
 beacon.cdn.qq.com @ads
 beacon.qq.com @ads
 beaconcdn.qq.com @ads
