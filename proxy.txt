@@ -2132,6 +2132,8 @@ nudevista.com
 nudevista.es
 nudevista.net
 nudevista.vip
+full:ad-channel.diwodiwo.xyz @ads
+full:ad-display.diwodiwo.xyz @ads
 bikaa.xyz
 bikac.xyz
 bikaios.xyz
@@ -2142,9 +2144,7 @@ picacn.xyz
 picacomic.com
 picacomic.xyz
 wikawika.xyz
-regexp:^([a-z0-9-]+\.)*(?!ad-display\.|ad-channel\.)[a-z0-9-]+\.diwodiwo\.xyz$
-ad-channel.diwodiwo.xyz @ads
-ad-display.diwodiwo.xyz @ads
+diwodiwo.xyz
 playboy.com
 playboy.com.uk
 pornpros.com
@@ -2178,13 +2178,18 @@ theporndude.vip
 60plusmilfs.com
 analqts.com
 ashleysageellison.com
+asiancoochies.com
 autumn-jade.com
 beascoremodel.com
+bigboobalexya.com
 bigboobbundle.com
+bigboobdaria.com
 bigboobspov.com
+bigboobvanessay.com
 bigtitangelawhite.com
 bigtithitomi.com
 bigtithooker.com
+bigtitkatiethornton.com
 bigtitterrynova.com
 bigtitvenera.com
 blackandstacked.com
@@ -2197,11 +2202,13 @@ bustydustystash.com
 bustyinescudna.com
 bustykellykay.com
 bustykerrymarie.com
+bustylezzies.com
 bustylornamorgan.com
 bustymerilyn.com
 bustyoldsluts.com
 bustysammieblack.com
 cherrybrady.com
+chicksonblackdicks.com
 chloesworld.com
 christymarks.com
 cock4stepmom.com
@@ -2211,6 +2218,7 @@ crystalgunnsworld.com
 daylenerio.com
 desiraesworld.com
 dianepoppos.com
+ebonythots.com
 eboobstore.com
 evanottyvideos.com
 feedherfuckher.com
@@ -2219,14 +2227,19 @@ getscorecash.com
 grannygetsafacial.com
 grannylovesbbc.com
 grannylovesyoungcock.com
+hairycoochies.com
 homealonemilfs.com
+hornyasianmilfs.com
 ibonedyourmom.com
 ifuckedtheboss.com
+jessicaturner.co.uk
 jessicaturner.com
 joanabliss.com
 juliamiles.com
 karinahart.com
 karlajames.com
+latinacoochies.com
+latinmommas.com
 leannecrowvideos.com
 legsex.com
 linseysworld.com
@@ -2247,6 +2260,7 @@ pickinguppussy.com
 pornloser.com
 pornmegaload.com
 reneerossvideos.com
+roxired.com
 sarennasworld.com
 scoreclassics.com
 scoregroup.com
@@ -9277,7 +9291,6 @@ pagead.l.google.com @ads
 partnerad.l.google.com @ads
 urchin.com @ads
 full:analytics.google.com @ads
-full:fundingchoicesmessages.google.com @ads
 regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$ @ads
 deepmind.com
 deepmind.google
