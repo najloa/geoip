@@ -3441,6 +3441,7 @@ lydaas.net
 lydass.cn
 lydass.com.cn
 lydass.net
+syh.zybang.com @ads
 adscdn.baidu.com @ads
 adx.xiaodutv.com @ads
 afd.baidu.com @ads
