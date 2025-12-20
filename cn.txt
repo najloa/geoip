@@ -53,6 +53,8 @@ umsns.com
 umtrack.com
 uyunad.com
 whalecloud.com
+askdiandian.com
+diandianlife.top
 deepseek.com
 butterfly-static.cn
 butterflyai.cn
@@ -2615,6 +2617,10 @@ cugbonline.cn
 dearedu.com
 dgjy.net
 eduei.com
+ictbda.cn
+ictbda.com
+modex.com.cn
+xir.cn
 j-test.com
 nattest-china.com
 keboyunxiao.com
@@ -2686,6 +2692,7 @@ ancientbooks.cn
 apabi.com
 bjinfobank.com
 blyun.com
+medalink.cn
 chinabooktrading.com
 cidp.com.cn
 cnbksy.com
@@ -2962,6 +2969,7 @@ weibocdn.com
 xhaiwai.com
 xhscdn.com
 xhscdn.net
+xhslink.com
 xiaohongshu.com
 duowan.com
 dwstatic.com
@@ -5390,8 +5398,12 @@ ad1.xiaomi.com @ads
 admob.xiaomi.com @ads
 adv.sec.intl.miui.com @ads
 adv.sec.miui.com @ads
+data.mistat.india.xiaomi.com @ads
+data.mistat.intl.xiaomi.com @ads
+data.mistat.rus.xiaomi.com @ads
+data.mistat.xiaomi.com @ads
+logupdate.avlyun.sec.miui.com @ads
 misc.in.duokanbox.com @ads
-mistat.xiaomi.com @ads
 sentry.d.mi.com @ads
 sentry.d.xiaomi.net @ads
 tjqonline.cn @ads
