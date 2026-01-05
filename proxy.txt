@@ -8522,9 +8522,9 @@ maintracker.org
 rutracker.cc
 rutracker.cr
 rutracker.me
+rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 soyjak.party
 soyjak.st
@@ -9308,6 +9308,7 @@ full:alkalimakersuite-pa.clients6.google.com
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 generativeai.google
 makersuite.google.com
+ai.studio
 aistudio.google.com
 bard.google.com
 gemini.google
