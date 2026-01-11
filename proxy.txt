@@ -2132,8 +2132,6 @@ nudevista.com
 nudevista.es
 nudevista.net
 nudevista.vip
-full:ad-channel.diwodiwo.xyz @ads
-full:ad-display.diwodiwo.xyz @ads
 bikaa.xyz
 bikac.xyz
 bikaios.xyz
@@ -2145,6 +2143,8 @@ picacomic.com
 picacomic.xyz
 wikawika.xyz
 diwodiwo.xyz
+full:ad-channel.diwodiwo.xyz @ads
+full:ad-display.diwodiwo.xyz @ads
 playboy.com
 playboy.com.uk
 pornpros.com

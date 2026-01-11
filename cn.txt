@@ -2209,6 +2209,7 @@ zggbdszt.cn
 zggbdszt.com.cn
 zggbdszt.net.cn
 zygbdszt.net.cn
+ad.cctv.com @ads
 chinanews.com
 chinanews.com.cn
 cns.com.cn
@@ -2884,6 +2885,7 @@ tendcloud.com
 talkingdata.com
 talkinggame.com
 cpatrk.net
+tdsdk.cpatrk.net @ads
 vaptcha.com
 vaptcha.net
 hf-aw.cn
@@ -3005,10 +3007,10 @@ duowan.com
 dwstatic.com
 yy.com
 yystatic.com
-crash2.zhihu.com @ads
-zhihu-web-analytics.zhihu.com @ads
 zhihu.com
 zhimg.com
+crash2.zhihu.com @ads
+zhihu-web-analytics.zhihu.com @ads
 tieba.baidu.com
 tieba.com
 dandan818.com
@@ -3622,12 +3624,15 @@ bsurl.cc
 bsurl.cn
 zhiye.com
 bluepoch.com
+ad.toutiao.com @ads
+analytics.tiktok.com @ads
 bds.snssdk.com @ads
 byteadverts.com @ads
 ctobsnssdk.com @ads
 dig.bdurl.net @ads
 extlog.snssdk.com @ads
 i.snssdk.com @ads
+log.zijieapi.com @ads
 mcs.snssdk.com @ads
 pangolin-dsp-toutiao-b.com @ads
 pangolin-dsp-toutiao.com @ads
@@ -5336,6 +5341,7 @@ pgdt.gtimg.cn @ads
 pingjs.qq.com @ads
 pmir.3g.qq.com @ads
 push.qq.com @ads
+qqdata.ab.qq.com @ads
 report.qqweb.qq.com @ads
 rmonitor.qq.com @ads
 sngmta.qq.com @ads
@@ -5344,6 +5350,7 @@ tajs.qq.com @ads
 tcss.qq.com @ads
 tmead.y.qq.com @ads
 tmeadcomm.y.qq.com @ads
+tpstelemetry.tencent.com @ads
 trace.qq.com @ads
 ugdtimg.com @ads
 wit.qq.com @ads
