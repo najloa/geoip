@@ -2084,9 +2084,11 @@ gcores.com
 ign.com.cn
 nadianshi.com
 news.yxrb.net
+shoutanjjj.com
 ucg.cn
 youxichaguan.com
 youxiputao.com
+youxituoluo.com
 yystv.cn
 leigod.cn
 leigod.com
@@ -2789,28 +2791,29 @@ ifdian.net
 agora.io
 agoraio.cn
 agoralab.co
+asklink.com
+easytier.cn
 oray.com
 oray.net
 orayer.com
 orayimg.com
 sunlogin.net
+privateapi.xyz
 todesk.cn
 todesk.com
-asklink.com
-privateapi.xyz
 xedge.cc
 glxcc.net
 xn0.cc
 ganjiangvpn.com
+nlark.com
+yuque.com
+shimo.im
+shimonote.com
+smgv.cn
 tower.im
 tritoninfo.net
 xiumi.us
 xiumius.com
-shimo.im
-shimonote.com
-smgv.cn
-nlark.com
-yuque.com
 woodo.cn
 doc88.com
 docin.com
@@ -4812,6 +4815,7 @@ realmebbs.com
 realmemobile.com
 shopoppo.cn
 shopoppo.com.cn
+c.sayhi.360.cn @ads
 fenxi.360.cn @ads
 fenxi.com @ads
 lianmeng.360.cn @ads
@@ -5302,6 +5306,7 @@ rumt-us.com @!cn
 ad.browser.qq.com @ads
 ad.qq.com @ads
 ad.qun.qq.com @ads
+ad.tencentmusic.com @ads
 ad.weixin.qq.com @ads
 adfilter.imtt.qq.com @ads
 adnet.qq.com @ads
@@ -5343,6 +5348,7 @@ pmir.3g.qq.com @ads
 push.qq.com @ads
 qqdata.ab.qq.com @ads
 report.qqweb.qq.com @ads
+report.tencentmusic.com @ads
 rmonitor.qq.com @ads
 sngmta.qq.com @ads
 stat.y.qq.com @ads
@@ -5421,6 +5427,16 @@ fymallqa3.com
 fymallqa4.com
 fymallqa7.com
 fymallqa9.com
+tdnsdl1.cn
+tdnsdl1.com.cn
+tdnsdl2.cn
+tdnsdl2.com.cn
+tdnsdl3.cn
+tdnsdl3.com.cn
+tdnsdl4.cn
+tdnsdl4.com.cn
+tdnsdl5.cn
+tdnsdl5.com.cn
 thtf.com.cn
 tongfangpc.com
 mechrevo.com
