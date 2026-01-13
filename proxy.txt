@@ -9315,6 +9315,11 @@ aistudio.google.com
 bard.google.com
 gemini.google
 gemini.google.com
+full:cloudaicompanion.googleapis.com
+full:cloudcode-pa.googleapis.com
+full:daily-cloudcode-pa.googleapis.com
+full:notebooklm-pa.googleapis.com
+full:notebooklm.googleapis.com
 notebooklm.google
 notebooklm.google.com
 jules.google
@@ -9325,6 +9330,10 @@ aisandbox-pa.googleapis.com
 aida.googleapis.com
 opal.google
 opal.google.com
+full:antigravity-pa.googleapis.com
+full:antigravity.googleapis.com
+antigravity.google
+antigravity-unleash.goog
 googleplay.com
 play-fe.googleapis.com
 play-games.googleusercontent.com
