@@ -2067,6 +2067,7 @@ miaopai.com
 motie.com
 motieimg.com
 pearvideo.com
+pipi.cn
 sfacg.com
 shuhai.com
 tadu.com
@@ -3029,6 +3030,7 @@ dandan818.com
 dandanvoice.com
 maimai.cn
 taou.com
+zsxq.com
 aixcoder.com
 nnthink.com
 apifox.cn
@@ -5583,6 +5585,7 @@ migu.cn
 migucloud.com
 migufun.com
 miguvideo.com
+cmft.com.cn
 cmcc-cs.cn
 online-cmcc.cn
 andfx.cn
