@@ -238,13 +238,16 @@ yiyaojd.com
 yizhitou.com
 imdada.cn
 duolabao.com
+amazonprimevideo.cn @cn
+amazonprimevideo.com.cn @cn
+ggpht.cn @cn
+licdn.cn @cn
+linkedin.cn @cn
 thetype.cloud @cn
 etnet.com.cn @cn
 etnetchina.com.cn @cn
 cn-cdn1.skymansion.net @cn
 tvbc.com.cn @cn
-licdn.cn @cn
-linkedin.cn @cn
 full:firebase-settings.crashlytics.com @cn
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$ @cn
 regexp:^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$ @cn
@@ -256,23 +259,5 @@ full:o.pki.goog @cn
 full:crl.pki.goog @cn
 full:crls.pki.goog @cn
 full:ocsp.pki.goog @cn
-ggpht.cn @cn
 yahoo.cn @cn
 yahoo.com.cn @cn
-csgo.wmsj.cn @cn
-dota2.wmsj.cn @cn
-wmsjsteam.com @cn
-client-update.queniuqe.com @cn
-dl.steam.clngaa.com @cn
-st.dl.bscstorage.net @cn
-st.dl.eccdnx.com @cn
-st.dl.pinyuncloud.com @cn
-steampowered.com.8686c.com @cn
-steamstatic.com.8686c.com @cn
-full:alibaba.cdn.steampipe.steamcontent.com @cn
-full:lv.queniujq.cn @cn
-full:xz.pphimalayanrt.com @cn
-steamchina.com @cn
-gstore.val.manlaxy.com @cn
-amazonprimevideo.cn @cn
-amazonprimevideo.com.cn @cn
