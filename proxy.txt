@@ -2111,6 +2111,7 @@ creamasia.com
 creamlemon.info
 creampieforgranny.com
 cricketcountry.com
+crixet.com
 crocotube.com
 crossmediapanel.com
 crowdtangle.com
@@ -4027,7 +4028,7 @@ full:o4504926511693824.ingest.sentry.io @ads
 full:ocsp.pki.goog @cn
 full:openaiapi-site.azureedge.net
 full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-full:openaicom.imgix.net @ads
+full:openaicom.imgix.net
 full:openaicomproductionae4b.blob.core.windows.net
 full:p16-tiktokcdn-com.akamaized.net @!cn
 full:pagead-googlehosted.l.google.com @cn
