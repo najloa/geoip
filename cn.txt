@@ -483,6 +483,7 @@ ads.sina.com @ads
 ads.sohu.com @ads
 ads.uc.cn @ads
 ads.union.jd.com @ads
+ads.unitychina.cn @ads
 adscdn.baidu.com @ads
 adsclick.qq.com @ads
 adserviceretry.kglink.cn @ads
@@ -5475,6 +5476,8 @@ speedtestbb.hk.chinamobile.com @!cn
 speedws.info
 speedws.org
 speiyou.com
+splash-ads.cdn.unity.cn @ads
+splash-ads.unitychina.cn @ads
 springtour.com
 sq.cc
 sqqnh.cn
@@ -6026,6 +6029,7 @@ u.tools
 u17.com
 u17i.com
 u17t.com
+u3d.cn
 ubmcvideo.baidustatic.com @ads
 ubssdic.com
 ubuntukylin.com
@@ -6107,6 +6111,10 @@ unionpayintl.com
 unionpaysecure.com
 uniontech.cn
 uniontech.com
+unity.cn
+unityads.unity.cn @ads
+unityads.unitychina.cn @ads
+unitychina.cn
 uoj.ac
 uoko.com
 uonline-sh.com
@@ -7031,6 +7039,7 @@ zjgslb.com
 zjstv.com
 zjytxd.cn
 zjytxp.cn
+zjzs.net
 zjzsa.com
 zlfund.cn
 zmengzhu.com
