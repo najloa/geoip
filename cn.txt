@@ -2083,6 +2083,7 @@ dewuyouhui.com
 dfcfw.com
 dfham.com
 dfkhgj.com
+dfyun.com.cn
 dfzq.com.cn
 dginfo.com
 dgjy.net
@@ -2129,6 +2130,7 @@ dji.com
 dji.ink
 dji.net
 djicdn.com
+djigate.com
 djiits.com
 djiops.com
 djiservice.org
@@ -2437,6 +2439,7 @@ fadfunds.com
 falconsending.com
 faloo.com
 famulei.com
+fanfou.com
 fang.com
 fangxiaoer.com
 fanli.com
@@ -4842,6 +4845,7 @@ pb.i.sogou.com @ads
 pc6.com
 pcbeta.com
 pchome.net
+pchpic.net
 pconline.com.cn
 pcpop.com
 pddcdn.com
@@ -6525,6 +6529,7 @@ xa-bank.com
 xafc.com
 xbext.com
 xbiao.com
+xcc.cn
 xcsc.com
 xd.cn
 xd.com
@@ -6608,6 +6613,7 @@ xiguavideo.cn
 xiguavideo.net
 ximalaya.com
 xin.xin
+xinchacha.com
 xinchong.com
 xindong.com
 xinghuo.xfyun.cn
