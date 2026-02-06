@@ -4000,6 +4000,7 @@ full:licdn.cn.cdn20.com
 full:linear-abematv.akamaized.net
 full:link.theplatform.com
 full:linkedin.sc.omtrdc.net
+full:live-patreon-marketing.pantheonsite.io
 full:logger-dev.corp.google.com @cn
 full:logger.corp.google.com @cn
 full:login.corp.google.com @cn
@@ -6659,6 +6660,8 @@ mansurfer.com
 mantan-web.jp
 mantochichi.com
 manurefetish.com
+manus.im
+manuscdn.com
 manytoon.com
 manyvids.com
 maomi-shipin.com
@@ -7777,6 +7780,9 @@ paskoocheh.com
 passion-hd.com
 passion.com
 passiontimes.hk
+patreon.com
+patreoncommunity.com
+patreonusercontent.com
 paxlicense.org
 payhulu.com
 payserve.com
