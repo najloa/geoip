@@ -1,3 +1,4 @@
+0033.cn
 00cdn.com
 0123456789.com
 0379home.com
@@ -2314,6 +2315,7 @@ e.kuaishou.com @ads
 e.qq.com @ads
 e.stat.ykimg.com @ads
 e0n.cn
+easebar.com @!cn
 easec.com.cn
 easesale.com
 easiu.com
@@ -3038,6 +3040,8 @@ heroesports.com
 herogame.com
 herostart.com
 heweather.net
+hexin.cn
+hexin.com.cn
 hexun.com
 heytap.com
 heytapcs.com
@@ -3714,6 +3718,7 @@ jikecdn.com
 jikeiot.cloud
 jikexueyuan.com
 jikipedia.com
+jin10.com
 jindidata.com
 jingdong.com
 jingdongjinrong.com

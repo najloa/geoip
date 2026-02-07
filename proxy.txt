@@ -2006,6 +2006,8 @@ cockofhorse.com
 cocksuckersguide.com
 cocktailsandcocktalk.com
 cockyboys.com
+codeium.com
+codeiumdata.com
 coderabbit.ai
 coderabbit.gallery.vsassets.io
 codespot.com
@@ -4209,6 +4211,7 @@ full:www.gstatic.com @cn
 full:www.pxcc.com @cn
 full:www.recaptcha.net @cn
 full:xn--flw351e.com @cn
+full:yandex-pogoda.static-storage.net
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
 fullbookmm.blogspot.com
@@ -10790,6 +10793,8 @@ wildfreevideos.com
 wildxxxhardcore.com
 willyporn.com
 wimpmusic.com
+windsurf.build
+windsurf.com
 wink.ru
 winning11.com
 winticket.jp
