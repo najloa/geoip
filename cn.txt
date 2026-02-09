@@ -5,6 +5,7 @@
 055110.com
 05sun.com
 0759job.com
+100.me
 10010.com
 10010.com.cn
 10044.cn
@@ -2044,10 +2045,17 @@ dcloudstc.net
 dcloudvod.com
 dcloudvod.net
 dd373.com
+ddcorp.net
+ddfresh.net
 ddimg.cn
+ddimg.mobi
+ddmaicai.net
+ddmc.mobi
 ddmogo.com
 ddooo.com
 ddurl.to
+dduser.mobi
+ddxq.mobi
 dearedu.com
 debugmode.cn
 dedecms.com
@@ -3460,6 +3468,7 @@ im-cc.com
 im2maker.com
 im9.com
 imacos.top
+imaicai.mobi
 imc-oneaccess.cn
 imcapptest.com
 imcome.net
@@ -3905,6 +3914,7 @@ kgimg.com
 kglink.cn
 kidsccshow.com
 kimg.cn
+kimi.com
 kimiss.com
 kingdee.com
 kinghomechina.com
@@ -4285,6 +4295,8 @@ m-adash.m.taobao.com @ads
 m-now.cn
 m.aty.sohu.com @ads
 m1.run
+m1905.cn
+m1905.com
 m6.run
 m9.run
 ma.run
@@ -4487,6 +4499,7 @@ monitor.music.qq.com @ads
 monitor.uu.qq.com @ads
 mooc.cn
 moocollege.com
+moonshot.ai
 moonshot.cn
 moonvy.com
 moonvy.cool
@@ -4519,6 +4532,8 @@ mszdld.com
 mszdld.net
 mszq.com
 mti100.com
+mtime.cn
+mtime.com
 mtrace.qq.com @ads
 mtyun.com
 mukewang.com
@@ -4893,6 +4908,7 @@ pingan.com.cn
 pingan.com.hk @!cn
 pingcap.cn
 pingcap.com
+pingcode.com
 pingjs.qq.com @ads
 pingplusplus.com
 pingwest.com
@@ -6617,6 +6633,7 @@ xiguashipin.cn
 xiguashipin.net
 xiguavideo.cn
 xiguavideo.net
+xilu.com
 ximalaya.com
 xin.xin
 xinchacha.com
