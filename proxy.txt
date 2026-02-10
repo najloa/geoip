@@ -764,6 +764,8 @@ analscreen.com
 analtime.org
 analvids.com
 analytics-alv.google.com @ads
+analytics.facebook.com @ads
+analytics.tiktok.com @!cn @ads
 ancensored.com
 android
 android.com
@@ -1918,9 +1920,9 @@ chwr7s8u.com
 chyoa.com
 ci-en.jp
 ci-en.net
-cici.com
-ciciai.com
-ciciaicdn.com
+cici.com @!cn
+ciciai.com @!cn
+ciciaicdn.com @!cn
 cindymovies.com
 cinemax.com
 cinepornogratis.com
@@ -2091,7 +2093,7 @@ cosplayworld.net
 cougarsexmovies.com
 couplecam.co.uk
 couriermail.com.au
-coze.com
+coze.com @!cn
 cp44.net
 cpz.to
 crabporn.com
@@ -2511,7 +2513,7 @@ dojindb.net
 dojinmanga.net
 dojinwatch.com
 dokusho-ojikan.jp
-dola.com
+dola.com @!cn
 domywife.com
 donatecarsoh.org
 donga.com
@@ -3033,6 +3035,7 @@ facebook30.com
 facebook30.net
 facebook30.org
 facebook4business.com
+facebookads.com @ads
 facebookadvertisingsecrets.com
 facebookappcenter.info
 facebookappcenter.net
@@ -3811,8 +3814,10 @@ full:2mdn.net @cn
 full:abematv.akamaized.net
 full:ad-channel.diwodiwo.xyz @ads
 full:ad-display.diwodiwo.xyz @ads
+full:adeventtracker.spotify.com @ads
 full:admob-cn.com @cn
 full:adservice.google.com @cn
+full:adstudio-assets.scdn.co @ads
 full:ai.google.dev
 full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
@@ -3849,6 +3854,7 @@ full:beacons.gcp.gvt2.com @cn
 full:beacons.gvt2.com @cn
 full:beacons2.gvt2.com @cn
 full:beacons3.gvt2.com @cn
+full:bloodhound.spotify.com @ads
 full:browser-intake-datadoghq.com @ads
 full:c.admob.com @cn
 full:c.android.clients.google.com @cn
@@ -6675,7 +6681,7 @@ marketingplatform.google.com @ads
 marketwatch.com
 markzuckerberg.com
 marranazas.com
-marscode.com
+marscode.com @!cn
 marvel.com
 marvel10thanniversary.com
 marveldimensionofheroes.com
@@ -7943,6 +7949,7 @@ pirouvr.com
 pittpatt.com
 pixanalytics.com
 pixate.com
+pixel.facebook.com @ads
 pixeldrain.com
 pixfs.net
 pixhost.to
@@ -8829,7 +8836,6 @@ regexp:(^|\.)zy[0-9]{4}\.top$
 regexp:(^|\.)zztt[1-6][0-9]\.com$
 regexp:(^|\.)zzz[1-9][0-9]\.top$
 regexp:^[0-9]+vod-adaptive\.akamaized\.net$
-regexp:^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$ @ads
 regexp:^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
 regexp:^ewcdn[0-9]+\.nowe\.com$
 regexp:^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
@@ -10096,7 +10102,7 @@ toy-people.com
 tpornstars.com
 tr.com
 tra-ww000-cp.akamaized.net
-trae.ai
+trae.ai @!cn
 tranny.one
 trannygem.com
 trannytube.tv
@@ -10687,7 +10693,7 @@ webcitation.org
 webgata.net
 webgirlsonline.net
 webmproject.org
-webnovel.com
+webnovel.com @!cn
 webpkgcache.com
 webrtc.org
 webvisor.com

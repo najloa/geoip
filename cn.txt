@@ -465,6 +465,7 @@ adashx.ut.youku.com @ads
 adashx4ae.ut.taobao.com @ads
 adashx4yt.m.taobao.com @ads
 adashxgc.ut.taobao.com @ads
+adbehavior.ximalaya.com @ads
 adbkwai.com @ads
 adbox.sina.com.cn @ads
 adfilter.imtt.qq.com @ads
@@ -479,6 +480,9 @@ adnet.sohu.com @ads
 adping.qq.com @ads
 adpm.app.qq.com @ads
 ads-union.jd.com @ads
+ads-uo.api.leiniao.com @ads
+ads-ut.api.leiniao.com @ads
+ads.api.my7v.com @ads
 ads.music.126.net @ads
 ads.service.kugou.com @ads
 ads.sina.com @ads
@@ -488,6 +492,8 @@ ads.union.jd.com @ads
 ads.unitychina.cn @ads
 adscdn.baidu.com @ads
 adsclick.qq.com @ads
+adse.wsa.ximalaya.com @ads
+adse.ximalaya.com @ads
 adserviceretry.kglink.cn @ads
 adserviceretry.kugou.com @ads
 adsfile.qq.com @ads
@@ -586,7 +592,7 @@ alibaba.com
 alibabacapital.com
 alibabachengdun.com
 alibabacloud.co.in @!cn
-alibabacloud.com
+alibabacloud.com @!cn
 alibabacloud.com.au @!cn
 alibabacloud.com.hk @!cn
 alibabacloud.com.my @!cn
@@ -601,7 +607,7 @@ alibabaplanet.com
 alibabaued.com
 alibabausercontent.com
 alicdn.com
-alicloud.com
+alicloud.com @!cn
 alicloudapi.com
 alicloudccp.com
 alidayu.com
@@ -689,7 +695,7 @@ amzndns-cn.com @cn
 amzndns-cn.net @cn
 analog.com
 analytics.163.com @ads
-analytics.tiktok.com @ads
+analytics.tiktok.com @!cn @ads
 anav.com
 ancientbooks.cn
 andfx.cn
@@ -1600,6 +1606,9 @@ cib.com.cn
 cibntv.net
 cicc.com
 ciccwm.com
+cici.com @!cn
+ciciai.com @!cn
+ciciaicdn.com @!cn
 cidp.com.cn
 cignacmb-ipmi.com
 cignacmb.com
@@ -1832,6 +1841,7 @@ cowcs.com
 cowlevel.net
 cowtransfer.com
 coze.cn
+coze.com @!cn
 coze.site
 cozebaas.cn
 cozefn.cn
@@ -2195,6 +2205,7 @@ dogedoge.com
 doh.iqiyi.com @ads
 doh.ptqy.gitv.tv @ads
 doh.pub
+dola.com @!cn
 donews.com
 dongao.com
 dongchedi.com
@@ -2431,6 +2442,7 @@ eu-west-0.myhuaweicloud.com @!cn
 eu-west-1.myhuaweicloud.com @!cn
 eu-west-101.myhuaweicloud.com @!cn
 eu-west-201.myhuaweicloud.com @!cn
+euads-o.api.leiniao.com @ads
 everbright.com
 ewww.com.cn
 excelhome.net
@@ -3150,7 +3162,7 @@ htcases.com
 hteacher.net
 htjsq.com
 htjsq.mobi
-htrace.wetvinfo.com @ads
+htrace.wetvinfo.com @!cn @ads
 htsc.com.cn
 htsec.com
 httpdns-api.aliyuncs.com @ads
@@ -3278,6 +3290,7 @@ hupun.com.cn
 huxiu.com
 huxiucdn.com
 huya.com
+hwads-t.api.my7v.com @ads
 hwastro.cn
 hwastro.com
 hwccpc.cn
@@ -4227,6 +4240,7 @@ lnlib.net
 local-ip.online
 lofter.com
 lofter.httpdns.c.163.com @ads
+log-upload.mihoyo.com @ads
 log.hunantv.com @ads
 log.mix.sina.com.cn @ads
 log.sina.cn @ads
@@ -4330,6 +4344,7 @@ maoyuncloud.com
 mapbar.com
 marketing.alibaba.com @ads
 marscode.cn
+marscode.com @!cn
 marscode.com.cn
 mashort.cn
 matpool.com
@@ -4555,6 +4570,7 @@ my-kualalumpur-1.myhuaweicloud.com @!cn
 my-qcloud.com
 my.weibo.com @!cn
 my4399.com
+my7v.com
 myalicdn.com
 myapp.com
 mybank.cn
@@ -5172,6 +5188,7 @@ realcybertron.com
 realme.com
 realmebbs.com
 realmemobile.com
+redelight.cn
 redmagic.com
 rednotecdn.com
 regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$ @cn
@@ -5798,6 +5815,7 @@ tendis.net
 tenpay.com
 tenxcloud.com
 test-cignacmb.com
+testads.api.my7v.com @ads
 testjrzk.net.cn
 testmeet.cn
 testplus.cn
@@ -5997,6 +6015,7 @@ tracker.ai.xiaomi.com @ads
 tracker.xiaomixiaoai.com @ads
 tracking.miui.com @ads
 tracup.com
+trae.ai @!cn
 trae.cn
 trae.com.cn
 trae.guru
@@ -6390,6 +6409,7 @@ webank.com
 webankcdn.net
 webgame163.com
 webmasterhome.cn
+webnovel.com @!cn
 webterren.com
 wechat.com
 wechatpay.cn
@@ -6569,6 +6589,7 @@ xhlsgs.com
 xhscdn.com
 xhscdn.net
 xhslink.com
+xhsrcdn.com
 xiachufang.com
 xiamai.net
 xiamenair.com
@@ -6935,6 +6956,7 @@ yytcdn.com
 yzcdn.cn
 yzyxgame.com
 z-bank.com
+z.ai
 z.gds.cnzz.com @ads
 z28j.com
 z95rr.cn
@@ -7011,6 +7033,7 @@ zhiliaowenda.com.cn
 zhimg.com
 zhipin.com
 zhipuai.cn
+zhipucn.com
 zhisheng.com
 zhixue.com
 zhiye.com
