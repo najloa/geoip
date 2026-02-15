@@ -1101,6 +1101,7 @@ boe.com.cn
 bohejiasuqi.com
 bojianger.com
 bokecc.com
+boohee.com
 boosj.com
 bootcdn.cn
 bootcdn.net
@@ -2020,6 +2021,7 @@ data.mistat.xiaomi.com @ads
 data.pharmacodia.com
 dataeye.com
 datasea.cn
+datayi.cn
 daton.com.cn
 dayainfo.com
 dayin8.com
@@ -2849,6 +2851,7 @@ giftatdw.cn
 giftatdw.com
 giftattoday.com
 gijsq.com
+gio.ren
 giocdn.com
 gitbook.cn
 gitchat.cn
@@ -2918,6 +2921,8 @@ gree.com
 gree.com.cn
 greenxiazai.com
 greeyun.com
+growin.cn
+growingio.cn
 growingio.com
 growthsharebounce.cn
 growthsharequestion.cn
@@ -3008,6 +3013,7 @@ hao123.com
 hao123img.com
 hao123union.baidu.com @ads
 hao222.com
+haodf.com
 haofenshu.com
 haohaowan.net
 haokan.com
@@ -3033,6 +3039,7 @@ hc-cdn.cn
 hc-cdn.com
 hc-sre.com
 hczq.com
+hdfimg.com
 hdns.ksyun.com @ads
 hdslb.com
 hdslb.org
@@ -3757,6 +3764,7 @@ jinshujucdn.com
 jintdev.com
 jinti.com
 jiqizhixin.com
+jisilu.cn
 jisuanke.com
 jisuxia.com
 jiuyue919.com
@@ -5610,6 +5618,7 @@ sxcxldjy.com
 sxgou.cn
 sxl.cn
 sxlcdn.cn
+sxsimg.com
 sydw8.com
 syh.zybang.com @ads
 sys321.com
@@ -6645,6 +6654,7 @@ xiaopeng.com
 xiaoxiaapi.com
 xiaoxiongxitong.com
 xiaoyuankousuan.com
+xiaoyuanzhao.com
 xiaoyuxitong.com
 xiaoyuzhoufm.com
 xiayx.com
