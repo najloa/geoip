@@ -2065,6 +2065,7 @@ comixzilla.com
 comments.app
 como-hackearfacebook.com
 componentkit.org
+compose-spec.io
 conair.me
 conan.xxx
 conscrypt.com
@@ -2533,6 +2534,9 @@ dnai.in
 dnaindia.com
 dndbeyond.com
 dobbyporn.com
+docker.com
+docker.io
+dockerstatic.com
 docs.new
 doctor-videos.com
 dodgersexcartoons.com
@@ -3962,6 +3966,8 @@ full:disney.my.sentry.io @ads
 full:dl.google.com @cn
 full:dl.l.google.com @cn
 full:dmqdd6hw24ucf.cloudfront.net
+full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+full:docker-pinata-support.s3.amazonaws.com
 full:doubleclick-cn.net @cn
 full:doubleclick.net @cn
 full:download.mlcc.google.com @cn
