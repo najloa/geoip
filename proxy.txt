@@ -4098,6 +4098,7 @@ full:performanceparameters.googleapis.com @cn
 full:pki-goog.l.google.com @cn
 full:pki.google.com
 full:play-edge.itunes.apple.com
+full:ppl-ai-file-upload.s3.amazonaws.com
 full:pplx-res.cloudinary.com
 full:preprod-publicca.googleapis.com
 full:prod-controlbe.floonet.goog @cn
@@ -11659,6 +11660,7 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexmetrica.com
+yandexwebcache.net
 yandexwebcache.org
 yantaqu.com
 yaohubaba.com
