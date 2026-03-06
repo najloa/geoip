@@ -3886,6 +3886,7 @@ full:antigravity.googleapis.com
 full:aod-pod-uk-live.akamaized.net
 full:api-p.videomarket.jp
 full:api.viu.now.com
+full:apkmirror.disqus.com
 full:apl-hamivideo.cdn.hinet.net
 full:app-analytics-services.com @cn
 full:app-measurement-cn.com @cn
@@ -4223,6 +4224,8 @@ full:spotify.map.fastlylb.net
 full:ssl-google-analytics.l.google.com @cn
 full:ssl.gstatic.com @cn
 full:sslredirect.corp.google.com @cn
+full:st-ok-pts.cdn-vk.ru
+full:st-ok.cdn-vk.ru
 full:staging-controlbe.floonet.goog @cn
 full:staging-databe.floonet.goog @cn
 full:staging.databe.floonet.goog @cn
@@ -6610,6 +6613,7 @@ looporn.com
 looti.net
 lostbetsgames.com
 lotcrap.com
+lovart.ai
 love-sextoys.co.uk
 love4porn.com
 love6.tv
@@ -9204,6 +9208,7 @@ selectanescort.com
 selectyourgame.com
 selfloversworld.com
 selti-delivery.ru
+sendvid.com
 seneporno.com
 seniortgp.com
 senluocaituan.gumroad.com
@@ -10498,6 +10503,7 @@ upmedia.mg
 upornia.com
 uporno.xxx
 uproxy.org
+uptodown.com
 ura-akiba.jp
 urasma.com
 urchin.com @ads
@@ -10514,6 +10520,7 @@ usercentrics.eu
 usercontent.dev
 usvimosquito.com
 usvimosquitoproject.com
+utdstc.com
 uug22.com
 uug23.com
 uug25.com
