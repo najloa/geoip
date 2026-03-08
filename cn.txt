@@ -100,6 +100,7 @@
 1hai.cn
 1huizhan.com
 1nongjing.com
+1ppt.com
 1ting.com
 1tyy.cn
 1xhh.cn
@@ -269,6 +270,7 @@
 52miji.com
 52pk.com
 52pojie.cn
+52ppt.com
 52z.com
 53kf.com
 55.com
@@ -850,6 +852,7 @@ b3logfile.com
 babytree.com
 babytreeimg.com
 badjs.weixinbridge.com @ads
+badou.com
 baichuan-ai.com
 baichuan-sdk.alicdn.com @ads
 baicizhan.com
@@ -1103,6 +1106,7 @@ bohejiasuqi.com
 bojianger.com
 bokecc.com
 boohee.com
+book118.com
 boosj.com
 bootcdn.cn
 bootcdn.net
@@ -3017,6 +3021,7 @@ hao123union.baidu.com @ads
 hao222.com
 haodf.com
 haofenshu.com
+haohaodoc.com
 haohaowan.net
 haokan.com
 haolietou.com
@@ -4132,6 +4137,7 @@ lawxp.com
 lawyee.org
 lazada.com
 lazycat.cloud
+lazyer.net
 lbtp.com
 lceda.cn
 lckfb.com
@@ -5223,6 +5229,7 @@ regexp:^.+-mihayo\.akamaized\.net$ @cn
 reke.at.sohu.com @ads
 renren-inc.com
 renren.com
+renrendoc.com
 report.qqweb.qq.com @ads
 report.tencentmusic.com @ads
 res.hunantv.com @ads
@@ -6448,6 +6455,7 @@ weiyangx.com
 weiyun.com
 welltrend-edu.com
 wenjuan.com
+wenkeju.com
 wenmingban.com
 wenshushu.cn
 wenshushu.com
