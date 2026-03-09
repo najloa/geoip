@@ -991,6 +991,8 @@ bestincapi.com
 bestincapp.cn
 bestincapp.com
 bestopview.com
+bestpay.cn
+bestpay.com.cn
 bestrhy.com
 bestv.com.cn
 bestvcdn.cn
@@ -1282,6 +1284,7 @@ caiyu.com
 caiyun.com
 caiyunai.com
 caiyunapp.com
+calorietech.com
 camcard.com
 camscanner.com
 cang.com
@@ -1773,6 +1776,7 @@ cmicapm.com
 cmicrwx.cn
 cmicvip.cn
 cmpassport.com
+cmpay.com
 cmread.com
 cmvideo.cn
 cn-ha.mqtt.io.mi.com
@@ -2249,6 +2253,7 @@ douyincloud.run
 douyinec.com
 douyinfe.com
 douyinliving.com
+douyinpay.com
 douyinpic.com
 douyinstatic.com
 douyinvod.com
@@ -3928,6 +3933,8 @@ kdslife.com
 ke.com
 keboyunxiao.com
 kechuang.org
+keep.com
+keep.com.cn
 keepcdn.com
 kejet.net
 kekeniu.com
@@ -6169,6 +6176,7 @@ unaming.info
 unaming.net
 uncnn.cn
 unicom
+unicompayment.com
 unihan.com.cn
 union.baidu.com @ads
 unionimage.baidu.com @ads
