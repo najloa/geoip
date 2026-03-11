@@ -279,6 +279,7 @@
 55bbs.com
 56.com
 56che.com
+56img.com
 56laile.com
 576nt.cn
 58.com
@@ -672,6 +673,7 @@ allawnfs.com
 allawno.com
 allawntech.com
 allflow.cn
+allhistory.com
 alloyteam.com
 allyes.com
 alog.umeng.com @ads
@@ -4347,6 +4349,8 @@ mahjongcup.com
 mahjongcup.net
 mail4399.com
 maimai.cn
+maimemo.com
+maimemostatus.com
 maindown4399.com
 maisanqi.com
 maitix.com
@@ -4366,6 +4370,7 @@ maoyuncloud.cn
 maoyuncloud.com
 mapbar.com
 marketing.alibaba.com @ads
+markji.com
 marscode.cn
 marscode.com @!cn
 marscode.com.cn
@@ -6962,6 +6967,7 @@ yunpan.com
 yunqishi.net
 yunshipei.com
 yunxiao.com
+yunxindns.com
 yunxinfw.com
 yunzhijia.com
 yunzhuxue.com
