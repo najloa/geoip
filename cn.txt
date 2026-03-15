@@ -979,6 +979,7 @@ beisen.com
 beisenapp.com
 beisencloud.com
 beisenpaas.com
+bemanicn.com
 bendibao.com
 benfuip.com
 bengbeng.com
@@ -1335,6 +1336,7 @@ cczq.com
 cczq.net
 cd.file.myqcloud.com
 cd120.com
+cdkeynogap.com
 cdn-go.cn
 cdn20.com
 cdn30.org
@@ -6192,6 +6194,7 @@ unionpayintl.com
 unionpaysecure.com
 uniontech.cn
 uniontech.com
+unipus.cn
 unity.cn
 unityads.unity.cn @ads
 unityads.unitychina.cn @ads
@@ -6613,6 +6616,7 @@ xd.cn
 xd.com
 xdcdn.net
 xdqtech.com
+xdrtc.com
 xdtool.com
 xdwan.com
 xedge.cc
