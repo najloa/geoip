@@ -3983,6 +3983,7 @@ full:doubleclick.net @cn
 full:download.mlcc.google.com @cn
 full:download.qatp1.net @cn
 full:download.tensorflow.google.com @cn
+full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net
 full:ds-linear-abematv.akamaized.net
 full:ds-vod-abematv.akamaized.net
@@ -7810,6 +7811,7 @@ opengraphprotocol.org
 opengw.net
 openhub.tv
 openlibrary.org
+openrec.tv
 openrouter.ai
 opensource.guide
 opensourceinsight.dev
