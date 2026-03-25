@@ -354,6 +354,7 @@
 8btc.com
 8gcdp.cn
 8n82b.cn
+8uri.cn
 900.la
 900cha.com
 91.com
@@ -568,6 +569,7 @@ airitilibrary.cn
 airstarfinance.net
 aisee.tv
 aiskycn.com
+aispeech.com
 aitcfw.com
 aitransfy.com
 aixcoder.com
@@ -708,6 +710,7 @@ andfx.cn
 andfx.net
 anfensi.com
 anhuinews.com
+anhuiyun.com
 animetamashi.cn
 animetamashi.com
 anitabi.cn
@@ -1923,6 +1926,7 @@ ctdcdn.com
 ctdns.cn
 ctdns.com.cn
 ctdns.net
+ctdsb.net
 ctecdn.cn
 ctecx.cn
 ctexcel.ca @!cn
@@ -2706,6 +2710,7 @@ full:ai.zhaomi.cn
 full:apilog-web.acfun.cn @ads
 full:bytedance.map.fastly.net @!cn
 full:community.oneplus.com @!cn
+full:ctdsb.clouddiffuse.xyz
 full:cueme-api.quark.cn
 full:geetest.datasink.sensorsdata.cn
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
@@ -2974,6 +2979,7 @@ guabu.com
 guaiguai.com
 guaiku.com
 guanaitong.com
+guancha.cn
 guanggaoad.youku.com @ads
 guanggaotongapp.cn
 guanhaobio.com
@@ -3452,6 +3458,7 @@ icpcw.com
 icphoto.cn
 icplishi.com
 ics.design
+icswb.com
 ictbda.cn
 ictbda.com
 icve.com.cn
@@ -3511,6 +3518,7 @@ ihykb.com
 ijiandao.com
 ijinshan.com
 ikafan.com
+ikanchai.com
 ilanzou.com
 ileapcloud.com
 iluckysf.net
@@ -3778,6 +3786,7 @@ jikeiot.cloud
 jikexueyuan.com
 jikipedia.com
 jin10.com
+jinantimes.com.cn
 jindidata.com
 jingdong.com
 jingdongjinrong.com
@@ -3915,6 +3924,7 @@ jvcsmart.com.cn
 jvoice.cn
 jxedt.com
 jxksw.net
+jxnews.com.cn
 jxpp.com
 jyeoo.com
 jyeoo.net
@@ -3995,6 +4005,7 @@ kmcb-cn-north-4.cn
 kmop-cn-east-3.cn
 kmop-cn-north-4.cn
 knet.cn
+knewsmart.com
 kolbuyer.cn
 kongfz.com
 koocdn.com
@@ -4930,8 +4941,10 @@ passport-log.youku.com @ads
 paydxm.com
 pb.i.sogou.com @ads
 pc6.com
+pcauto.com.cn
 pcbeta.com
 pchome.net
+pchouse.com.cn
 pchpic.net
 pconline.com.cn
 pcpop.com
@@ -5541,6 +5554,7 @@ sojump.com
 soku.com
 solidot.org
 somode.com
+sootoo.com
 soso.com
 soso.com.cn
 sososnap.com
@@ -5798,6 +5812,7 @@ tebiefuza.cloud
 tebiefuza.cn
 tebon.com.cn
 techo.chat
+techwalker.com
 techweb.com.cn
 teemo.cn
 tefscloud.com
@@ -6805,6 +6820,7 @@ yccdn.com
 ycgame.com
 ycrx360.com
 yctdyy.com
+ycwb.com
 ydamc.com
 ydsc.com.cn
 ydstatic.com
@@ -7080,6 +7096,7 @@ zhfund.com
 zhibo8.cc
 zhichanli.com
 zhidemai.com
+zhiding.cn
 zhiding.com.cn
 zhidx.com
 zhifang.com

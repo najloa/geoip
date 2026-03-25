@@ -2842,6 +2842,7 @@ epochweek.com
 epochweekly.com
 eporner.com
 eprc.com.hk
+equinox.io
 erabaru.net
 eracom.com.tw
 erito.com
@@ -7458,6 +7459,7 @@ nfscdict.com
 nfscofficial.com
 nftstorage.link
 ngeo.com
+ngrok-agent.com
 ngrok-free.app
 ngrok-free.dev
 ngrok-free.pizza
