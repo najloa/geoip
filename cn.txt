@@ -2716,6 +2716,7 @@ full:geetest.datasink.sensorsdata.cn
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 full:hospital.pku.edu.cn
+full:izattime.qcomgeo2.com @cn
 full:log-sdk.gifshow.com @ads
 full:log3-applog-hl.fqnovel.com @ads
 full:log3-applog.fqnovel.com @ads
@@ -2769,6 +2770,7 @@ full:time.xtracloud.net @cn
 full:upos-hz-mirrorakam.akamaized.net @!cn
 full:wetv.qq.com @!cn
 full:wlog.kuaishou.com @ads
+full:xtratime.qcomgeo2.com @cn
 fullgoal.com.cn
 fun.tv
 funcdn.com
