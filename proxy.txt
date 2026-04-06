@@ -482,11 +482,11 @@ ad69.com
 adanaatikhaber.com
 adbkm.com
 adelaidenow.com.au
-adfox.ru
+adfox.ru @ads
 adgoogle.net
 adhelpnews.com
 admeld.com
-admetrica.ru
+admetrica.ru @ads
 admob-cn.com @ads
 admob.com @ads
 adorevids.com
@@ -495,6 +495,7 @@ adpornu.xyz
 ads-pixiv.net @ads
 ads-twitter.com @ads
 ads.yahoo.com @ads
+ads.yandex @ads
 ads.youtube.com @ads
 adsense.com @ads
 adsensecustomsearchads.com @ads
@@ -1241,6 +1242,7 @@ benaughty.fun
 bengalisexvideos.com
 benliton.com
 bentobox.tv
+berizaryad.ru
 berlinale.de
 berlincompanions.com
 best-sex-games.com
@@ -1972,6 +1974,7 @@ claude.com
 claudemcpclient.com
 claudeusercontent.com
 clawhub.ai
+clck.ru
 click-url.com
 climateone.blogspot.co.id
 clinical-videos.com
@@ -1996,6 +1999,7 @@ cloudn.me
 cloudproxy.app
 cloudrobotics.com
 cloudyzgirl.com
+clstorage.net
 clubhouse.com
 clubhouseapi.com
 clubseventeen.com
@@ -2762,6 +2766,7 @@ ekhindi.com
 ekhokavkaza.com
 ekolojik.org
 el-ladies.com
+elama.ru
 electbabe.com
 electrek.co
 element.io
@@ -3878,9 +3883,16 @@ full:abematv.akamaized.net
 full:ad-channel.diwodiwo.xyz @ads
 full:ad-display.diwodiwo.xyz @ads
 full:adeventtracker.spotify.com @ads
+full:adfox.yandex.ru @ads
+full:adfstat.yandex.ru @ads
 full:admob-cn.com @cn
+full:ads.yandex.com @ads
+full:ads.yandex.ru @ads
+full:adsdk.yandex.ru @ads
 full:adservice.google.com @cn
 full:adstudio-assets.scdn.co @ads
+full:adv.yandex.com @ads
+full:adv.yandex.ru @ads
 full:ai.google.dev
 full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
@@ -3892,13 +3904,17 @@ full:alt5-mtalk.google.com @!cn
 full:alt6-mtalk.google.com @!cn
 full:alt7-mtalk.google.com
 full:alt8-mtalk.google.com
+full:amc.yandex.ru @ads
+full:an.yandex.ru @ads
 full:analytics.google.com @ads
+full:analytics.mobile.yandex.net @ads
 full:android.googlesource.com
 full:anime-rule34-world.b-cdn.net
 full:antigravity-pa.googleapis.com
 full:antigravity.googleapis.com
 full:aod-pod-uk-live.akamaized.net
 full:api-p.videomarket.jp
+full:api.appmetrica.yandex.ru @ads
 full:api.viu.now.com
 full:apkmirror.disqus.com
 full:apl-hamivideo.cdn.hinet.net
@@ -3920,6 +3936,8 @@ full:beacons2.gvt2.com @cn
 full:beacons3.gvt2.com @cn
 full:bloodhound.spotify.com @ads
 full:browser-intake-datadoghq.com @ads
+full:browser-updater.yandex.net @ads
+full:bs.yandex.ru @ads
 full:c.admob.com @cn
 full:c.android.clients.google.com @cn
 full:c.pki.goog @cn
@@ -3931,6 +3949,8 @@ full:cbsservice.aws.syncbak.com
 full:cdn-spotify-experiments.conductrics.com
 full:cdn.js7k.com
 full:checkin.gstatic.com @cn
+full:clck.yandex.net @ads
+full:clck.yandex.ru @ads
 full:clickserve.cc-dt.com @cn
 full:clickserve.dartsearch.net @cn
 full:clickserver.googleads.com @cn
@@ -3942,6 +3962,8 @@ full:cn.widevine.com @cn
 full:cnappinstall.googleadapis.com @cn
 full:connectivitycheck.gstatic.com @cn
 full:content.googleadapis.com @cn
+full:counter.yandex.net @ads
+full:counter.yandex.ru @ads
 full:crashlyticsreports-pa.googleapis.com @cn
 full:crl.pki.goog @cn
 full:crls.pki.goog @cn
@@ -4071,6 +4093,7 @@ full:images-eu.ssl-images-amazon.com
 full:images-fe.ssl-images-amazon.com
 full:images-na.ssl-images-amazon.com
 full:imasdk.googleapis.com @cn
+full:informer.yandex.ru @ads
 full:l2-uberproxy.corp.google.com @cn
 full:lastfm.freetls.fastly.net
 full:licdn.cn.cdn20.com
@@ -4081,6 +4104,9 @@ full:live-patreon-marketing.pantheonsite.io
 full:logger-dev.corp.google.com @cn
 full:logger.corp.google.com @cn
 full:login.corp.google.com @cn
+full:mc.yandex.com @ads
+full:mc.yandex.ru @ads
+full:metrika.yandex.ru @ads
 full:misa-prod.s3.ap-northeast-1.amazonaws.com
 full:mobilelive-hamivideo.cdn.hinet.net
 full:monitoring.qpdp1.net @cn
@@ -4113,6 +4139,8 @@ full:p16-tiktokcdn-com.akamaized.net @!cn
 full:pagead-googlehosted.l.google.com @cn
 full:paper-attachments.s3.amazonaws.com
 full:performanceparameters.googleapis.com @cn
+full:pix.yandex.ru @ads
+full:pixel.yandex.net @ads
 full:pki-goog.l.google.com @cn
 full:pki.google.com
 full:play-edge.itunes.apple.com
@@ -4147,6 +4175,9 @@ full:redirector.gvt1.com @cn
 full:redirector.offline-maps.gvt1.com @cn
 full:redirector.snap.gvt1.com @cn
 full:redirector.xn--ngstr-lra8j.com @cn
+full:report-partners.appmetrica.yandex.net @ads
+full:report.ap.yandex-net.ru @ads
+full:report.appmetrica.yandex.net @ads
 full:roovza-launches.appsflyersdk.com @!cn
 full:roovza.inapps.appsflyersdk.com @!cn
 full:roovza.launches.appsflyersdk.com @!cn
@@ -4290,7 +4321,7 @@ full:www.gstatic.com @cn
 full:www.pxcc.com @cn
 full:www.recaptcha.net @cn
 full:xn--flw351e.com @cn
-full:yandex-pogoda.static-storage.net
+full:yabs.yandex.ru @ads
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
 fullbookmm.blogspot.com
@@ -6927,6 +6958,7 @@ metaporn.com
 metart.com
 metartnetwork.com
 metcams.com
+meteum.ai
 metro.co.uk
 metropolitana.tokyo
 metrotoons.com
@@ -9482,6 +9514,7 @@ sharkyporn.com
 sharmota.com
 sharpdaily.tw
 shdd.ink
+shedevrum.ai
 sheets.new
 sheflix.com
 shegg.com
@@ -9700,6 +9733,7 @@ soundcloud.com
 soundofhope.eu
 soundofhope.kr
 soundofhope.org
+sourcecraft.dev
 sourcegraph.com
 south-plus.net
 south-plus.org
@@ -9785,6 +9819,7 @@ startupschool.org
 starwars.com
 starwarsgalacticstarcruiser.com
 starwarskids.com
+static-storage.net
 static9.net.au
 staticflickr.com
 statsigapi.net
@@ -10933,8 +10968,8 @@ webmproject.org
 webnovel.com @!cn
 webpkgcache.com
 webrtc.org
-webvisor.com
-webvisor.org
+webvisor.com @ads
+webvisor.org @ads
 weekly-economist.com
 weeklytimesnow.com.au
 weimi180.com
@@ -11531,10 +11566,11 @@ xxxyoungxxx.com
 xzone.to
 xzxxporn.com
 xzxxtube.com
+ya.cc
 ya.ru
 yaddal.tv
 yadori.club
-yads.tech
+yads.tech @ads
 yaeby.info
 yaeby.pro
 yahoo
@@ -11699,9 +11735,10 @@ yamoon.club
 yande.re
 yandex
 yandex-bank.net
-yandex-images.clstorage.net
+yandex-metrica.ru @ads
 yandex-team.ru
 yandex.aero
+yandex.asia
 yandex.az
 yandex.by
 yandex.cloud
@@ -11723,6 +11760,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.mobi
 yandex.net
 yandex.org
 yandex.pl
@@ -11737,7 +11775,8 @@ yandex.uz
 yandexadexchange.net
 yandexcloud.net
 yandexcom.net
-yandexmetrica.com
+yandexlyceum.ru
+yandexmetrica.com @ads
 yandexwebcache.net
 yandexwebcache.org
 yantaqu.com
@@ -11756,6 +11795,7 @@ yavtube.com
 yaya.cyou
 yayadizhi.xyz
 yazhouse8.com
+yccdn.ru
 ycombinator.com
 ydn.com.tw
 yeonda.com
