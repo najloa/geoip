@@ -526,7 +526,9 @@ adx.xiaodutv.com @ads
 adxvip.com
 ae-ad-1.myhuaweicloud.com @!cn
 ae-rus.net @!cn
+aedns.ru @!cn
 aegis.qq.com
+aeplatform.ru @!cn
 aestatic.net @!cn
 af-east-201.myhuaweicloud.com @!cn
 af-north-1.myhuaweicloud.com @!cn
@@ -3932,6 +3934,7 @@ jyeoo.com
 jyeoo.net
 jyimg.com
 jyzq.cn
+jzagile.com
 jzfz.net
 jzsec.com
 jzt.jd.com @ads
@@ -4239,6 +4242,7 @@ letvcdn.com
 letvimg.com
 lf126.net
 lf127.net
+lg3000.top
 lgstatic.com
 lhzq.com
 liangxinyao.com
@@ -5564,6 +5568,7 @@ sososnap.com
 sou.cn
 sou.com
 soufunimg.com
+soulteary.com
 soundcore.com @!cn
 soundcore.com.cn
 souqian.com
@@ -6023,6 +6028,7 @@ tools.team
 toplife.com
 topthink.com
 toptown.cn
+topwd.top
 toscdn.com
 tosot.com.cn
 touqikan.com
