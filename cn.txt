@@ -41,6 +41,7 @@
 1234567.com.cn
 123624.com
 123641.com
+12365auto.com
 123842.com
 123860.com
 123912.com
@@ -1658,6 +1659,7 @@ cjol.com
 cjsc.com
 ckd.im
 ckxx.net
+clawhub-mirror.com
 cleargrass.com
 click.gamersky.com @ads
 click.hunantv.com @ads
@@ -1832,6 +1834,7 @@ cnweblog.com
 cnzz.com
 cocodiy.com
 code666.com
+codebuddy.cn
 codechina.net
 codeloop.top
 coding.me
@@ -2022,6 +2025,8 @@ da.mgtv.com @ads
 dadajiasu.com
 dadighost.com
 daguzhe.com
+daheapp.com
+dahebao.cn
 dajiabao.com
 dajie.com
 dajieimg.com
@@ -2061,6 +2066,7 @@ dbankcdn.cn
 dbankcdn.com
 dbankcloud.cn
 dbankcloud.com
+dbankcloud.ru @!cn
 dbankedge.cn
 dbankedge.net
 dbfund.com.cn
@@ -2235,6 +2241,7 @@ doh.iqiyi.com @ads
 doh.ptqy.gitv.tv @ads
 doh.pub
 dola.com @!cn
+domain:dt.dbankcloud.ru @ads @!cn
 donews.com
 dongao.com
 dongchedi.com
@@ -2724,7 +2731,6 @@ full:log3-applog-hl.fqnovel.com @ads
 full:log3-applog.fqnovel.com @ads
 full:log5-applog-hl.fqnovel.com @ads
 full:log5-applog.fqnovel.com @ads
-full:manga.bilibili.com
 full:moocs.unipus.cn
 full:ntp.aliyun.com @cn
 full:ntp.tencent.com @cn
@@ -2837,6 +2843,7 @@ gaoshouyou.com
 gaoxiaojob.com
 gatzs.com.cn
 gcable.com.cn
+gcloudcache.com
 gcloudcs.com
 gcloudcstest.com
 gcloudcstestonly.com
@@ -3258,6 +3265,7 @@ huangyuhui.net
 huanleguang.com
 huanqiu.com
 huanqiucdn.cn
+huasheng.cn
 huashengdaili.com
 huatu.com
 huawei.cn
@@ -3768,6 +3776,7 @@ jianguoyun.com
 jianshu.com
 jianshu.io
 jianshuapi.com
+jianying.com
 jianyuweb.com
 jianzhi8.com
 jiaodong.net
@@ -5504,6 +5513,7 @@ sinopecnews.com.cn
 sinopecsales.com
 sipeed.com
 sjwyx.com
+skillhub.cn
 skimit.net
 skycn.com
 skydweller.cn
@@ -6975,6 +6985,7 @@ ytxptz.cn
 ytzq.com
 yuanbei.biz
 yuanfudao.com
+yuanqi.tencent.com
 yuanshen.com
 yuansouti.com
 yuantiku.com
