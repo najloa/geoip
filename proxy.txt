@@ -842,6 +842,7 @@ api.news
 apibay.org
 apigee.com
 apina.biz
+apiok.ru
 apkcombo.com
 apkmirror.com
 apkpure.com
@@ -1832,6 +1833,7 @@ ccav69.me
 ccav691api.com
 ccavb.tv
 cdn-telegram.org
+cdn-vk.net
 cdn-vk.ru
 cdnblackmyth.club
 cdninstagram.com
@@ -2574,8 +2576,11 @@ dojinmanga.net
 dojinwatch.com
 dokusho-ojikan.jp
 dola.com @!cn
+domain:adblogger.vk.com @ads
 domain:adfox.yandex.ru @ads
 domain:adfstat.yandex.ru @ads
+domain:ads.vk.com @ads
+domain:ads.vk.ru @ads
 domain:ads.yandex.com @ads
 domain:ads.yandex.ru @ads
 domain:ads.yango.com @ads
@@ -2585,6 +2590,8 @@ domain:adv.yandex.ru @ads
 domain:amc.yandex.ru @ads
 domain:an.yandex.ru @ads
 domain:analytics.mobile.yandex.net @ads
+domain:analytics.vk.com @ads
+domain:analytics.vk.ru @ads
 domain:appmetrica.yandex.com @ads
 domain:appmetrica.yandex.net @ads
 domain:appmetrica.yandex.ru @ads
@@ -2598,14 +2605,21 @@ domain:clck.yango.com @ads
 domain:counter.yandex.net @ads
 domain:counter.yandex.ru @ads
 domain:informer.yandex.ru @ads
+domain:log.dzen.ru @ads
 domain:mc.yandex.com @ads
 domain:mc.yandex.net @ads
 domain:mc.yandex.ru @ads
 domain:mc.yango.com @ads
 domain:metrika.yandex.ru @ads
+domain:ms.dzen.ru @ads
+domain:ms.vk.com @ads
+domain:ms.vk.ru @ads
 domain:pix.yandex.ru @ads
 domain:pixel.yandex.net @ads
 domain:report.ap.yandex-net.ru @ads
+domain:stats.vk-portal.net @ads
+domain:target.vk.com @ads
+domain:target.vk.ru @ads
 domain:yabs.yandex.ru @ads
 domywife.com
 donatecarsoh.org
@@ -5765,7 +5779,6 @@ imgbb.com
 imgbox.com
 imgcrl.org
 imgschan.xyz
-imgsmail.ru
 imgur.com
 imgur.io
 imgurinc.com
@@ -5829,6 +5842,7 @@ inporn.com
 inquirer.net
 inside-games.jp
 inside.com.tw
+insideok.ru
 insider-intelligence.com
 insider.com
 insiderintelligence.com
@@ -6785,7 +6799,6 @@ mahajantech.com
 maidonanews.jp
 mail-ads.google.com @ads
 mail.com
-mail.ru
 maileoch.com
 mailhealth.com
 mailonline.co.uk
@@ -7188,7 +7201,6 @@ moystoys.com
 mpfinance.com
 mplstudios.com
 mpweekly.com
-mradx.net
 mray.club
 mrbdsm.com
 mrchewsasianbeaver.com
@@ -7774,6 +7786,8 @@ oculusdiving.com
 oculusforbusiness.com
 oculusrift.com
 oculusvr.com
+odkl.ru
+odnoklassniki.ru
 odysee.com
 oekakiskey.com
 ofiii.com
@@ -7789,6 +7803,7 @@ ohsexfilm.com
 ohsexotube.com
 ohyeah1080.com
 oiobbs.com
+ok.me
 ok.ru
 ok.xxx
 okazudouga.blog.jp
@@ -7797,6 +7812,8 @@ okcdn.ru
 okkisokuho.com
 okko.sport
 okko.tv
+okl.lt
+oktech.ru
 older-women-movies.com
 older-women-porn.com
 older.tube
@@ -10625,6 +10642,7 @@ usatodaynetworkservice.com
 uselessjunk.com
 useplannr.com
 userapi.com
+userapi.ru
 usercentrics.eu
 usercontent.dev
 usvimosquito.com
@@ -10804,38 +10822,39 @@ vixen.com
 vixvids.to
 vjav.com
 vjmedia.com.hk
-vk-analytics.ru
-vk-apps.com
-vk-apps.ru
+vk-analytics.ru @ads
 vk-cdn.me
 vk-cdn.net
 vk-portal.net
 vk.cc
 vk.com
-vk.company
 vk.design
 vk.link
 vk.me
 vk.ru
-vk.team
 vkcache.com
+vkcdnservice.com
 vkcloud-static.ru
-vkgo.app
-vklive.app
 vkmessenger.app
 vkmessenger.com
+vkontakte.com
 vkontakte.ru
+vkpay.app
+vkpay.com
+vkpay.io
+vkpay.ru
+vktech-static.ru
 vkuser.net
 vkuseraudio.com
 vkuseraudio.net
 vkuseraudio.ru
 vkusercdn.ru
+vkuserlive.com
 vkuserlive.net
 vkuserphoto.ru
 vkuservideo.com
 vkuservideo.net
 vkuservideo.ru
-vkvideo.ru
 vl4x.net
 vmwxw.com
 vnanchoi.ca
