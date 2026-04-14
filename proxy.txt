@@ -561,6 +561,7 @@ adulttoontube.com
 adultvideodump.com
 adultvideotop.com
 adultvirtualworlds.net
+adv.vk.com @ads
 advancediddetection.com
 adventuresbydisney.com
 advertisercommunity.com @ads
@@ -772,6 +773,7 @@ analvids.com
 analytics-alv.google.com @ads
 analytics.facebook.com @ads
 analytics.tiktok.com @!cn @ads
+analytics.vk.com @ads
 ancensored.com
 android
 android.com
@@ -2576,11 +2578,8 @@ dojinmanga.net
 dojinwatch.com
 dokusho-ojikan.jp
 dola.com @!cn
-domain:adblogger.vk.com @ads
 domain:adfox.yandex.ru @ads
 domain:adfstat.yandex.ru @ads
-domain:ads.vk.com @ads
-domain:ads.vk.ru @ads
 domain:ads.yandex.com @ads
 domain:ads.yandex.ru @ads
 domain:ads.yango.com @ads
@@ -2590,8 +2589,6 @@ domain:adv.yandex.ru @ads
 domain:amc.yandex.ru @ads
 domain:an.yandex.ru @ads
 domain:analytics.mobile.yandex.net @ads
-domain:analytics.vk.com @ads
-domain:analytics.vk.ru @ads
 domain:appmetrica.yandex.com @ads
 domain:appmetrica.yandex.net @ads
 domain:appmetrica.yandex.ru @ads
@@ -2605,21 +2602,14 @@ domain:clck.yango.com @ads
 domain:counter.yandex.net @ads
 domain:counter.yandex.ru @ads
 domain:informer.yandex.ru @ads
-domain:log.dzen.ru @ads
 domain:mc.yandex.com @ads
 domain:mc.yandex.net @ads
 domain:mc.yandex.ru @ads
 domain:mc.yango.com @ads
 domain:metrika.yandex.ru @ads
-domain:ms.dzen.ru @ads
-domain:ms.vk.com @ads
-domain:ms.vk.ru @ads
 domain:pix.yandex.ru @ads
 domain:pixel.yandex.net @ads
 domain:report.ap.yandex-net.ru @ads
-domain:stats.vk-portal.net @ads
-domain:target.vk.com @ads
-domain:target.vk.ru @ads
 domain:yabs.yandex.ru @ads
 domywife.com
 donatecarsoh.org
@@ -3935,10 +3925,16 @@ full:2mdn.net @cn
 full:abematv.akamaized.net
 full:ad-channel.diwodiwo.xyz @ads
 full:ad-display.diwodiwo.xyz @ads
+full:adblogger.vk.com @ads
+full:adblogger.vk.ru @ads
 full:adeventtracker.spotify.com @ads
 full:admob-cn.com @cn
+full:ads.vk.com @ads
+full:ads.vk.ru @ads
 full:adservice.google.com @cn
 full:adstudio-assets.scdn.co @ads
+full:adv.vk.ru @ads
+full:advk.vk.ru @ads
 full:ai.google.dev
 full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
@@ -3951,6 +3947,7 @@ full:alt6-mtalk.google.com @!cn
 full:alt7-mtalk.google.com
 full:alt8-mtalk.google.com
 full:analytics.google.com @ads
+full:analytics.vk.ru @ads
 full:android.googlesource.com
 full:anime-rule34-world.b-cdn.net
 full:antigravity-pa.googleapis.com
@@ -4304,6 +4301,7 @@ full:staging-databe.floonet.goog @cn
 full:staging.databe.floonet.goog @cn
 full:static-hamivideo.cdn.hinet.net
 full:static.siege-amazon.com
+full:stats.vk-portal.net @ads
 full:streaming-uberproxy-rotation.corp.google.com @cn
 full:streaming-uberproxy.corp.google.com @cn
 full:sup-ssh-relay.corp.google.com @cn
@@ -4311,6 +4309,7 @@ full:sup-ssh-relay2.corp.google.com @cn
 full:sup.corp.google.com @cn
 full:sup.l.google.com @cn
 full:tac.googleapis.com @cn
+full:target.vk.com @ads
 full:test.gbugs-qa.chromium.org @cn
 full:tmdb-image-prod.b-cdn.net
 full:tools.google.com @cn
@@ -6681,6 +6680,7 @@ lnstagram-help.com
 lobstertube.com
 localpresshk.com
 localxlist.org
+log.dzen.ru @ads
 login-account.net
 loholidayhk.com
 lokinet.org
@@ -7214,6 +7214,9 @@ mrpornlive.com
 mrskin.com
 mrssiren.com
 mrvideosdesexo.xxx
+ms.dzen.ru @ads
+ms.vk.com @ads
+ms.vk.ru @ads
 msk.ilnk.info
 msk.kitazawa.me
 msnbc.com
@@ -10013,6 +10016,7 @@ taose.in
 tapecontent.net
 taqunuhai.vip
 taradinhos.com
+target.vk.ru @ads
 tasexy.com
 tasexy.top
 taste.com.au
