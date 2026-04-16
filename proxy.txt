@@ -483,6 +483,7 @@ adanaatikhaber.com
 adbkm.com
 adelaidenow.com.au
 adfox.ru @ads
+adfox.yandex.ru @ads
 adgoogle.net
 adhelpnews.com
 admeld.com
@@ -496,6 +497,7 @@ ads-pixiv.net @ads
 ads-twitter.com @ads
 ads.yahoo.com @ads
 ads.yandex @ads
+ads.yandex.ru @ads
 ads.youtube.com @ads
 adsense.com @ads
 adsensecustomsearchads.com @ads
@@ -562,6 +564,8 @@ adultvideodump.com
 adultvideotop.com
 adultvirtualworlds.net
 adv.vk.com @ads
+adv.yandex.com @ads
+adv.yandex.ru @ads
 advancediddetection.com
 adventuresbydisney.com
 advertisercommunity.com @ads
@@ -751,6 +755,7 @@ amp-api.podcast.apple.com
 amsterdamhotescort.com
 amsterdamluxescort.com
 amytele.com
+an.yandex.ru @ads
 anacams.com
 anal-f.net
 anal-pantyhose.com
@@ -872,6 +877,10 @@ applefruity.com
 applehealth.com.hk
 appleinsider.com
 appmedia.jp
+appmetrica.yandex.com @ads
+appmetrica.yandex.net @ads
+appmetrica.yandex.ru @ads
+appmetrica.yango.com @ads
 appspot.com
 appyq.com
 apture.com
@@ -1619,6 +1628,7 @@ brourou.com
 browserleaks.com
 brutalbdsmtube.com
 brutalfetish.com
+bs.yandex.ru @ads
 bsky.app
 bsky.network
 bsky.social
@@ -1980,6 +1990,7 @@ claudemcpclient.com
 claudeusercontent.com
 clawhub.ai
 clck.ru
+clck.yandex.ru @ads
 click-url.com
 climateone.blogspot.co.id
 clinical-videos.com
@@ -2126,6 +2137,7 @@ cosplayeromania.jp
 cosplayporntube.com
 cosplayworld.net
 cougarsexmovies.com
+counter.yandex.ru @ads
 couplecam.co.uk
 couriermail.com.au
 coze.com @!cn
@@ -2578,39 +2590,6 @@ dojinmanga.net
 dojinwatch.com
 dokusho-ojikan.jp
 dola.com @!cn
-domain:adfox.yandex.ru @ads
-domain:adfstat.yandex.ru @ads
-domain:ads.yandex.com @ads
-domain:ads.yandex.ru @ads
-domain:ads.yango.com @ads
-domain:adsdk.yandex.ru @ads
-domain:adv.yandex.com @ads
-domain:adv.yandex.ru @ads
-domain:amc.yandex.ru @ads
-domain:an.yandex.ru @ads
-domain:analytics.mobile.yandex.net @ads
-domain:appmetrica.yandex.com @ads
-domain:appmetrica.yandex.net @ads
-domain:appmetrica.yandex.ru @ads
-domain:appmetrica.yango.com @ads
-domain:browser-updater.yandex.net @ads
-domain:bs.yandex.ru @ads
-domain:clck.yandex.com @ads
-domain:clck.yandex.net @ads
-domain:clck.yandex.ru @ads
-domain:clck.yango.com @ads
-domain:counter.yandex.net @ads
-domain:counter.yandex.ru @ads
-domain:informer.yandex.ru @ads
-domain:mc.yandex.com @ads
-domain:mc.yandex.net @ads
-domain:mc.yandex.ru @ads
-domain:mc.yango.com @ads
-domain:metrika.yandex.ru @ads
-domain:pix.yandex.ru @ads
-domain:pixel.yandex.net @ads
-domain:report.ap.yandex-net.ru @ads
-domain:yabs.yandex.ru @ads
 domywife.com
 donatecarsoh.org
 donga.com
@@ -3928,9 +3907,13 @@ full:ad-display.diwodiwo.xyz @ads
 full:adblogger.vk.com @ads
 full:adblogger.vk.ru @ads
 full:adeventtracker.spotify.com @ads
+full:adfstat.yandex.ru @ads
 full:admob-cn.com @cn
 full:ads.vk.com @ads
 full:ads.vk.ru @ads
+full:ads.yandex.com @ads
+full:ads.yango.com @ads
+full:adsdk.yandex.ru @ads
 full:adservice.google.com @cn
 full:adstudio-assets.scdn.co @ads
 full:adv.vk.ru @ads
@@ -3946,7 +3929,9 @@ full:alt5-mtalk.google.com @!cn
 full:alt6-mtalk.google.com @!cn
 full:alt7-mtalk.google.com
 full:alt8-mtalk.google.com
+full:amc.yandex.ru @ads
 full:analytics.google.com @ads
+full:analytics.mobile.yandex.net @ads
 full:analytics.vk.ru @ads
 full:android.googlesource.com
 full:anime-rule34-world.b-cdn.net
@@ -3986,6 +3971,9 @@ full:cbsservice.aws.syncbak.com
 full:cdn-spotify-experiments.conductrics.com
 full:cdn.js7k.com
 full:checkin.gstatic.com @cn
+full:clck.yandex.com @ads
+full:clck.yandex.net @ads
+full:clck.yango.com @ads
 full:clickserve.cc-dt.com @cn
 full:clickserve.dartsearch.net @cn
 full:clickserver.googleads.com @cn
@@ -4126,6 +4114,7 @@ full:images-eu.ssl-images-amazon.com
 full:images-fe.ssl-images-amazon.com
 full:images-na.ssl-images-amazon.com
 full:imasdk.googleapis.com @cn
+full:informer.yandex.ru @ads
 full:l2-uberproxy.corp.google.com @cn
 full:lastfm.freetls.fastly.net
 full:licdn.cn.cdn20.com
@@ -4136,6 +4125,9 @@ full:live-patreon-marketing.pantheonsite.io
 full:logger-dev.corp.google.com @cn
 full:logger.corp.google.com @cn
 full:login.corp.google.com @cn
+full:mc.yandex.com @ads
+full:mc.yandex.net @ads
+full:mc.yango.com @ads
 full:misa-prod.s3.ap-northeast-1.amazonaws.com
 full:mobilelive-hamivideo.cdn.hinet.net
 full:monitoring.qpdp1.net @cn
@@ -4168,6 +4160,7 @@ full:p16-tiktokcdn-com.akamaized.net @!cn
 full:pagead-googlehosted.l.google.com @cn
 full:paper-attachments.s3.amazonaws.com
 full:performanceparameters.googleapis.com @cn
+full:pixel.yandex.com @ads
 full:pki-goog.l.google.com @cn
 full:pki.google.com
 full:play-edge.itunes.apple.com
@@ -4202,6 +4195,7 @@ full:redirector.gvt1.com @cn
 full:redirector.offline-maps.gvt1.com @cn
 full:redirector.snap.gvt1.com @cn
 full:redirector.xn--ngstr-lra8j.com @cn
+full:report.ap.yandex-net.ru @ads
 full:roovza-launches.appsflyersdk.com @!cn
 full:roovza.inapps.appsflyersdk.com @!cn
 full:roovza.launches.appsflyersdk.com @!cn
@@ -6918,6 +6912,7 @@ maximumerotica.com
 maya5.net
 mayijiejie.com
 maying.co
+mc.yandex.ru @ads
 mcoun.com
 mcrouter.net
 mcrouter.org
@@ -6987,6 +6982,9 @@ metart.com
 metartnetwork.com
 metcams.com
 meteum.ai
+metrika.yandex.com @ads
+metrika.yandex.net @ads
+metrika.yandex.ru @ads
 metro.co.uk
 metropolitana.tokyo
 metrotoons.com
@@ -7815,6 +7813,7 @@ okcdn.ru
 okkisokuho.com
 okko.sport
 okko.tv
+okkoapi.tv
 okl.lt
 oktech.ru
 older-women-movies.com
@@ -8660,6 +8659,7 @@ projectara.com
 projectbaseline.com
 projectjav.com
 projectvoyeur.com
+promodj.com
 pron.guru
 property.com.au
 propertysex.com
@@ -9877,6 +9877,7 @@ stickofjoy.com
 stileproject.com
 stimorolsex.com
 stin31.ru
+stitch.withgoogle.com
 stocking-tease.com
 stockingfetishvideo.com
 stonefoxlingerie.com
@@ -11612,6 +11613,7 @@ xzxxporn.com
 xzxxtube.com
 ya.cc
 ya.ru
+yabs.yandex.ru @ads
 yaddal.tv
 yadori.club
 yads.tech @ads
