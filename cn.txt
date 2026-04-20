@@ -913,6 +913,7 @@ bambulab.com
 bamenzhushou.com
 bangongziyuan.com
 bank-of-china.com
+bankcomm.cn
 bankcomm.com
 bankofbeijing.com.cn
 bankofchina.com
@@ -2994,6 +2995,7 @@ guanaitong.com
 guancha.cn
 guanggaoad.youku.com @ads
 guanggaotongapp.cn
+guangyapan.com
 guanhaobio.com
 guanyierp.com
 guazi.com
@@ -3955,6 +3957,7 @@ kaadas.com
 kafan.cn
 kaifayun.com
 kaifubiao.com
+kaihong.com
 kaipuyun.cn
 kaipuyun.com
 kaipuyun.com.cn
@@ -7127,6 +7130,7 @@ zhidemai.com
 zhiding.cn
 zhiding.com.cn
 zhidx.com
+zhiexa.com
 zhifang.com
 zhihang100.com
 zhihu-web-analytics.zhihu.com @ads
