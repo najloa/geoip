@@ -1133,7 +1133,6 @@ bosc.cn
 boscam.com.cn
 bosera.com
 bosszhipin.com
-botvip.cn
 bouffalolab.com
 boxdouyin.com
 bplslb.com
@@ -4269,6 +4268,8 @@ liaoxuefeng.com
 liba.com
 libaclub.com
 liblib.art
+liblib.cloud
+liblib.tv
 libvideo.com
 liebao.cn
 liepin.com
@@ -5748,6 +5749,7 @@ tapapks.com
 tapd.cn
 tapimg.com
 tapimg.net
+tapnow.top
 taptap.cn
 taptap.com
 taptap.io @!cn
