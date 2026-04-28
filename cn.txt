@@ -789,6 +789,7 @@ apabi.com
 apcdns.net
 apdcdn.com
 apdcdn.net
+api-building.fun
 apidns.kwd.inkuai.com @ads
 apifox.cn
 apifox.com
@@ -918,6 +919,8 @@ bankcomm.com
 bankofbeijing.com.cn
 bankofchina.com
 banmaaike.com
+banxiaoer.com
+banxiaoer.net
 baofeng.com
 baofeng.net
 baomitu.com
@@ -1151,6 +1154,7 @@ bubei.com.cn
 buf35.cn
 bugly.qq.com @ads
 build9s.io
+building.fun
 buke999.com
 burningvocabulary.cn
 burningvocabulary.com
@@ -1870,12 +1874,22 @@ costj.myqcloud.com
 cowcs.com
 cowlevel.net
 cowtransfer.com
+coze-dns-01.com
 coze.cn
 coze.com @!cn
+coze.email
 coze.site
+cozeapp.net
 cozebaas.cn
+cozebuild.com
+cozecdn.com
+cozedeploy.com
 cozefn.cn
 cozeide.cn
+cozesdk.com
+cozetest.cn
+cozetest2.cn
+cozetest3.cn
 cpatrk.net
 cppblog.com
 cpppf.org
@@ -2069,6 +2083,7 @@ dbankcloud.com
 dbankcloud.ru @!cn
 dbankedge.cn
 dbankedge.net
+dbbuilding.fun
 dbfund.com.cn
 dc.letv.com @ads
 dcarapi.com
@@ -2261,6 +2276,7 @@ dotserver.douyucdn.cn @ads
 douban.com
 douban.fm
 doubanio.com
+doubao-dev.com
 doubao.com
 doubaocdn.com
 doubo03.com
@@ -2994,6 +3010,7 @@ guanaitong.com
 guancha.cn
 guanggaoad.youku.com @ads
 guanggaotongapp.cn
+guangyacdn.com
 guangyapan.com
 guanhaobio.com
 guanyierp.com
@@ -3575,6 +3592,7 @@ inkwai.com
 inspirecloud.cn
 inspirecloud.com
 insta360.com
+instreet.com
 inte.sogou.com @ads
 inte.sogoucdn.com @ads
 intltencentcos.com @!cn
@@ -4816,6 +4834,8 @@ nzsiteres.com
 nzwgs.com
 o7mu8.cn
 oadz.com
+obriccloud.com
+obricclouddw.com
 oc.umeng.com @ads
 oceancloudapi.com
 ocfund.cn
@@ -5351,6 +5371,7 @@ saasops.tech
 saayaa.com
 saduck.top
 saee.org.cn
+safeskill.cn
 sagemaker.com.cn @cn
 saibo.com
 samasty.com
