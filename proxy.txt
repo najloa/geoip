@@ -4309,6 +4309,7 @@ full:tac.googleapis.com @cn
 full:target.vk.com @ads
 full:test.gbugs-qa.chromium.org @cn
 full:tmdb-image-prod.b-cdn.net
+full:tmdb-web-image-prod.b-cdn.net
 full:tools.google.com @cn
 full:tools.l.google.com @cn
 full:tv.applemusic.com
