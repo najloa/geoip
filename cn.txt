@@ -1902,6 +1902,7 @@ cqccn.com
 cqctyiptv.cn
 cqhlw.cn
 cqliving.com
+cqn.com.cn
 cqnews.net
 cqsjb.com
 cqvip.com
@@ -3994,6 +3995,7 @@ kaopu001.com
 kata.com.cn
 kc9.cn
 kcbebank.com
+kcdnvip.com
 kd100.com
 kdocs.cn
 kdslife.com
@@ -4534,6 +4536,7 @@ midea.cn
 midea.com
 midea.com.cn
 mideaepayuat.com
+mieco.net
 miercn.com
 mifile.cn
 migames.com
@@ -4771,6 +4774,7 @@ new-aaid.umeng.com.gds.alibabadns.com @ads
 newasp.net
 newbandeng.com
 newcoder.com
+neweekly.com.cn
 newniu.com
 news.cn
 news.yxrb.net
@@ -4801,6 +4805,7 @@ nnthink.com
 noi.cn
 noknok.cn
 nomuraoi-sec.com
+nongfuspring.com
 novelfm.com
 novelfmpic.com
 novelfmstatic.com
@@ -6371,6 +6376,7 @@ vipexam.org
 vipmro.com
 vipmro.net
 vipstatic.com
+viviv.com
 vivo.cn
 vivo.com
 vivo.com.cn
@@ -6478,6 +6484,7 @@ vvstc.com
 vxo7tu.com
 vzuu.com
 w.cnzz.com @ads
+wahaha.com.cn
 waifushangcheng.com
 wali.com
 wallstcn.com
@@ -6570,6 +6577,7 @@ wfdata.club
 wggames.cn
 whalecloud.com
 whccb.com
+whhhealth.com
 whlovehome.com
 wicresoft.com
 win007.com
@@ -6587,6 +6595,7 @@ winyoungreading.com
 wishdown.com
 wit.qq.com @ads
 wiwide.com
+wjwai.com
 wjx.cn
 wjx.com
 wjx.top
@@ -6803,6 +6812,7 @@ xiu8.com
 xiucai.com
 xiumi.us
 xiumius.com
+xiyouyingyu.com
 xiziwang.net
 xjietiao.com
 xjoycity.com
@@ -6986,6 +6996,7 @@ yrz.name
 ys7.com
 ysjf.com
 yslyhr.com
+yst.com.cn
 ystbds.com
 ysten.com
 yt0.cc
@@ -7280,6 +7291,7 @@ zybang.com
 zygbdszt.net.cn
 zyh365.com
 zyhe.com.cn
+zysn.net
 zz.bdstatic.com @ads
 zzdtec.com
 zztfly.com
