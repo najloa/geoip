@@ -2738,6 +2738,8 @@ full:bytedance.map.fastly.net @!cn
 full:community.oneplus.com @!cn
 full:ctdsb.clouddiffuse.xyz
 full:cueme-api.quark.cn
+full:end-api.shallow.ink
+full:end.shallow.ink
 full:geetest.datasink.sensorsdata.cn
 full:hellofontpreview.oss-cn-beijing.aliyuncs.com
 full:hellowebfonts.oss-cn-beijing.aliyuncs.com
