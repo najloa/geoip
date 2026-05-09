@@ -210,6 +210,7 @@
 3type.cn
 3yx.com
 40017.cn
+4008-517-517.cn @cn
 40407.com
 423down.com
 42r.cn
@@ -409,6 +410,7 @@ abc-ca.com
 abchina.com
 abdf002.com
 abhouses.com
+aboutmcdonalds.com
 ac.fun
 acadn.cn
 acadn.com
@@ -643,6 +645,7 @@ alimmdn.com
 alios.cn
 alipan.com
 alipay
+alipay-eco.com
 alipay.cn
 alipay.com
 alipay.com.cn
@@ -1092,6 +1095,7 @@ bjyouth.gov.cn
 bjyouth.net
 bkapigw.com
 bkapps.com
+bkchina.cn
 bkclouds.cc
 bktencent.com
 blackdragon.com
@@ -2169,6 +2173,7 @@ diandianqi.com
 dianping.com
 dianwannan.com
 dianzhenkeji.com
+dicos.com.cn
 dida365.com
 didi-food.com @!cn
 didi.cn
@@ -3098,6 +3103,10 @@ hapipixia.com
 hapiyixia.com
 hapjs.org
 happyhlddz.com
+happymeal.co.nz
+happymeal.com
+happymeal.com.au
+happymealdigital.com
 harmonyos.com
 haydaypop.cn
 hazq.com
@@ -3108,6 +3117,7 @@ hc-cdn.com
 hc-sre.com
 hczq.com
 hdfimg.com
+hdlcdns.com
 hdns.ksyun.com @ads
 hdslb.com
 hdslb.org
@@ -3217,6 +3227,8 @@ honor.com
 honor.com.cn
 honorfile.com
 hoopchina.com.cn
+hophing.cn
+hophing.com.cn
 hotread.com
 houdao.com
 houyicaiji.com
@@ -3391,6 +3403,7 @@ hwht.cn
 hwocloud.com
 hwshu.com
 hwtrip.com
+hwwt8.com
 hx168.com.cn
 hxb.com.cn
 hxfy888.com
@@ -4013,6 +4026,7 @@ kesong.co
 ketangpai.com
 kexinshe.com
 kf5.com
+kfc.com.cn
 kfcbest.com
 kfomn.cn
 kfzimg.com
@@ -4026,6 +4040,7 @@ kingdee.com
 kinghomechina.com
 kingsoft-office-service.com
 kingsoft.com
+kiwa-tech.com
 kiyuu.club
 kjcdn.com
 kjwugx.com
@@ -4348,6 +4363,7 @@ log.umtrack.com @ads
 log.v2.hunantv.com @ads
 log.zijieapi.com @ads
 log2.sina.cn @ads
+logger.qmai.cn @ads
 logiseasy.com
 logs.amap.com @ads
 logupdate.avlyun.sec.miui.com @ads
@@ -4466,7 +4482,44 @@ mcadn.cn
 mcbaas.work
 mcbang.com
 mcbbs.net
+mcd-holdings.co.jp
+mcd.cn @cn
+mcd.com
+mcdchina.net @cn
+mcdelivery.co.id
+mcdelivery.co.in
+mcdelivery.co.kr
+mcdelivery.com.au
+mcdelivery.com.my
+mcdelivery.com.ph
+mcdelivery.com.sg
+mcdelivery.com.tw
 mcdemo.show
+mcdindia.com
+mcdindonesia.com
+mcdonalds-online.com
+mcdonalds.be
+mcdonalds.ca
+mcdonalds.co.id
+mcdonalds.co.jp
+mcdonalds.co.kr
+mcdonalds.co.nz
+mcdonalds.co.uk
+mcdonalds.com
+mcdonalds.com.au
+mcdonalds.com.cn @cn
+mcdonalds.com.hk
+mcdonalds.com.lb
+mcdonalds.com.my
+mcdonalds.com.ph
+mcdonalds.com.tw
+mcdonalds.hk
+mcdonalds.it
+mcdonalds.no
+mcdonalds.se
+mcdonaldsapps.com
+mcdonaldsarabia.com
+mcdonaldsparties.co.nz
 mchost.guru
 mcmod.cn
 mcprev.cn
@@ -4671,6 +4724,8 @@ muzhiwan.com
 mvad.com @ads
 mwcdns.com
 mwcloudcdn.com
+mxbc.com
+mxbc.net
 mxhichina.com
 my-kualalumpur-1.myhuaweicloud.com @!cn
 my-qcloud.com
@@ -5232,6 +5287,9 @@ qlisten.cn
 qlivecdn.com
 qlogo.cn
 qm989.com
+qmai.cn
+qmai.com
+qmimg.cn
 qmniu.com
 qnsdk.com
 qnssl.com
@@ -5521,6 +5579,7 @@ shuoshuokong.com
 shuqi.com
 shuqireader.com
 shutcm.com
+shuxinyc.com
 shyhhema.com
 shyxhy.com
 shzq.com
@@ -6133,7 +6192,10 @@ track.lc.quark.cn @ads
 track.sohu.com @ads
 tracker.ai.xiaomi.com @ads
 tracker.xiaomixiaoai.com @ads
+tracking.mcdonalds.com.cn @ads
 tracking.miui.com @ads
+trackingprd.hwwt8.com @ads
+trackserver.shuxinyc.com @ads
 tracup.com
 trae.ai @!cn
 trae.cn
@@ -7045,6 +7107,7 @@ yufuid.com
 yufuid.com.cn
 yufuid.net
 yuketang.cn
+yumchina.com
 yun.139.com
 yunaq.com
 yunba.io
