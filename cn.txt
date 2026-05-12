@@ -382,6 +382,7 @@
 999d.com
 99danji.com
 99fund.com
+99jiasu.net
 99uri.cn
 99uri.com
 9coof.cn
@@ -837,6 +838,7 @@ astral-vector.com
 atanx.alicdn.com @ads
 atanx2.alicdn.com @ads
 atatech.org
+atianqi.com
 atm.youku.com @ads
 audid.umeng.com @ads
 aurorapush.cn
@@ -928,6 +930,8 @@ baofeng.com
 baofeng.net
 baomitu.com
 baoxianshichang.com
+baozou.com
+baozoumanhua.com
 baseopendev.com
 battlecare.net
 baydn.com
@@ -1565,6 +1569,7 @@ chinaaet.com
 chinaamc.com
 chinabank.com.cn
 chinabooktrading.com
+chinabyte.com
 chinacache.com
 chinacache.net
 chinachugui.com
@@ -1638,6 +1643,7 @@ chushou.tv
 chuyu.me
 cib-fund.com.cn
 cib.com.cn
+cibn.cc
 cibntv.net
 cicc.com
 ciccwm.com
@@ -2531,6 +2537,7 @@ fang.com
 fangxiaoer.com
 fanli.com
 fanmingming.com
+fanqiecopyright.com
 fanqienovel.com
 fanqieopen.com
 fanqieopenpic.com
@@ -2665,6 +2672,7 @@ fqnovelop.com
 fqnovelpic.com
 fqnovelstatic.com
 fqnovelvod.com
+fqopenplatform.com
 freebuf.com
 freshhema.com
 freshippo.com
@@ -3293,6 +3301,7 @@ huaban.com
 huabanimg.com
 huafeng-accuweather.cn
 huafengaw.com
+huajiao.com
 huajingsec.com
 huajinsc.cn
 huangyuhui.net
@@ -3566,6 +3575,7 @@ ijiandao.com
 ijinshan.com
 ikafan.com
 ikanchai.com
+ikstatic.cn
 ilanzou.com
 ileapcloud.com
 iluckysf.net
@@ -3603,6 +3613,7 @@ infinitynewtab.com
 infoq.com
 infoqstatic.com
 inftab.com
+inke.cn
 inkuai.com
 inkwai.com
 inspirecloud.cn
@@ -3996,6 +4007,7 @@ kaipuyun.com
 kaipuyun.com.cn
 kaipuyun.net
 kaixin001.com
+kajicam.com
 kameng98.com
 kanbox.com
 kanimg.com
@@ -5058,12 +5070,14 @@ pddcdn.com
 pddim.com
 pddpic.com
 pddugc.com
+pdnews.cn
 pearvideo.com
 peccn.com
 pengyoudewu.cn
 pengyoudewu.com
 people.cn
 people.com.cn
+peopleapp.com
 pg0.cn
 pgdt.gtimg.cn @ads
 pglstatp-sdk-toutiao.com @ads
@@ -6732,6 +6746,7 @@ wss1.cn
 wsukwai.com
 wswebcdn.com
 wswebpic.com
+wting.info
 wtown.com
 wtturl.cn
 wtzw.com
@@ -6777,6 +6792,7 @@ xesimg.com
 xf-fund.com
 xfdown.com
 xfyun.cn
+xgo-img.com.cn
 xhaiwai.com
 xhby.net
 xhlsgs.com

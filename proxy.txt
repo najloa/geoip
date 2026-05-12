@@ -503,6 +503,7 @@ adsense.com @ads
 adsensecustomsearchads.com @ads
 adsenseformobileapps.com @ads
 adservice.google.com @ads
+adsgram.ai @ads
 adtrafficquality.google @ads
 adult
 adult-doujin-free-information-bureau.officialblog.jp
@@ -3315,6 +3316,7 @@ fanatical.com
 fanbox.cc
 fandango.com
 fandom.com
+fanfictionero.com
 fanfox.net
 fangsung.com
 fanhaodian.com
@@ -3484,8 +3486,11 @@ fgmtv.org
 fi11.com
 fi11av1.com
 fi11tv1.com
+fic.fan
+ficador.com
 ficbook.net
 ficeboock.com
+ficmania.com
 fictionmania.tv
 fikfap.com
 fileditchfiles.me
@@ -5159,6 +5164,7 @@ hayabusa.dev
 hayabusa.io
 hayabusa.media
 hayya.ae
+hbo
 hbo-europe.com
 hbo.ba
 hbo.bg
@@ -7621,6 +7627,8 @@ nhentaihaven.org
 nheos.com
 nhncorp.jp
 niceanimegames.com
+nicegram.app
+nicegram.cloud
 niceporn.tv
 nichepornsite.com
 nichepornsites.com
@@ -10144,6 +10152,7 @@ teensnow.link
 teentube.pro
 teenwebcamtube.com
 teeztube.com
+teinon.net
 telega.one
 telegra.ph
 telegram-cdn.org
