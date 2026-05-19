@@ -37,6 +37,7 @@
 12306.cn
 123245.com
 123254.com
+123278.com
 123294.com
 1234567.com.cn
 123624.com
@@ -261,6 +262,7 @@
 51kim.com
 51meishu.com
 51nod.com
+51pptmoban.com
 51selling.com
 51sole.com
 51togic.com
@@ -697,6 +699,7 @@ amap.com
 amapauto.com
 amazonaws.cn @cn
 amazonaws.com.cn @cn
+amazonwebservices.cn @cn
 amazonwebservices.com.cn @cn
 amazonworkdocs.cn @cn
 amazonworkdocs.com.cn @cn
@@ -736,6 +739,8 @@ anmo.com
 anquan.org
 anquanke.com
 anruan.com
+antafu.com
+antaq.com
 antfin.com
 antfortune.com
 antgroup-inc.cn
@@ -2070,6 +2075,7 @@ danji6.com
 danjuanfunds.com
 dao123.com
 daocloud.io
+daodoc.com
 daojia.com
 daovoice.io
 data.mistat.india.xiaomi.com @ads
@@ -2967,6 +2973,7 @@ gogokid.com
 gogokid.com.cn
 goka.top
 gold678.com
+goldhoe.com
 golink.com
 golinkapi.com
 golinkcn.com
@@ -3848,6 +3855,7 @@ jikexueyuan.com
 jikipedia.com
 jin10.com
 jinantimes.com.cn
+jinchutou.com
 jindidata.com
 jingdong.com
 jingdongjinrong.com
@@ -5453,6 +5461,7 @@ saayaa.com
 saduck.top
 saee.org.cn
 safeskill.cn
+safewk.com
 sagemaker.com.cn @cn
 saibo.com
 samasty.com
@@ -5846,6 +5855,7 @@ taobao.org
 taobaocdn.com
 taobizhong.com
 taoche.com
+taodocs.com
 taomee.com
 taopiaopiao.com
 taou.com
@@ -6640,6 +6650,7 @@ weiyun.com
 welltrend-edu.com
 wenjuan.com
 wenkeju.com
+wenkub.com
 wenmingban.com
 wenshushu.cn
 wenshushu.com
@@ -6764,6 +6775,7 @@ wuming.com
 wuuxiang.com
 wuximediaglobal.com
 wuyou.net
+wxaurl.cn
 wxcloudrun.com
 wxgateway.com
 wxlivecdn.com
@@ -7255,6 +7267,7 @@ zhihang100.com
 zhihu-web-analytics.zhihu.com @ads
 zhihu.com
 zhihuishu.com
+zhijidoc.com
 zhiliaowenda.com.cn
 zhimg.com
 zhipin.com

@@ -3994,9 +3994,7 @@ full:clientservices.googleapis.com @cn
 full:cloudaicompanion.googleapis.com
 full:cloudcode-pa.googleapis.com
 full:cn.widevine.com @cn
-full:cnappinstall.googleadapis.com @cn
 full:connectivitycheck.gstatic.com @cn
-full:content.googleadapis.com @cn
 full:copilot-proxy.githubusercontent.com
 full:copilot-telemetry-service.githubusercontent.com @ads
 full:copilot-telemetry.githubusercontent.com @ads
@@ -4051,7 +4049,6 @@ full:docker-pinata-support.s3.amazonaws.com
 full:doubleclick-cn.net @cn
 full:doubleclick.net @cn
 full:download.mlcc.google.com @cn
-full:download.qatp1.net @cn
 full:download.tensorflow.google.com @cn
 full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net
@@ -4060,11 +4057,11 @@ full:ds-vod-abematv.akamaized.net
 full:ds0h3roq6wcgc.cloudfront.net
 full:dykkng5hnh52u.cloudfront.net
 full:e122475.dscg.akamaiedge.net
-full:emmapplecodevice.googleapis.com @cn
 full:espn.api.edge.bamgrid.com
 full:espn.hb.omtrdc.net
 full:espndotcom.tt.omtrdc.net
 full:fandom.zendesk.com
+full:favoritescc-hamivideo2.cdn.hinet.net
 full:fbcdn-a.akamaihd.net
 full:firebase-settings.crashlytics.com @cn
 full:firebase.google.com
@@ -4097,7 +4094,6 @@ full:github-production-repository-image-32fea6.s3.amazonaws.com
 full:github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
 full:github-production-user-asset-6210df.s3.amazonaws.com
 full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
-full:go.corp.google.com @cn
 full:gonglchuangl.net @cn
 full:gongyichuangyi.net @cn
 full:google-analytics-cn.com @cn
@@ -4138,22 +4134,18 @@ full:images-fe.ssl-images-amazon.com
 full:images-na.ssl-images-amazon.com
 full:imasdk.googleapis.com @cn
 full:informer.yandex.ru @ads
-full:l2-uberproxy.corp.google.com @cn
 full:lastfm.freetls.fastly.net
+full:lgcscc-hamivideo2.cdn.hinet.net
 full:licdn.cn.cdn20.com
 full:linear-abematv.akamaized.net
 full:link.theplatform.com
 full:linkedin.sc.omtrdc.net
 full:live-patreon-marketing.pantheonsite.io
-full:logger-dev.corp.google.com @cn
-full:logger.corp.google.com @cn
-full:login.corp.google.com @cn
 full:mc.yandex.com @ads
 full:mc.yandex.net @ads
 full:mc.yango.com @ads
 full:misa-prod.s3.ap-northeast-1.amazonaws.com
 full:mobilelive-hamivideo.cdn.hinet.net
-full:monitoring.qpdp1.net @cn
 full:msh.amazon.co.uk
 full:mtalk-dev.google.com
 full:mtalk-staging.google.com
@@ -4214,17 +4206,10 @@ full:productionresultssa6.blob.core.windows.net
 full:productionresultssa7.blob.core.windows.net
 full:productionresultssa8.blob.core.windows.net
 full:productionresultssa9.blob.core.windows.net
-full:proxyconfig.corp.google.com @cn
 full:publicca.googleapis.com
 full:pvr-hamivideo.cdn.hinet.net
-full:qagpublic.qatp1.net @cn
-full:qgadmin.qcpp1.net @cn
 full:qiao-cn.com @cn
 full:qpx.googleflights.net @cn
-full:qualysapi.qatp1.net @cn
-full:qualysguard.qpdp1.net @cn
-full:r.cert.corp.google.com @cn
-full:rapture-prod.corp.google.com @cn
 full:recaptcha-cn.net @cn
 full:recaptcha.net @cn
 full:redirector.bdn.dev @cn
@@ -4245,7 +4230,6 @@ full:roovza.launches.appsflyersdk.com @!cn
 full:roovza.skadsdk.appsflyersdk.com @!cn
 full:safebrowsing-cache.google.com @cn
 full:safebrowsing.googleapis.com @cn
-full:scanservice1.qcpp1.net @cn
 full:scc.ott.hinet.net
 full:scholar.google.ae
 full:scholar.google.at
@@ -4330,7 +4314,6 @@ full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
 full:ssl-google-analytics.l.google.com @cn
 full:ssl.gstatic.com @cn
-full:sslredirect.corp.google.com @cn
 full:st-ok-pts.cdn-vk.ru
 full:st-ok.cdn-vk.ru
 full:staging-controlbe.floonet.goog @cn
@@ -4339,24 +4322,15 @@ full:staging.databe.floonet.goog @cn
 full:static-hamivideo.cdn.hinet.net
 full:static.siege-amazon.com
 full:stats.vk-portal.net @ads
-full:streaming-uberproxy-rotation.corp.google.com @cn
-full:streaming-uberproxy.corp.google.com @cn
-full:sup-ssh-relay.corp.google.com @cn
-full:sup-ssh-relay2.corp.google.com @cn
-full:sup.corp.google.com @cn
-full:sup.l.google.com @cn
 full:tac.googleapis.com @cn
 full:target.vk.com @ads
-full:test.gbugs-qa.chromium.org @cn
+full:thumbnail-hamivideo.cdn.hinet.net
+full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
 full:tmdb-web-image-prod.b-cdn.net
 full:tools.google.com @cn
-full:tools.l.google.com @cn
 full:tv.applemusic.com
 full:tvcastlive-hamivideo.cdn.hinet.net
-full:uberproxy-debug4.corp.google.com @cn
-full:uberproxy.corp.google.com @cn
-full:uberproxy6.corp.google.com @cn
 full:update.crashlytics.com @cn
 full:update.googleapis.com @cn
 full:uts-api.itunes.apple.com
@@ -4376,6 +4350,7 @@ full:vs-hls-pushb-uk-live.akamaized.net
 full:wear.googleapis.com @cn
 full:webchannel-alkalimakersuite-pa.clients6.google.com
 full:weblive-hamivideo.cdn.hinet.net
+full:webvodad-hamivideo.cdn.hinet.net
 full:widgets.stripst.com
 full:ws.audioscrobbler.com
 full:www-google-analytics.l.google.com @cn
@@ -4384,7 +4359,6 @@ full:www.destinationurl.com @cn
 full:www.gstatic.com @cn
 full:www.pxcc.com @cn
 full:www.recaptcha.net @cn
-full:xn--flw351e.com @cn
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
 fullbookmm.blogspot.com
@@ -7403,6 +7377,7 @@ myrimmingporn.com
 mysexgames.com
 mysexygfs.com
 mysinchew.com
+myteamspeak.com
 myteenwebcam.com
 mytimesplus.co.uk
 mytrannycams.com
@@ -10123,6 +10098,8 @@ tdesktop.com
 teacherfucksteens.com
 teachmyass.com
 teamskeet.com
+teamspeak-services.com
+teamspeak.com
 teatroporno.com
 techatbloomberg.com
 techcrunch.com
