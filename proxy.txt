@@ -4505,6 +4505,7 @@ gelbooru.wjcodes.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
+gemini.gstatic.com
 gemini.yahoo.com @ads
 gendai.net
 generativeai.google
