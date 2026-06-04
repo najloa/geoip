@@ -385,6 +385,7 @@
 962.net
 9718.com
 97973.com
+97ting.com
 99166.com
 998.com
 999d.com
@@ -4096,6 +4097,7 @@ kfc.com.cn
 kfcbest.com
 kfomn.cn
 kfzimg.com
+kg.qq.com
 kgimg.com
 kglink.cn
 kidsccshow.com
@@ -4210,6 +4212,7 @@ kunlunvi.com
 kunlunwe.com
 kuqin.com
 kurogames.com
+kurogames.net
 kuwo.cn
 kuyin123.com
 kuyinxiu.com
@@ -4801,6 +4804,7 @@ mumbuy365.com
 muomou.com
 muscdn.com @!cn
 music.httpdns.c.163.com @ads
+music.qq.com
 musical.ly @!cn
 muwai.com
 muyewx.com
@@ -5400,6 +5404,7 @@ qqgexingqianming.com
 qqmail.com
 qqmra.cn
 qqmra.com
+qqmusic.com
 qqrizhi.com
 qqshuoshuo.com
 qschou.com
@@ -6250,6 +6255,7 @@ timedoo.com
 timibase.com
 timmerse.com
 tingbook.com
+tingmall.com
 tingyun.com
 tipdm.org
 titanar.com
@@ -6479,6 +6485,7 @@ uiwow.com
 ulikecam.com
 ulogs.umeng.com @ads
 ulogs.umengcloud.com @ads
+ultimatemusic.cn
 ultracachenode.com
 um.run
 umajor.net
@@ -6781,6 +6788,7 @@ weidian.com
 weilaicaijing.com
 weilaiyunxiao.com
 weiphone.net
+weishi.com
 weixinbridge.com
 weixing.com
 weiyangx.com
@@ -7110,6 +7118,7 @@ xyzfm.link
 xyzfm.space
 xyzq.com.cn
 xzking.com
+y.qq.com
 y43f6.cn
 yahui.cc
 yamibo.com
@@ -7211,6 +7220,9 @@ youhua.com
 youjiao.com
 youke.co
 youku.com
+youku.tv @!cn
+youkuhonor.com
+youkuplay.com @!cn
 youlian.fun
 youpin.cn
 youpin.com.cn
@@ -7269,6 +7281,7 @@ ytoluohan.xin
 ytxptd.cn
 ytxptz.cn
 ytzq.com
+yuanbao.tencent.com
 yuanbei.biz
 yuanfudao.com
 yuanqi.tencent.com
