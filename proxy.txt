@@ -2010,6 +2010,7 @@ clau.de
 claude.ai
 claude.com
 claudemcpclient.com
+claudemcpcontent.com
 claudeusercontent.com
 clawhub.ai
 clck.ru
@@ -4177,6 +4178,7 @@ full:linear-abematv.akamaized.net
 full:link.theplatform.com
 full:linkedin.sc.omtrdc.net
 full:live-patreon-marketing.pantheonsite.io
+full:log.strm.yandex.ru @ads
 full:mc.yandex.com @ads
 full:mc.yandex.net @ads
 full:mc.yango.com @ads
@@ -4394,6 +4396,7 @@ full:www-googletagmanager.l.google.com @cn
 full:www.destinationurl.com @cn
 full:www.gstatic.com @cn
 full:www.pxcc.com @cn
+full:www.quora.com.cdn.cloudflare.net
 full:www.recaptcha.net @cn
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
