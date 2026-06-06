@@ -99,6 +99,7 @@
 18183.com
 188.com
 189.cn
+189smarthome.com
 1905.com
 19yxw.com
 1hai.cn
@@ -766,6 +767,7 @@ anycross.com
 anywlan.com
 anzhuo.cn
 ao-x.ac.cn
+aocde.com
 aoshu.com
 aotrip.net
 aoyou.com
@@ -2217,6 +2219,7 @@ dianwoda.cn
 dianwoda.com
 dianzhenkeji.com
 dicos.com.cn
+dict.cn
 dida365.com
 didi-food.com @!cn
 didi.cn
@@ -4116,6 +4119,7 @@ kk1.vip
 kkmh.com
 kksmg.com
 kkzj.com
+klingai.com
 klpbbs.com
 km6g.cn
 km7g.cn
@@ -4651,6 +4655,7 @@ metalrevolution.com
 metaso.cn
 mfcteda.com
 mfuns.cn
+mfuns.net
 mgslb.com
 mgtv.com
 mhystatic.com
@@ -4940,6 +4945,8 @@ nihaoafrica.org
 nihaorwanda.cn
 ningtingche.com
 nio.cn
+nio.com
+niohome.com
 njcb.com.cn
 njzq.com.cn
 nlark.com
@@ -5168,6 +5175,7 @@ phfund.com.cn
 philanthropy.xin
 phira.cn
 phoenixcenter.cn
+php.cn
 phpcomposer.com
 phpweblog.net
 phpwind.com
@@ -5348,6 +5356,7 @@ qingfuwuapi.cn
 qingfuwucdn.com
 qingfuwucdn.net
 qingping.co
+qingque.cn
 qingsongchou.com
 qingstor.com
 qingting.fm
@@ -5948,6 +5957,7 @@ sxcxldjy.com
 sxgou.cn
 sxl.cn
 sxlcdn.cn
+sxlcdn.com
 sxsimg.com
 sydw8.com
 syh.zybang.com @ads
@@ -7385,6 +7395,7 @@ zdnscloud.org.cn
 zdzq.com.cn
 zealer.com
 zebracdn.com
+zeekrgroup.com
 zeekrlife.com
 zgbk.com
 zgcbank.com
