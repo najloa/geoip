@@ -561,8 +561,11 @@ agora.io
 agoraio.cn
 agoralab.co
 agrantsem.com
+ahcaijing.com
+ahcjw.com
 ahfda.com
 ahitv.com
+ahwang.cn
 aicdn.com
 aichaoxing.com
 aichongzoo.cn
@@ -868,6 +871,7 @@ autohome.tel
 autoimg.cn
 autoimg.com.cn
 autonavi.com
+avermedia.cn
 avicfund.cn
 avicsec.com
 avlyun.com
@@ -937,6 +941,7 @@ baltamatica.net
 baltamatica.org.cn
 bambulab.com
 bamenzhushou.com
+bandao.cn
 bangongziyuan.com
 bank-of-china.com
 bankcomm.cn
@@ -1633,6 +1638,7 @@ chinatelecomglobal.com @!cn
 chinatelecomhk.com @!cn
 chinatowercom.cn
 chinatranslation.net
+chinaums.com
 chinaunicom.cn
 chinaunicom.com
 chinaunicom.com.cn
@@ -2084,6 +2090,7 @@ da.mgtv.com @ads
 dadajiasu.com
 dadighost.com
 daguzhe.com
+dahe.cn
 daheapp.com
 dahebao.cn
 dajiabao.com
@@ -3103,10 +3110,13 @@ gwdang.com
 gwm.com.cn
 gxairlines.com
 gxb.io
+gxtv.cn
+gxxmt.com
 gyzq.com.cn
 gz.file.myqcloud.com
 gzcqs.com
 gzctyiptv.cn
+gztv.com
 gzurl.cn
 gzwanju.com
 gzyowin.com
@@ -3184,6 +3194,7 @@ healthjd.com
 heavenlywind.cc
 hecdn.net
 hefei.cc
+heimadata.com
 heisha.net
 heiyan.com
 heiyanimg.com
@@ -3467,6 +3478,7 @@ hwwt8.com
 hx168.com.cn
 hxb.com.cn
 hxfy888.com
+hxnews.com
 hxsd.com
 hxzq.cn
 hypercachenet.com
@@ -3665,6 +3677,7 @@ infoq.cn
 infoq.com
 infoqstatic.com
 inftab.com
+infzm.com
 inke.cn
 inkuai.com
 inkwai.com
@@ -4238,6 +4251,7 @@ lady8844.com
 lagou.com
 laiwang.com
 lancdn.com
+landian.news
 landian.vip
 landian.xyz
 landiannews.com
@@ -4374,6 +4388,7 @@ lf127.net
 lg3000.top
 lgstatic.com
 lhzq.com
+liangtv.cn
 liangxinyao.com
 lianjia.com
 lianmeng.360.cn @ads
@@ -4735,6 +4750,7 @@ mmbang.com
 mmbang.info
 mmstat.com
 mndqlib.net
+mnw.cn
 mob.com
 mobads-logs.baidu.com @ads
 mobads-pre-config.cdn.bcebos.com @ads
@@ -4938,6 +4954,7 @@ nextvid.net
 nextworkshop.net
 neyetwatcher.com
 nffund.com
+nfpeople.com
 nga.cn
 ngabbs.com
 ngacn.cc
@@ -4970,6 +4987,7 @@ nowcoder.net
 nowcoder.org
 nowscore.com
 npmmirror.com
+npsv6.com
 nruan.com
 ns95c.cn
 nsclick.baidu.com @ads
@@ -5104,6 +5122,7 @@ oss-us-west-1.aliyuncs.com @!cn
 ottcn.com
 oupeng.com
 ourdvsss.com
+ourjiangsu.com
 ourl.co
 overseas.weibo.com @!cn
 ovscdns.com
@@ -5267,6 +5286,7 @@ push.qq.com @ads
 pushcfg.com
 pv.hd.sohu.com @ads
 pv.sohu.com @ads
+pwsannong.com
 py-axa.com
 qbitai.com
 qbox.me
@@ -5462,6 +5482,7 @@ rdnsdb.com
 readnovel.com
 realcybertron.com
 realme.com
+realme.net
 realmebbs.com
 realmemobile.com
 redelight.cn
@@ -5566,6 +5587,7 @@ sccreators.cn
 scctyiptv.cn
 scdng.com
 scescdn.cn
+scgchc.com
 schoopia.com
 scid.cn
 sciencechina.cn
@@ -5575,6 +5597,8 @@ scm121.com
 scoregg.com
 scsentry.cn
 scsjb.cn
+sctv-tf.com
+sctv.com
 sczsxx.com
 sda.cn
 sdgdwljt.com
@@ -7326,6 +7350,7 @@ yunfancdn.com
 yunify.com
 yunjitele.com
 yunkanpan.com
+yunnan.cn
 yunos-inc.com
 yunos.com
 yunpan.aliyun.com
@@ -7407,6 +7432,7 @@ zggbdszt.net.cn
 zggqzp.com
 zgjm.org
 zgjsks.com
+zgjtb.com
 zglxw.com
 zgsydw.com
 zgxytc.com

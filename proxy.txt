@@ -4601,6 +4601,7 @@ ggpht.cn @cn
 ggpht.com
 gh.io
 ghcr.io
+ghe.com
 ghettotube.com
 ghostarchive.org
 giantessbooru.com
@@ -7652,6 +7653,10 @@ nhentai.xxx
 nhentaihaven.com
 nhentaihaven.org
 nheos.com
+nhk
+nhk.jp
+nhk.or.jp
+nhkworld.jp
 nhncorp.jp
 niceanimegames.com
 nicegram.app
