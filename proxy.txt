@@ -146,6 +146,7 @@
 24porn.com
 24porn.pro
 258porn.com
+265.com @cn
 265sdwe3.com
 26img.com
 2789av.com
@@ -3947,7 +3948,6 @@ fulib711.shop
 fuliba2021.com
 fuliba2023.net
 fulipic.gumroad.com
-full:265.com @cn
 full:2mdn-cn.net @cn
 full:2mdn.net @cn
 full:abematv.akamaized.net
@@ -4397,6 +4397,7 @@ full:www.destinationurl.com @cn
 full:www.gstatic.com @cn
 full:www.pxcc.com @cn
 full:www.quora.com.cdn.cloudflare.net
+full:www.recaptcha-cn.net @cn
 full:www.recaptcha.net @cn
 full:yt3.googleusercontent.com
 full:zeenews-fonts.s3.amazonaws.com
@@ -6720,6 +6721,8 @@ livecamclips.com
 livehdcams.com
 livejasmin.com
 livejasminbabes.net
+livejournal.com
+livejournal.net
 livemodels.co
 liveperson.net
 liveporngirls.com
