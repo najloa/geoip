@@ -2267,7 +2267,6 @@ dlgslb.cn
 dlgslb.net
 dlnel.com
 dlnel.org
-dlswbr.baidu.com @ads
 dmall.com
 dmallcdn.com
 dmzj.com
@@ -3482,6 +3481,7 @@ hxnews.com
 hxsd.com
 hxzq.cn
 hypercachenet.com
+hypercachenode.com
 hytung.cn
 hzdtv.tv
 hzman.net
@@ -4683,7 +4683,6 @@ mi-idc.com
 mi-img.com
 mi.com
 miaibox.com
-miao.baidu.com @ads
 miaobolive.com
 miaomiaoz.com
 miaomiaozhe.com
