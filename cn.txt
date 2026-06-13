@@ -603,6 +603,9 @@ ak-s-cw.tripcdn.com @!cn
 ak-s.tripcdn.com @!cn
 akatest.tripcdn.com @!cn
 aki-game.com
+aki-game.net @!cn
+aki-game2.com
+aki-game2.net @!cn
 akikocorp.cn
 akspeedy.com
 aldwx.com
@@ -4230,8 +4233,13 @@ kunlunta.com
 kunlunvi.com
 kunlunwe.com
 kuqin.com
+kurobbs.com
+kurogame.com
+kurogame.net @!cn
+kurogame.xyz
+kurogames-ads.com @ads
 kurogames.com
-kurogames.net
+kurogames.net @!cn
 kuwo.cn
 kuyin123.com
 kuyinxiu.com
@@ -6955,6 +6963,7 @@ wuliujie.cn
 wuliujie.com
 wumii.com
 wuming.com
+wutheringwaves.cn
 wuuxiang.com
 wuximediaglobal.com
 wuyou.net
