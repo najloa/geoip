@@ -79,6 +79,7 @@
 16q.cn
 16rd.com
 17173.com
+17173cdn.com
 172mix.com
 178.com
 178linux.com
@@ -193,7 +194,10 @@
 36krcdn.com
 36krcnd.com
 37.com
+37.com.cn
 3733.com
+37wan.net
+37wanimg.com
 3839.com
 3839apk.com
 3839app.com
@@ -321,6 +325,7 @@
 5wyxi.com
 5you.com
 6-u.com
+6.cn
 61.com
 6655.com
 66wz.com
@@ -1353,6 +1358,7 @@ cardbaobao.com
 carnoc.com
 cb.baidu.com @ads
 cbern.com.cn
+cbinews.com
 cbjq.com
 cbjs.baidu.com @ads
 cc-pay.cn
@@ -1568,11 +1574,13 @@ changba.com
 changdunovel.com
 changxie.com
 changyan.com
+changyou.com
 chaojituzi.net
 chaoxing.cc
 chaoxing.com
 chaoxingv.com
 chashebao.com
+chaspark.com
 chat.top
 chatglm.cn
 chaz.fun
@@ -1581,6 +1589,7 @@ chazidian.com
 chaziyu.com
 chdi.com.cn
 che168.com
+cheaa.com
 checkzeit.com
 chei.com.cn
 chelaile.net.cn
@@ -1633,6 +1642,7 @@ chinapubmed.net
 chinaqw.com
 chinaso.com
 chinasspp.com
+chinastarmarket.cn
 chinastock.com.cn
 chinatea.com.cn
 chinatelecom-h.com
@@ -2077,6 +2087,7 @@ cupid.iqiyi.com @ads
 cwxzx.com
 cxbiji.com
 cxmt.com
+cy.com
 cyagen.com
 cybtc.com
 cyol.com
@@ -3008,8 +3019,9 @@ globrand.com
 glsc.com.cn
 glxcc.net
 gm86.com
+gmdaily.cn
 gmedev.cn
-gmw.com
+gmw.cn
 gmz88.com
 gneec.com
 gneec.com.cn
@@ -3084,6 +3096,7 @@ guanaitong.com
 guancha.cn
 guanggaoad.youku.com @ads
 guanggaotongapp.cn
+guangmingdaily.cn
 guangyacdn.com
 guangyapan.com
 guanhaobio.com
@@ -3280,6 +3293,7 @@ hnacargo.com
 hnair.com
 hnbntv.com
 hndt.com
+hnol.net
 hnrcsc.com
 hntv.tv
 hnyuyuhui.com
@@ -3452,6 +3466,7 @@ hupun.com.cn
 huxiu.com
 huxiucdn.com
 huya.com
+hwad.net
 hwads-t.api.my7v.com @ads
 hwastro.cn
 hwastro.com
@@ -3656,6 +3671,7 @@ imcome.net
 imcoming.com
 imdada.cn
 imedao.com
+img-space.com
 img-x.jd.com @ads
 img4399.com
 imgcdc.com
@@ -3731,6 +3747,7 @@ ishumei.com
 ishuqi.com
 ispqcloud.com
 istoreos.com
+istv.cn
 isvjcloud.com
 isvjd.com
 isxtv.com
@@ -3923,6 +3940,7 @@ jingdong.com
 jingdongjinrong.com
 jinglingbiaozhu.com
 jingpinhui.com
+jingpt.com
 jingxi.com
 jinianbi.com
 jinrishici.com
@@ -4182,6 +4200,7 @@ ku6.com
 ku6cdn.com
 ku6img.com
 kuaaa.com
+kuaidi.com
 kuaidi100.com
 kuaidilab.com
 kuaiduizuoye.com
@@ -4258,6 +4277,7 @@ lackvc.cn
 lady8844.com
 lagou.com
 laiwang.com
+laiyagushi.com
 lancdn.com
 landian.news
 landian.vip
@@ -4267,6 +4287,7 @@ langeasy.cn
 langeasy.com.cn
 langrenclub.com
 lanhuapp.com
+lanjinger.com
 lanosso.com
 lanrar.com
 lanzou.com
@@ -4774,6 +4795,7 @@ modernjs.cn
 modex.com.cn
 moegirl.org
 moegirl.org.cn
+moer.cn
 mofang.com
 mofazhu.com
 mogoo.com
@@ -5190,6 +5212,8 @@ pengyoudewu.com
 people.cn
 people.com.cn
 peopleapp.com
+petalmail.com
+petalmaps.com
 pg0.cn
 pgdt.gtimg.cn @ads
 pglstatp-sdk-toutiao.com @ads
@@ -5239,6 +5263,7 @@ pkoplink.com
 pkuh6.cn
 pkulaw.com
 pl.youku.com @ads
+playcool.com
 plbslog.umeng.com @ads
 pmir.3g.qq.com @ads
 pmphmooc.com
@@ -5613,7 +5638,9 @@ sdkclick.mobile.sina.cn @ads
 sdo.com
 searchstatic.com
 searchtoutiaolive.com
+seasungames.cn
 seasungames.com
+seasunwbl.com
 sec-wiki.com
 secec.com
 secrss.com
@@ -6603,6 +6630,8 @@ vanho.cn
 vaptcha.com
 vaptcha.net
 variflight.com
+vbdata.cn
+vcbeat.top
 vcimg.com
 vcloud-byte.com
 vcloudapi.com
@@ -6666,6 +6695,7 @@ vmallres.com
 vnet.cn
 vo6z2.cn
 vobao.com
+voc.com.cn
 vodtcbk.com
 volc-dns.com
 volc-dns.net
@@ -7098,6 +7128,7 @@ xishanju.com
 xitong8.com
 xitu.com
 xitu.io
+xiu123.cn
 xiu8.com
 xiucai.com
 xiumi.us
@@ -7464,6 +7495,7 @@ zhcw.com
 zhenai.com
 zhfund.com
 zhibo8.cc
+zhibo8.com
 zhichanli.com
 zhidemai.com
 zhiding.cn
