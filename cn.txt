@@ -377,6 +377,7 @@
 917.com
 91changxie.com
 91danji.com
+91q.com
 91yunxiao.com
 95095.com
 95306.cn
@@ -2283,6 +2284,7 @@ dlnel.com
 dlnel.org
 dmall.com
 dmallcdn.com
+dmhmusic.com
 dmzj.com
 dns.iqiyi.com @ads
 dns.jd.com @ads
@@ -3131,6 +3133,7 @@ gyzq.com.cn
 gz.file.myqcloud.com
 gzcqs.com
 gzctyiptv.cn
+gzlzfm.com
 gztv.com
 gzurl.cn
 gzwanju.com
@@ -3773,6 +3776,7 @@ ivwen.com
 ivwi3.cn
 iwanad.baidu.com @ads
 ixgvideo.com
+ixiaochuan.cn
 ixigua.com
 ixiguapi.com
 ixiguavideo.com
@@ -3784,6 +3788,7 @@ izto.com.cn
 iztzq.com
 izuche.com
 izuchebao.com
+izuiyou.com
 j-test.com
 ja.gamersky.com @ads
 ja1.gamersky.com @ads
@@ -4469,6 +4474,7 @@ lixiang.com
 lixinger.com
 lizhi.fm
 lizhifm.com
+lizhiinc.com
 ljcdn.com
 lkcoffee.com
 lkkbrand.com
@@ -4548,6 +4554,8 @@ lydaas.net
 lydass.cn
 lydass.com.cn
 lydass.net
+lz310.com
+lzpipi.com
 m-adash.m.taobao.com @ads
 m-now.cn
 m.aty.sohu.com @ads
@@ -4847,6 +4855,7 @@ mszq.com
 mti100.com
 mtime.cn
 mtime.com
+mting.info
 mtrace.qq.com @ads
 mtyun.com
 mukewang.com
@@ -5732,6 +5741,7 @@ shoujihuifu.com
 shouqianba.com
 shoutanjjj.com
 shouyoubus.com
+showstart.com
 shrbank.com
 shssp.org
 shuanghui.net
@@ -6046,6 +6056,7 @@ tai3.cn
 taichuan.com
 taichuan.net
 taihe.com
+taihemusic.cn
 taihuoniao.com
 taikang.com
 taikanglife.com
@@ -6246,6 +6257,7 @@ tgbus.com
 tgovcloud.com
 tgpro.top
 tgprocs.net
+th-music.com
 th.weibo.com @!cn
 thecover.cn
 theduapp.cn
@@ -7050,6 +7062,7 @@ xiangrikuisite.com
 xianjiqun.com
 xiaoaiassist.com
 xiaobaixitong.com
+xiaochuankeji.cn
 xiaodutv.com
 xiaoe-tech.com
 xiaogouh5.com
