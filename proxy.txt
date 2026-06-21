@@ -108,6 +108,8 @@
 1bokeponline.top
 1classtube.com
 1degree.com.au
+1drv.com
+1drv.ms
 1e100.net
 1jjdg2.vip
 1lib.cloud
@@ -141,7 +143,6 @@
 21vv.cc
 22112211.xyz
 2371tom.com
-24h.tv
 24hjav.com
 24porn.com
 24porn.pro
@@ -445,6 +446,7 @@ aavs.xyz
 abbywintersfree.com
 abc-studios.com
 abc.com
+abc.xyz
 abclider.com
 abellalist.com
 abema-tv.com
@@ -748,7 +750,6 @@ amebame.com
 amebaownd.com
 amebaowndme.com
 ameblo.jp
-amediateka.ru
 americasvoice.news
 amerikaninsesi.com
 amerikaninsesi.org
@@ -784,7 +785,7 @@ analtime.org
 analvids.com
 analytics-alv.google.com @ads
 analytics.facebook.com @ads
-analytics.tiktok.com @!cn @ads
+analytics.tiktok.com @ads
 analytics.vk.com @ads
 ancensored.com
 android
@@ -858,11 +859,6 @@ apibay.org
 apigee.com
 apina.biz
 apiok.ru
-apkcombo.com
-apkmirror.com
-apkpure.com
-apkpure.net
-apkpures.xyz
 apnews.com
 apornotube.net
 aporntv.com
@@ -1002,7 +998,6 @@ atube.xxx
 atubex.com
 atwiki.jp
 auntymaza.com
-auroraoss.com
 autodraw.com
 autoesporte.com
 autoesporte.com.br
@@ -1033,6 +1028,7 @@ avdudu.top
 avdwang.xyz
 avelip.com
 aventertainments.com
+avermedia.com
 avfox.cc
 avgigi.com
 avgle.com
@@ -1259,7 +1255,6 @@ beeg.com
 beeg.rest
 beegfree.com
 beejp.net
-beeline.tv
 beforeigners.com
 befuck.com
 befuck.net
@@ -1375,7 +1370,6 @@ bikaios.xyz
 bili2.cc
 bili888.com
 bili999.com
-biliplus.com
 bimbim.com
 bimbolive.com
 bingoporno.com
@@ -1771,6 +1765,7 @@ cai21.xyz
 caijinglengyan.com
 caime.xyz
 cairnspost.com.au
+calicolabs.com
 callabitch.org
 callhulu.com
 cam4.com
@@ -1809,6 +1804,7 @@ camwhoria.com
 candidforum-videos.com
 candycumcity.com
 candypleasure.com
+capitalg.com
 careerfundas.com
 careerjournal.com
 careersatfb.com
@@ -1835,7 +1831,6 @@ casimages.com
 casoneexchange.com
 castingcouch-x.com
 castro.fm
-cataboom.com
 catalinacruz.com
 catbox.moe
 catchplay.com
@@ -1876,11 +1871,8 @@ cdninstagram.com
 cdnlab.live
 cdnmhws.cc
 cdnmhwscc.vip
-cdnpure.com
 cdntrex.com
 cdnuc.vip
-cdnvideo.ru
-cdnvideohub.com
 cdnxxx-proxy.co
 cdnxxx-proxy.xyz
 celebforum.co
@@ -1998,7 +1990,6 @@ cityheaven.net
 citylab.com
 cityoflove.com
 citytourgirls.com
-civitai.com
 ciyuanjie.cc
 ck101.com
 ckcdn.com
@@ -2036,7 +2027,6 @@ cloudflare-ipfs.com
 cloudfunctions.net
 cloudinary.com
 cloudinary.net
-cloudlatex.io
 cloudn.me
 cloudproxy.app
 cloudrobotics.com
@@ -2102,7 +2092,6 @@ collegesexgames.com
 colliderporn.com
 collins.co.uk
 collins.in
-collinsdictionary.com
 colombianas.webcam
 colorfulstage.com
 comdotgame.com
@@ -2122,18 +2111,14 @@ comixzilla.com
 comments.app
 como-hackearfacebook.com
 componentkit.org
-compose-spec.io
 conair.me
 conan.xxx
 conscrypt.com
 conscrypt.org
-consentpro.com
 contactossexoecuador.com
 content-ause1-ur-discovery1.uplynk.com
 contest.com
 cookiechoices.org
-cookielaw.org
-cookiepro.com
 cool-comics.com
 cool18.com
 cool3c.com
@@ -2360,7 +2345,6 @@ deeper.com
 deepfake-porn.com
 deepfakeporn.net
 deepflood.com
-deepl.com
 deepmind.com
 deepmind.google
 deezer.com
@@ -2604,9 +2588,6 @@ dnai.in
 dnaindia.com
 dndbeyond.com
 dobbyporn.com
-docker.com
-docker.io
-dockerstatic.com
 docs.new
 doctor-videos.com
 dodgersexcartoons.com
@@ -3994,7 +3975,6 @@ full:antigravity.googleapis.com
 full:aod-pod-uk-live.akamaized.net
 full:api-p.videomarket.jp
 full:api.viu.now.com
-full:apkmirror.disqus.com
 full:apl-hamivideo.cdn.hinet.net
 full:app-analytics-services.com @cn
 full:app-measurement-cn.com @cn
@@ -4047,58 +4027,56 @@ full:crashlyticsreports-pa.googleapis.com @cn
 full:crl.pki.goog @cn
 full:crls.pki.goog @cn
 full:csi.gstatic.com @cn
-full:d1g1f25tn8m2e6.cloudfront.net
+full:d1g1f25tn8m2e6.cloudfront.net @cn
 full:d1k2us671qcoau.cloudfront.net
-full:d1m7jfoe9zdc1j.cloudfront.net
-full:d1mhjrowxxagfy.cloudfront.net
-full:d1ndex63qxojbr.cloudfront.net
-full:d1oca24q5dwo6d.cloudfront.net
+full:d1m7jfoe9zdc1j.cloudfront.net @cn
+full:d1mhjrowxxagfy.cloudfront.net @cn
+full:d1ndex63qxojbr.cloudfront.net @cn
+full:d1oca24q5dwo6d.cloudfront.net @cn
 full:d1v5ir2lpwr8os.cloudfront.net
-full:d1w2poirtb3as9.cloudfront.net
-full:d1xhnb4ptk05mw.cloudfront.net
-full:d1ymi26ma8va5x.cloudfront.net
+full:d1w2poirtb3as9.cloudfront.net @cn
+full:d1xhnb4ptk05mw.cloudfront.net @cn
+full:d1ymi26ma8va5x.cloudfront.net @cn
 full:d22qjgkvxw22r6.cloudfront.net
 full:d25xi40x97liuc.cloudfront.net
 full:d27xxe7juh1us6.cloudfront.net
-full:d2aba1wr3818hz.cloudfront.net
+full:d2aba1wr3818hz.cloudfront.net @cn
 full:d2anahhhmp1ffz.cloudfront.net
-full:d2dylwb3shzel1.cloudfront.net
-full:d2e2de1etea730.cloudfront.net
-full:d2nvs31859zcd8.cloudfront.net
-full:d2um2qdswy1tb0.cloudfront.net
-full:d2vjef5jvl6bfs.cloudfront.net
-full:d2xmjdvx03ij56.cloudfront.net
-full:d36nr0u3xmc4mm.cloudfront.net
-full:d3aqoihi2n8ty8.cloudfront.net
-full:d3c27h4odz752x.cloudfront.net
-full:d3vd9lfkzbru3h.cloudfront.net
-full:d6d4ismr40iw.cloudfront.net
-full:d6tizftlrpuof.cloudfront.net
+full:d2dylwb3shzel1.cloudfront.net @cn
+full:d2e2de1etea730.cloudfront.net @cn
+full:d2nvs31859zcd8.cloudfront.net @cn
+full:d2um2qdswy1tb0.cloudfront.net @cn
+full:d2vjef5jvl6bfs.cloudfront.net @cn
+full:d2xmjdvx03ij56.cloudfront.net @cn
+full:d36nr0u3xmc4mm.cloudfront.net @cn
+full:d3aqoihi2n8ty8.cloudfront.net @cn
+full:d3c27h4odz752x.cloudfront.net @cn
+full:d3vd9lfkzbru3h.cloudfront.net @cn
+full:d6d4ismr40iw.cloudfront.net @cn
+full:d6tizftlrpuof.cloudfront.net @cn
 full:daily-cloudcode-pa.googleapis.com
 full:dartsearch-cn.net @cn
-full:ddacn6pr5v0tl.cloudfront.net
+full:ddacn6pr5v0tl.cloudfront.net @cn
 full:deutschewelle.h-cdn.com
 full:developers.facebook.com
 full:dfp6rglgjqszk.cloudfront.net
 full:dg-meta.video.google.com @cn
-full:dgeft87wbj63p.cloudfront.net
+full:dgeft87wbj63p.cloudfront.net @cn
 full:discord-attachments-uploads-prd.storage.googleapis.com
 full:disney.my.sentry.io @ads
 full:dl.google.com @cn
 full:dl.l.google.com @cn
 full:dmqdd6hw24ucf.cloudfront.net
-full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
-full:docker-pinata-support.s3.amazonaws.com
 full:doubleclick-cn.net @cn
 full:doubleclick.net @cn
 full:download.mlcc.google.com @cn
 full:download.tensorflow.google.com @cn
 full:dqd0jw5gvbchn.cloudfront.net
-full:dqrpb9wgowsf5.cloudfront.net
+full:dqrpb9wgowsf5.cloudfront.net @cn
 full:ds-linear-abematv.akamaized.net
 full:ds-vod-abematv.akamaized.net
-full:ds0h3roq6wcgc.cloudfront.net
-full:dykkng5hnh52u.cloudfront.net
+full:ds0h3roq6wcgc.cloudfront.net @cn
+full:dykkng5hnh52u.cloudfront.net @cn
 full:e122475.dscg.akamaiedge.net
 full:efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
 full:espn.api.edge.bamgrid.com
@@ -4595,6 +4573,7 @@ getwsj.com
 gfacecbook.com
 gfarchive.com
 gfashion.com
+gfiber.com
 gfleaks.com
 gfpics.com
 gfpornbox.com
@@ -5100,6 +5079,7 @@ guochantube.com
 guochanw.life
 guruofporn.com
 guysnightlife.com
+gv.com
 gvt0.com
 gvt1-cn.com @cn
 gvt1.com
@@ -5855,7 +5835,6 @@ imgurinc.com
 imhentai.xxx
 imilfs.com
 imlive.com
-immersivetranslate.com
 immoral.jp
 immxd.com
 impact-ad.jp @ads
@@ -6024,6 +6003,7 @@ isexlove.tw
 isfocus.net
 isgame365.cc
 isheppc.com
+isomorphiclabs.com
 iss138.com
 issitedownrightnow.com
 istripper.com
@@ -6033,7 +6013,6 @@ itasoftware.com
 itmedia.co.jp
 itripto.com
 itsfuck.com
-ivi.ru
 ivintageporn.com
 iwank.tv
 iwantavnow.com
@@ -6513,7 +6492,6 @@ kinkyfamily.com
 kinkypeepz.com
 kinopoisk-ru.clstorage.net
 kinopoisk.ru
-kinorium.com
 kir2kos.net
 kiro.dev
 kismia.com
@@ -6613,7 +6591,6 @@ lazymike.com
 lbfmaddiction.com
 lbtube.com
 lcgirls.com
-ldoceonline.com
 ldstatic.com
 leakedmeat.com
 leakedzone.com
@@ -6704,7 +6681,6 @@ linemyshop.com
 lineshoppingseller.com
 linetv.tw
 lingeriepornonly.com
-linguee.com
 link-o-rama.com
 link2galleries.com
 link69.com
@@ -6729,6 +6705,7 @@ litvfreepc.akamaized.net
 liuhefabu.club
 live-video.net
 livecamclips.com
+livefilestore.com
 livehdcams.com
 livejasmin.com
 livejasminbabes.net
@@ -7264,8 +7241,6 @@ moodstocks.com
 moov.hk
 moozporn.com
 morazzia.com
-more.tv
-morisawa.co.jp
 mornporn.com
 mostly.jp
 mostpopularpornsites.com
@@ -7938,9 +7913,6 @@ okazudouga.blog.jp
 okazudouga.tokyo
 okcdn.ru
 okkisokuho.com
-okko.sport
-okko.tv
-okkoapi.tv
 okl.lt
 oknovrossiu.ru
 oktech.ru
@@ -7974,13 +7946,19 @@ onahodouga.com
 onani-daisuki.com
 oncars.in
 one889.app
+onedrive.co
+onedrive.co.uk
+onedrive.com
+onedrive.eu
+onedrive.live.com
+onedrive.net
+onedrive.org
 onefifteen.net
 onefifteen.org
 onejapanese.com
 onejav.com
 onepornlist.com
 onesiterip.com
-onetrust.com
 oneworldmanystories.com
 onindiansex.com
 oninstagram.com
@@ -8056,13 +8034,10 @@ orientalasianporn.com
 orientaldaily.com.my
 originalhulu.com
 originalindianporn.com
-originlab.com
 orlandohurricane.com
 orsm.net
 osakamotion.net
-osano.com
 osiri-suki-club.com
-osmand.net
 otaku-168.com
 otaku18a.info
 otaku55.xyz
@@ -8076,7 +8051,6 @@ ourshemales.com
 outdoorpublicsex.com
 over18arcade.com
 overcast.fm
-overleaf.com
 overthumbs.com
 ow.ly
 oxlife.co
@@ -8332,7 +8306,6 @@ playbar.biz
 playboy.com
 playboy.com.uk
 playboyplus.com
-playfamily.ru
 playforceone.com
 playmation.com
 playmeow.com
@@ -8387,7 +8360,6 @@ popporn-world.com
 porcore.com
 poringa.net
 porkahd.co
-porkbun.com
 porm.club
 porn
 porn-bokep.com
@@ -8754,7 +8726,6 @@ pplx.ai
 ppnnpp.com
 ppp91.cc
 prastitutki.ru
-premier.one
 premium-beauty.com
 premiumhd.net
 premiumlive.site
@@ -8799,7 +8770,6 @@ projectara.com
 projectbaseline.com
 projectjav.com
 projectvoyeur.com
-promodj.com
 pron.guru
 property.com.au
 propertysex.com
@@ -8845,7 +8815,6 @@ pugpig-stage.com
 pugpig.com
 punishbang.com
 punishworld.com
-pureapk.com
 purelov5.com
 purelyceleb.com
 purenudism.com
@@ -9230,8 +9199,6 @@ repotama.com
 resao.com
 resoubanana.buzz
 resoubang.buzz
-restream-media.net
-restream.ru
 retroclassicporn.com
 retrohomevideos.com
 retroxxxmovs.com
@@ -9314,7 +9281,6 @@ rtarabic.com
 rtarabic.net
 rtarabic.org
 rtarabic.ru
-rtbcdn.ru
 rtbrasil.com
 rtbrasil.info
 rtde.agency
@@ -9396,8 +9362,6 @@ rutracker.net
 rutracker.nl
 rutracker.org
 rutrk.org
-rutube.ru
-rutubelist.ru
 ruvideos.net
 ryokoyomiuri.co.jp
 s-bid.rmp.rakuten.com
@@ -9860,6 +9824,7 @@ singtaonewscorp.com
 singtaoopo.com
 singtaousa.com
 sinoinsider.com
+sinyalee.com
 sirenxxxstudios.com
 sis.la
 sis001.com
@@ -9931,7 +9896,6 @@ smartstream.ne.jp
 smashed.xxx
 smmsp.xyz
 smokinmovies.com
-smotreshka.tv
 smplace.com
 smutcam.com
 smutcams.com
@@ -10070,7 +10034,6 @@ starott.com
 starp2p.com
 starplus.com
 starsze.icu
-start.ru
 startupjournal.com
 startupschool.org
 starwars.com
@@ -10103,6 +10066,7 @@ stocking-tease.com
 stockingfetishvideo.com
 stonefoxlingerie.com
 stonefoxproductions.com
+storage.live.com
 storiesonline.net
 storm.mg
 storyful.com
@@ -10637,7 +10601,6 @@ translatewiki.net
 translatewiki.org
 transpornsites.com
 travelgirls.com
-trbcdn.net
 trendyporn.com
 triballo.net
 tribler.org
@@ -10739,6 +10702,7 @@ tubxporn.xxx
 tufos.com.br
 tuidang.org
 tukif.com
+tumblr.com
 tunsafe.com
 turbo.cr
 turbocdn.st
@@ -10760,7 +10724,6 @@ tvbweekly.com
 tver.co.jp
 tver.jp
 tvguidetime.com
-tvigle.ru
 tvmedia.net.au
 tvmost.com.hk
 tvnaviweb.jp
@@ -10817,7 +10780,6 @@ txxx1.com
 tyler-brown.com
 tyms2022.com
 typeisbeautiful.com
-typesquare.com
 tytng189.com
 tytporno.online
 u3c3.com
@@ -10871,7 +10833,6 @@ upmedia.mg
 upornia.com
 uporno.xxx
 uproxy.org
-uptodown.com
 ura-akiba.jp
 urasma.com
 urchin.com @ads
@@ -10885,12 +10846,12 @@ uselessjunk.com
 useplannr.com
 userapi.com
 userapi.ru
-usercentrics.eu
 usercontent.dev
 usercontent.goog
+userdrive.org
+usersdrive.com
 usvimosquito.com
 usvimosquitoproject.com
-utdstc.com
 uug22.com
 uug23.com
 uug25.com
@@ -10956,6 +10917,7 @@ vepornhd.club
 veporno.net
 vercomicsporno.xxx
 verhentai.tv
+verily.com
 verilylifesciences.com
 verilystudyhub.com
 verilystudywatch.com
@@ -11010,7 +10972,6 @@ viet69.news
 viewerswives.net
 viewgals.com
 viewpointsfromfacebook.com
-viju.ru
 vikiporn.com
 vilavpn.com
 vilavpn.xyz
@@ -11228,6 +11189,7 @@ waterdamagesandiego.org
 watersex.com
 wattpad.com
 wav.tv
+waymo.com
 wayshare.cc
 waze.com
 wbdnbo.net
@@ -11251,6 +11213,7 @@ webgata.net
 webgirlsonline.net
 webmproject.org
 webnovel.com @!cn
+webpass.net
 webpkgcache.com
 webrtc.org
 webtoons.com
@@ -11361,11 +11324,9 @@ willyporn.com
 wimpmusic.com
 windsurf.build
 windsurf.com
-wink.am
-wink.ru
+wing.com
 winning11.com
 winticket.jp
-winudf.com
 wionews.com
 wired.com
 wireguard.com
@@ -12458,6 +12419,7 @@ zhaimankan.com
 zhainanjidi.xyz
 zhainanjidid.top
 zhangboz1.xyz
+zhangzhehan.net
 zhengjian.org
 zhengwunet.org
 zhenxiang.biz
