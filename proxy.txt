@@ -4638,6 +4638,7 @@ gitbook.com
 gitbook.io
 github.ai
 github.blog
+github.career
 github.com
 github.community
 github.dev
@@ -6640,6 +6641,7 @@ libsolutions.domains
 libsolutions.net
 licdn.cn @cn
 licdn.com
+lifeatspotify.com
 lifeselector.com
 lightxxxtube.com
 lih.kg
@@ -9996,6 +9998,7 @@ spotifycdn.net
 spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
+spotifyforvendors.com
 spotifyjobs.com
 spreadporn.org
 spreadprivacy.com
