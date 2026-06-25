@@ -838,6 +838,7 @@ ap-singapore.myqcloud.com @!cn
 ap-singapore.tencentcos.cn @!cn
 ap-singapore.tencentcos.com @!cn
 ap-singapore.tencentcos.com.cn @!cn
+ap-southeast-1.aliyuncs.com @!cn
 ap-southeast-1.myhuaweicloud.com @!cn
 ap-southeast-2.myhuaweicloud.com @!cn
 ap-southeast-201.myhuaweicloud.com @!cn
@@ -1923,6 +1924,8 @@ cmread.com
 cmvideo.cn
 cn
 cn-ha.mqtt.io.mi.com
+cn-hangzhou.aliyuncs.com
+cn-shanghai.aliyuncs.com
 cn.pool.ntp.org @cn
 cnanzhi.com
 cnb.cool
@@ -2903,13 +2906,16 @@ fspcdn.com
 fsphere.cn
 ftfund.com
 fugetech.com
+full:account-cn.alibabacloud.com @cn
 full:ads3-normal-hl.zijieapi.com @ads
 full:ads3-normal.zijieapi.com @ads
 full:ads5-normal-hl.zijieapi.com @ads
 full:ads5-normal.zijieapi.com @ads
 full:ai.zhaomi.cn
+full:api.alibabacloud.com @cn
 full:apilog-web.acfun.cn @ads
 full:bytedance.map.fastly.net @!cn
+full:cn.alibabacloud.com @cn
 full:community.oneplus.com @!cn
 full:ctdsb.clouddiffuse.xyz
 full:cueme-api.quark.cn
@@ -2965,6 +2971,7 @@ full:rtlog3-applog.fqnovel.com @ads
 full:rtlog5-applog-hl.fqnovel.com @ads
 full:rtlog5-applog.fqnovel.com @ads
 full:ss.bjmu.edu.cn
+full:status.alibabacloud.com @cn
 full:study.163.com
 full:time.amazonaws.cn @cn
 full:time.izatcloud.net @cn

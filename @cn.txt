@@ -47,8 +47,10 @@ etnet.com.cn @cn
 etnetchina.com.cn @cn
 full:2mdn-cn.net @cn
 full:2mdn.net @cn
+full:account-cn.alibabacloud.com @cn
 full:admob-cn.com @cn
 full:adservice.google.com @cn
+full:api.alibabacloud.com @cn
 full:app-analytics-services.com @cn
 full:app-measurement-cn.com @cn
 full:app-measurement.com @cn
@@ -68,6 +70,7 @@ full:clickserve.cc-dt.com @cn
 full:clickserve.dartsearch.net @cn
 full:clickserver.googleads.com @cn
 full:clientservices.googleapis.com @cn
+full:cn.alibabacloud.com @cn
 full:cn.widevine.com @cn
 full:connectivitycheck.gstatic.com @cn
 full:crashlyticsreports-pa.googleapis.com @cn
@@ -188,6 +191,7 @@ full:ssl.gstatic.com @cn
 full:staging-controlbe.floonet.goog @cn
 full:staging-databe.floonet.goog @cn
 full:staging.databe.floonet.goog @cn
+full:status.alibabacloud.com @cn
 full:tac.googleapis.com @cn
 full:time.amazonaws.cn @cn
 full:time.izatcloud.net @cn
