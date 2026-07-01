@@ -51,6 +51,7 @@
 123624.com
 123641.com
 12365auto.com
+12377.cn
 123842.com
 123860.com
 123912.com
@@ -341,6 +342,7 @@
 61.com
 6655.com
 66law.cn
+66rpg.com
 66wz.com
 68h5.com
 6rooms.com
@@ -354,6 +356,7 @@
 7230.com
 72byte.com
 72whys.com
+777ppt.com
 7down.com
 7fresh.com
 7k2k1.cn
@@ -373,6 +376,7 @@
 800bestapi.com
 800bestapp.cn
 800bestapp.com
+81.cn
 818ps.com
 8264.com
 84399.com
@@ -521,6 +525,7 @@ adimg.mobile.sina.cn @ads
 adimg.uve.weibo.com @ads
 adkwai.com @ads
 admin5.com
+admincdn.com
 admob.xiaomi.com @ads
 admusicpic.music.126.net @ads
 adnet.qq.com @ads
@@ -614,6 +619,7 @@ air-matters.com
 airchangan.com
 airchina.com.cn
 airchinacargo.com
+aireads.cn
 airguilin.com
 airitilibrary.cn
 airstarfinance.net
@@ -1063,6 +1069,7 @@ beacon.sina.com.cn @ads
 beaconcdn.qq.com @ads
 bearychat.com
 beckyroom.com
+beie.org
 beifangsl.cn
 beihaidc.com
 beijing-lipin.com
@@ -1189,6 +1196,7 @@ bocamchina.com
 bocaviation.com
 boccfc.cc
 boccfc.cn
+boce.com
 bocfullertonbank.com
 bocgi.com
 bocgins.com
@@ -1345,6 +1353,7 @@ byteoversea.net @!cn
 byteq5k.com
 byteq8u.net
 bytescm.com
+bytespeech.com
 bytesslb.net
 bytetcc.com
 bytetech.info
@@ -1612,6 +1621,7 @@ cfzq.com
 cgames.com
 cgbchina.com.cn
 cgws.com
+cgyouxi.com
 ch.com
 chachaba.com
 chaindd.com
@@ -1630,7 +1640,15 @@ chaoxingv.com
 chashebao.com
 chaspark.com
 chat.top
+chatdrama.cn
+chatdrama.net
 chatglm.cn
+chatqidian.cn
+chatqidian.net
+chattext.cn
+chatwrite.net
+chatxiaoxiang.com
+chatyuewen.cn
 chaz.fun
 chazhengla.com
 chazidian.com
@@ -1932,6 +1950,7 @@ cnanzhi.com
 cnb.cool
 cnbksy.com
 cnblogs.com
+cnblogs.vip
 cncbinternational.com @!cn
 cncqcloud.com
 cnepub.com
@@ -2048,6 +2067,8 @@ cr173.com
 crash.163.com @ads
 crash2.zhihu.com @ads
 crashlytics.163.com @ads
+cravatar.cn
+cravatar.com
 crggcn.com
 crscm.com
 crsky.com
@@ -2321,6 +2342,8 @@ dianzhenkeji.com
 dicos.com.cn
 dict.cn
 dida365.com
+didachuxing.com
+didapinche.com
 didi-food.com @!cn
 didi.cn
 didialift.com
@@ -2335,6 +2358,7 @@ diiing.cn
 dingdachuxing.com
 dingdatech.com
 dingding.xin
+dingstore.cn
 dingtalk.cn
 dingtalk.com
 dingtalk.net
@@ -2344,6 +2368,7 @@ dingxiang-inc.com
 diopic.net
 discuz.net
 discuz.org
+dishu3.com
 divoiotcloud.com
 diyiyou.com
 diyring.cc
@@ -2691,6 +2716,7 @@ f.cx
 fa-part.com
 faasapp.cn
 faasdev.cn
+faceid.com
 faceu.com
 fadfunds.com
 falconsending.com
@@ -3222,6 +3248,7 @@ gugudata.com
 guigu.org
 guodu.com
 guoguo-app.com
+guojibk.com
 guokr.com
 guokr.net
 guoocang.com
@@ -3259,6 +3286,7 @@ h2tcbox.baidu.com @ads
 h5uc.com
 ha.api.io.mi.com
 hack520.com
+hackernews.cc
 hackhome.com
 hackinn.com
 hacl.cn
@@ -3428,6 +3456,7 @@ hongsanban.com
 hongshu.com
 hongtastock.com
 hongxiu.com
+hongyibo.com.cn
 hongyuanqh.com
 honor.cn
 honor.com
@@ -3843,6 +3872,7 @@ intsig.com
 intsig.net
 ioppo.com.cn
 ioppo.net
+iot-tencent.com
 iotronic.tech
 ip138.com
 ipanda.cn
@@ -4277,6 +4307,7 @@ keepcdn.com
 kejet.net
 kekeniu.com
 kemen.cn
+keniu.com
 kepuchina.cn
 keruyun.com
 kesong.co
@@ -4302,6 +4333,7 @@ kingsoft.com
 kiwa-tech.com
 kiyuu.club
 kjcdn.com
+kjrb.com.cn
 kjwugx.com
 kk1.vip
 kkmh.com
@@ -5105,6 +5137,7 @@ na-toronto.tencentcos.com.cn @!cn
 nadianshi.com
 nagcloudcs.com
 naixuecha.com
+nalrer.cn
 namiso.com
 nanhaicorp.com
 nanyuenews.com
@@ -5262,6 +5295,7 @@ oojsq.com
 oortgslb.com
 opdown.com
 opdwz.cn
+open-douyin.com
 open-uc.cn
 openapp.run
 openbcs.com
@@ -5758,6 +5792,7 @@ roomeet.cn
 route53.cn @cn
 routewize.com
 rqnoj.cn
+rrmj.plus
 rs.sinajs.cn @ads
 rsproxy.cn
 rt-mart.com.cn
@@ -5775,6 +5810,7 @@ ruiwen.com
 rumt-sg.com @!cn
 rumt-us.com @!cn
 rumt-zh.com
+runningcheese.com
 runoob.com
 ruseer.com
 rwkv.cn
@@ -6180,6 +6216,7 @@ stats.music.xiaomi.com @ads
 statusfeishu.cn
 statuslarkoffice.com
 stcn.com
+stdaily.com
 steam302.xyz
 steampp.net
 sto-express.cn
@@ -6595,6 +6632,7 @@ tobosu.com
 todesk.cn
 todesk.com
 tokyotrial.cn
+tol.vip
 tom.com
 tongdun.net
 tongfangpc.com
@@ -7032,6 +7070,7 @@ volcwaf.com
 volcwaf001.com
 voleai.com
 vpgame.com
+vpsvs.com
 vrzwk.cn
 vrzwk.com
 vrzwk.net
@@ -7093,6 +7132,7 @@ webankcdn.net
 webgame163.com
 webmasterhome.cn
 webnovel.com @!cn
+webportal.top
 webterren.com
 wechat.com
 wechatpay.cn
@@ -7115,6 +7155,8 @@ weishi.com
 weixin.com
 weixinbridge.com
 weixing.com
+weixinsxy.com
+weiyang.cn
 weiyangx.com
 weiyun.com
 welltrend-edu.com
@@ -7122,6 +7164,7 @@ wenjuan.com
 wenkeju.com
 wenkub.com
 wenmingban.com
+wenpai.org
 wenshushu.cn
 wenshushu.com
 wenwo.com
@@ -7150,6 +7193,7 @@ win7china.com
 win8.net
 win8china.com
 wind.com.cn
+windfonts.com
 windows10zj.com
 windows7en.com
 windowszj.com
@@ -7195,6 +7239,7 @@ woodo.cn
 wooyun.org
 woozooo.com
 woread.com.cn
+workercn.cn
 worktile.com
 worldofship.cn
 worldoftank.cn
@@ -7208,6 +7253,7 @@ wowsgame.cn
 woxihuan.com
 woyaogexing.com
 woyoo.com
+wpcy.com
 wps.cn
 wps.com
 wpscdn.cn
@@ -7257,6 +7303,7 @@ wxcloudrun.com
 wxdw.top
 wxgateway.com
 wxlivecdn.com
+wxmpurl.cn
 wxsbank.com
 wxzq.com
 wywyx.com
@@ -7474,6 +7521,7 @@ xunyou.mobi
 xwbank.com
 xxghh.biz
 xxsy.net
+xxsypro.com
 xxtmail.com
 xycdn.com
 xycloud.com
@@ -7560,6 +7608,7 @@ yiyouliao.com
 yizhibo.com
 yizhitou.com
 yjbys.com
+yjwujian.cn
 yk-ssp.ad.youku.com @ads
 ykad-data.youku.com @ads
 ykimg.com
@@ -7693,6 +7742,7 @@ yunos.com
 yunpan.aliyun.com
 yunpan.cn
 yunpan.com
+yunpian.com
 yunqishi.net
 yunshipei.com
 yunxiao.com
@@ -7718,6 +7768,7 @@ yxwsgame.com
 yy.com
 yyds.co
 yyshub.top
+yysls.cn
 yystatic.com
 yystv.cn
 yytcdn.com
