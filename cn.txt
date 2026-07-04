@@ -797,6 +797,7 @@ ankerwork.cn
 anlaiye.com
 anlaiye.com.cn
 anmo.com
+anquan
 anquan.org
 anquanke.com
 anruan.com
@@ -5974,6 +5975,7 @@ shopoppo.cn
 shopoppo.com.cn
 shoppingads.cn @ads
 shopss.com
+shouji
 shoujihuifu.com
 shouqianba.com
 shoutanjjj.com
@@ -6005,6 +6007,7 @@ sichuanair.com
 sifou.com
 simei8.com
 simuwang.com
+sina
 sina.cn
 sina.com
 sina.com.cn
@@ -7141,6 +7144,7 @@ wegame.com.cn
 wegamedeveloper.com
 wegameplus.com
 wegobank.cn
+weibo
 weibo.cn
 weibo.com
 weibo.com.cn
@@ -7408,6 +7412,7 @@ xiguashipin.cn
 xiguashipin.net
 xiguavideo.cn
 xiguavideo.net
+xihuan
 xilu.com
 ximalaya.com
 xin.xin
@@ -7458,6 +7463,7 @@ xn--6frz82g
 xn--6qq986b3xl
 xn--8y0a063a
 xn--9et52u
+xn--9krt00a
 xn--czr694b
 xn--czrs0t
 xn--czru2d
@@ -7721,6 +7727,7 @@ yufuid.com.cn
 yufuid.net
 yuketang.cn
 yumchina.com
+yun
 yun.139.com
 yunaq.com
 yunba.io

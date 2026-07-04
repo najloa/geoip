@@ -30,6 +30,22 @@
 123videos.tv
 126728.net
 128100.xyz
+12diasdepresentesdeitunes.com
+12diasderegalosdeitunes.cl
+12diasderegalosdeitunes.co
+12diasderegalosdeitunes.co.cr
+12diasderegalosdeitunes.co.ni
+12diasderegalosdeitunes.co.ve
+12diasderegalosdeitunes.com
+12diasderegalosdeitunes.com.co
+12diasderegalosdeitunes.com.hn
+12diasderegalosdeitunes.com.ni
+12diasderegalosdeitunes.com.ve
+12diasderegalosdeitunes.cr
+12diasderegalosdeitunes.gt
+12diasderegalosdeitunes.hn
+12diasderegalosdeitunes.pe
+12joursdecadeauxdeitunes.com
 1337x.gd
 1337x.is
 1337x.st
@@ -759,7 +775,6 @@ amerikiskhma.com
 amlg.io
 amodoll.com
 amourangels.com
-amp-api.podcast.apple.com
 amsterdamhotescort.com
 amsterdamluxescort.com
 amytele.com
@@ -872,6 +887,7 @@ appbridge.ca
 appbridge.io
 appbridge.it
 appget.com
+apple-itunes.cn @cn
 applecensorship.com
 appledaily.com
 appledaily.com.hk
@@ -986,6 +1002,7 @@ atdmt2.com
 atkgallery.com
 atlasdmt.com
 atlasonepoint.com
+atmeta.com
 atnext.com
 atom.io
 atscaleconference.com
@@ -1151,7 +1168,6 @@ badsexygirl.com
 badteenspunished.com
 badvirtue.com
 baeb.com
-bag.itunes.apple.com
 bahamut.akamaized.net
 bahamut.com.tw
 bai29.xyz
@@ -1563,7 +1579,6 @@ book18.org
 book1917.live
 book4you.org
 bookclubgirl.com
-bookeeper.itunes.apple.com
 bookfi.net
 bookmark.xxx
 booksc.eu
@@ -2134,6 +2149,7 @@ coomer.su
 coova.com
 coova.net
 coova.org
+copilot.cloud.microsoft
 copilot.com
 copilot.microsoft.com
 copro.pw
@@ -3971,6 +3987,8 @@ full:alt6-mtalk.google.com @!cn
 full:alt7-mtalk.google.com
 full:alt8-mtalk.google.com
 full:amc.yandex.ru @ads
+full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
+full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
 full:analytics.google.com @ads
 full:analytics.mobile.yandex.net @ads
 full:analytics.vk.ru @ads
@@ -3979,6 +3997,8 @@ full:anime-rule34-world.b-cdn.net
 full:antigravity-pa.googleapis.com
 full:antigravity.googleapis.com
 full:aod-pod-uk-live.akamaized.net
+full:aod-ssl.itunes.apple.com @cn
+full:aod.itunes.apple.com @cn
 full:api-p.videomarket.jp
 full:api.viu.now.com
 full:apl-hamivideo.cdn.hinet.net
@@ -3987,18 +4007,22 @@ full:app-measurement-cn.com @cn
 full:app-measurement.com @cn
 full:apple-tv-plus-press.apple.com
 full:apps5.oingo.com @cn
+full:apptrailers.itunes.apple.com @cn
 full:as-dash-uk-live.akamaized.net
 full:as-hls-uk-live.akamaized.net
 full:asahishimbun.sc.omtrdc.net
 full:audio-ak-spotify-com.akamaized.net
 full:audio4-ak-spotify-com.akamaized.net
 full:avail.googleflights.net @cn
+full:bag-cdn.itunes-apple.com.akadns.net @cn
+full:bag.itunes.apple.com @cn
 full:bbs.boingboing.net
 full:beacons.gcp.gvt2.com @cn
 full:beacons.gvt2.com @cn
 full:beacons2.gvt2.com @cn
 full:beacons3.gvt2.com @cn
 full:bloodhound.spotify.com @ads
+full:bookkeeper.itunes.apple.com @cn
 full:browser-intake-datadoghq.com @ads
 full:c.admob.com @cn
 full:c.android.clients.google.com @cn
@@ -4018,10 +4042,12 @@ full:clck.yango.com @ads
 full:clickserve.cc-dt.com @cn
 full:clickserve.dartsearch.net @cn
 full:clickserver.googleads.com @cn
+full:client-api.itunes.apple.com @cn
 full:clients1.google.com
 full:clientservices.googleapis.com @cn
 full:cloudaicompanion.googleapis.com
 full:cloudcode-pa.googleapis.com
+full:cma.itunes.apple.com @cn
 full:cn.widevine.com @cn
 full:connectivitycheck.gstatic.com @cn
 full:copilot-proxy.githubusercontent.com
@@ -4077,6 +4103,7 @@ full:doubleclick-cn.net @cn
 full:doubleclick.net @cn
 full:download.mlcc.google.com @cn
 full:download.tensorflow.google.com @cn
+full:downloaddispatch.itunes.apple.com @cn
 full:dqd0jw5gvbchn.cloudfront.net
 full:dqrpb9wgowsf5.cloudfront.net @cn
 full:ds-linear-abematv.akamaized.net
@@ -4085,6 +4112,7 @@ full:ds0h3roq6wcgc.cloudfront.net @cn
 full:dykkng5hnh52u.cloudfront.net @cn
 full:e122475.dscg.akamaiedge.net
 full:efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
+full:entitlements-edge.itunes.apple.com @cn
 full:espn.api.edge.bamgrid.com
 full:espn.hb.omtrdc.net
 full:espndotcom.tt.omtrdc.net
@@ -4108,6 +4136,7 @@ full:fontfiles.googleapis.com @cn
 full:fonts.googleapis.com @cn
 full:fonts.gstatic.com @cn
 full:foxnewsplayer-a.akamaihd.net
+full:fpinit.itunes.apple.com @cn
 full:g0.gstatic.com @cn
 full:g1.gstatic.com @cn
 full:g2.gstatic.com @cn
@@ -4162,7 +4191,17 @@ full:images-eu.ssl-images-amazon.com
 full:images-fe.ssl-images-amazon.com
 full:images-na.ssl-images-amazon.com
 full:imasdk.googleapis.com @cn
+full:inappcheck-cn.itunes-apple.com.akadns.net @cn
+full:inappcheck-lb.itunes-apple.com.akadns.net @cn
+full:inappcheck.itunes.apple.com @cn
 full:informer.yandex.ru @ads
+full:init.itunes.apple.com @cn
+full:iosapps.itunes.apple.com @cn
+full:iosapps.itunes.g.aaplimg.com @cn
+full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net @cn
+full:itunes-apple.com.akadns.net @cn
+full:itunes.apple.com @cn
+full:itunesconnect.apple.com @cn
 full:lastfm.freetls.fastly.net
 full:lgcscc-hamivideo2.cdn.hinet.net
 full:licdn.cn.cdn20.com
@@ -4175,16 +4214,20 @@ full:mc.yandex.com @ads
 full:mc.yandex.net @ads
 full:mc.yango.com @ads
 full:misa-prod.s3.ap-northeast-1.amazonaws.com
+full:misc-assets.itunes.apple.com @cn
 full:mobilelive-hamivideo.cdn.hinet.net
 full:msh.amazon.co.uk
 full:mtalk-dev.google.com
 full:mtalk-staging.google.com
 full:mtalk.google.com @!cn
 full:mtalk4.google.com
+full:mvod.itunes.apple.com @cn
+full:myapp.itunes.apple.com @cn
 full:netflix.com.edgesuite.net
 full:notebooklm-pa.googleapis.com
 full:notebooklm.googleapis.com
 full:np-edge.itunes.apple.com
+full:np-edge.itunes.apple.com @cn
 full:ntdfreemobile-tgc.cdn.hinet.net
 full:ntdfreepc-tgc.cdn.hinet.net
 full:ntdfreetv-tgc.cdn.hinet.net
@@ -4203,14 +4246,19 @@ full:openaiassets.blob.core.windows.net
 full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 full:openaicom.imgix.net
 full:openaicomproductionae4b.blob.core.windows.net
+full:osxapps.itunes.apple.com @cn
+full:osxapps.itunes.g.aaplimg.com @cn
 full:p16-tiktokcdn-com.akamaized.net @!cn
 full:pagead-googlehosted.l.google.com @cn
 full:paper-attachments.s3.amazonaws.com
+full:pd-nk.itunes.apple.com @cn
+full:pd.itunes.apple.com @cn
 full:performanceparameters.googleapis.com @cn
 full:pixel.yandex.com @ads
 full:pki-goog.l.google.com @cn
 full:pki.google.com
 full:play-edge.itunes.apple.com
+full:play.itunes.apple.com @cn
 full:ppl-ai-file-upload.s3.amazonaws.com
 full:pplx-res.cloudinary.com
 full:preprod-publicca.googleapis.com
@@ -4340,8 +4388,13 @@ full:scholar.google.si
 full:scholar.google.sk
 full:scholar.googleusercontent.com
 full:scholar.l.google.com
+full:se-edge.itunes.apple.com @cn
+full:se2.itunes.apple.com @cn
+full:search.itunes.apple.com @cn
 full:servd-anthropic-website.b-cdn.net
 full:service.urchin.com @cn
+full:sf-api-token-service.itunes.apple.com @cn
+full:sp.itunes.apple.com @cn
 full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
@@ -4355,9 +4408,13 @@ full:staging.databe.floonet.goog @cn
 full:static-hamivideo.cdn.hinet.net
 full:static.siege-amazon.com
 full:stats.vk-portal.net @ads
+full:streamingaudio.itunes.apple.com @cn
+full:su.itunes.apple.com @cn
+full:sync.itunes.apple.com @cn
 full:t.ssp.hinet.net
 full:tac.googleapis.com @cn
 full:target.vk.com @ads
+full:tf-feedback.itunes.apple.com @cn
 full:thumbnail-hamivideo.cdn.hinet.net
 full:tlmr-hamivideo2.cdn.hinet.net
 full:tmdb-image-prod.b-cdn.net
@@ -4365,8 +4422,10 @@ full:tmdb-web-image-prod.b-cdn.net
 full:tools.google.com @cn
 full:tv.applemusic.com
 full:tvcastlive-hamivideo.cdn.hinet.net
+full:universal-activity-service.itunes.apple.com @cn
 full:update.crashlytics.com @cn
 full:update.googleapis.com @cn
+full:upp.itunes.apple.com @cn
 full:uts-api.itunes.apple.com
 full:ve-dash-uk-live.akamaized.net
 full:ve-uhd-push-uk-live.akamaized.net
@@ -6025,6 +6084,41 @@ itasoftware.com
 itmedia.co.jp
 itripto.com
 itsfuck.com
+itun.es
+itunbes.com
+ituneas.com
+itunes-apple.cn @cn
+itunes-apple.com.akadns.net
+itunes-radio.net
+itunes.apple.com
+itunes.ca
+itunes.co
+itunes.co.th
+itunes.com
+itunes.hk
+itunes.mx
+itunes.org
+itunes.rio
+itunes.us
+itunes12days.com
+itunesapple.cn @cn
+itunesessentials.com
+itunesfestivals.com
+itunesiradio.com
+ituneslatino.com
+ituneslogin.net
+itunesmatch.com
+itunesparty.com
+itunesradio.cn @cn
+itunesradio.com
+itunesradio.com.cn @cn
+itunesradio.rio
+itunesradio.tv
+itunesradio.tw
+itunesstore.co
+itunesu.com
+itunesu.net
+iutunes.com
 ivintageporn.com
 iwank.tv
 iwantavnow.com
@@ -8349,6 +8443,7 @@ pm.me
 pmatehunter.com
 pobeda.page
 pocketcasts.com
+podcast.apple.com
 poe.com
 poecdn.net
 poi.icu
@@ -11421,6 +11516,7 @@ wwwfacebok.com
 wwwfacebook.com
 wwwhuluplus.com
 wwwinstagram.com
+wwwitunes.com
 wwwmfacebook.com
 wwwpornhub.pro
 wxoyt.com
