@@ -822,6 +822,7 @@ anytocopy.com
 anywlan.com
 anzhuo.cn
 aocde.com
+aorizon.cn
 aoshu.com
 aotrip.net
 aoyou.com
@@ -1836,6 +1837,7 @@ ciweimao.com
 cjjd19.com
 cjol.com
 cjsc.com
+cjyun.org
 ckd.im
 ckxx.net
 clawhub-mirror.com
@@ -3374,10 +3376,12 @@ hapipixia.com
 hapiyixia.com
 hapjs.org
 happyhlddz.com
+happyhorse.cn
 happymeal.co.nz
 happymeal.com
 happymeal.com.au
 happymealdigital.com
+happyshrimp.cn
 harmonyos.com
 haydaypop.cn
 hazq.com
@@ -3702,6 +3706,7 @@ hxnews.com
 hxsd.com
 hxzq.cn
 hybiome.com
+hydun.com
 hypercachenet.com
 hypercachenode.com
 hytung.cn
@@ -4418,6 +4423,7 @@ kouclo.com
 koudai.com
 koudai8.com
 kq7.com
+krcom.cn
 ks-cdn.com
 ks-cdn1.com
 ks-live.com
@@ -4725,6 +4731,7 @@ lnlib.net
 local-ip.online
 lofter.com
 lofter.httpdns.c.163.com @ads
+log-global.aliyuncs.com
 log-upload.mihoyo.com @ads
 log.hunantv.com @ads
 log.mix.sina.com.cn @ads
@@ -4747,6 +4754,7 @@ loongair.cn
 lorhf.com
 lotpc.com
 loupan.com
+lovestu.com
 lppz.com
 lppzimg.com
 lrts.me
@@ -5257,6 +5265,8 @@ nic.xin
 nicaifu.com
 nihaoafrica.org
 nihaorwanda.cn
+nikkigames.cn
+nikkigames.com.cn
 ningtingche.com
 nio.cn
 nio.com
@@ -5461,6 +5471,8 @@ pangolin.snssdk.com @ads
 panplayable-toutiao-b.com @ads
 panplayable-toutiao.com @ads
 paopaoche.net
+papegames.cn
+papegames.com
 papocket.com
 passport-log.youku.com @ads
 paydxm.com
@@ -6097,6 +6109,7 @@ skysea.com
 skywt.cn
 sl916.com
 slbauto.com
+sleeplesshorizon.cn
 slk1.net
 sllssrq.com
 slog.sina.cn @ads
@@ -6380,6 +6393,7 @@ talkingdata.com
 talkinggame.com
 tamaegis.com
 tangeche.com
+tanwan.com
 tanx.com
 tao123.com
 taobao
@@ -6826,6 +6840,8 @@ tvmao.com
 tvzhe.com
 tw.weibo.com @!cn
 twscholar.com
+twyx.cn
+twyxh.com
 tx-exhibition.com
 txbyod.com
 txidc.wang
@@ -7040,6 +7056,7 @@ vipexam.org
 vipmro.com
 vipmro.net
 vipstatic.com
+vistopia.com.cn
 viviv.com
 vivo.cn
 vivo.com
@@ -7628,6 +7645,7 @@ xpccdn.com
 xpgod.com
 xqfunds.com
 xqymuy.com
+xrbk.cn
 xs.cn
 xs8.cn
 xsa239.com
@@ -7694,6 +7712,8 @@ yeepay.com
 yeshen.com
 yeshj.com
 yesky.com
+yeyou.com
+yeyoucdn.com
 yeyousg.com
 yfcache.com
 yfcalc.com
@@ -8070,6 +8090,7 @@ zjytxp.cn
 zjzs.net
 zjzsa.com
 zlfund.cn
+zlinkurl.cn
 zmengzhu.com
 zmifi.com
 zml81.cn
@@ -8118,6 +8139,7 @@ zuoyebang.cc
 zuoyebang.com
 zvip.cn
 zway.top
+zx.com
 zxhgroup.com
 zxsales.cn
 zxxk.com
