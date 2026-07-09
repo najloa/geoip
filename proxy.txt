@@ -896,6 +896,15 @@ appledaily.hk
 applefruity.com
 applehealth.com.hk
 appleinsider.com
+applemusic.berlin
+applemusic.co
+applemusic.com
+applemusic.com.au
+applemusic.hamburg
+applemusic.wang
+applemusicconnect.com
+applemusicfestival.com
+applepodcasts.com
 appmedia.jp
 appmetrica.yandex.com @ads
 appmetrica.yandex.net @ads
@@ -3989,6 +3998,9 @@ full:alt8-mtalk.google.com
 full:amc.yandex.ru @ads
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
+full:amp-api-edge.music.apple.com @cn
+full:amp-api.music.apple.com @cn
+full:amp-api.podcasts.apple.com @cn
 full:analytics.google.com @ads
 full:analytics.mobile.yandex.net @ads
 full:analytics.vk.ru @ads
@@ -4202,6 +4214,7 @@ full:is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net @cn
 full:itunes-apple.com.akadns.net @cn
 full:itunes.apple.com @cn
 full:itunesconnect.apple.com @cn
+full:js-cdn.music.apple.com @cn
 full:lastfm.freetls.fastly.net
 full:lgcscc-hamivideo2.cdn.hinet.net
 full:licdn.cn.cdn20.com
@@ -4221,6 +4234,8 @@ full:mtalk-dev.google.com
 full:mtalk-staging.google.com
 full:mtalk.google.com @!cn
 full:mtalk4.google.com
+full:music.apple.com @cn
+full:musicstatus.music.apple.com @cn
 full:mvod.itunes.apple.com @cn
 full:myapp.itunes.apple.com @cn
 full:netflix.com.edgesuite.net
@@ -4258,7 +4273,11 @@ full:pixel.yandex.com @ads
 full:pki-goog.l.google.com @cn
 full:pki.google.com
 full:play-edge.itunes.apple.com
+full:play-edge.itunes.apple.com @cn
 full:play.itunes.apple.com @cn
+full:play.music.apple.com @cn
+full:podcasts.apple.com @cn
+full:podcasts.itunes.apple.com @cn
 full:ppl-ai-file-upload.s3.amazonaws.com
 full:pplx-res.cloudinary.com
 full:preprod-publicca.googleapis.com
@@ -4395,6 +4414,7 @@ full:servd-anthropic-website.b-cdn.net
 full:service.urchin.com @cn
 full:sf-api-token-service.itunes.apple.com @cn
 full:sp.itunes.apple.com @cn
+full:speedysub.music.apple.com @cn
 full:spotify.com.edgesuite.net
 full:spotify.map.fastly.net
 full:spotify.map.fastlylb.net
@@ -7416,7 +7436,9 @@ muscdn.com @!cn
 musclegirlflix.com
 mushroomtrack.com
 mushymush.tv
+music.apple.com
 musical.ly @!cn
+musickit.net
 muthead.com
 muycerdas.xxx
 muyzorras.com
@@ -8446,6 +8468,7 @@ pmatehunter.com
 pobeda.page
 pocketcasts.com
 podcast.apple.com
+podcasts.apple.com
 poe.com
 poecdn.net
 poi.icu
@@ -11514,6 +11537,7 @@ wwe9.com
 wwr-stardom.com
 wwtbam.com
 www-facebook.com
+wwwapplemusic.com
 wwwfacebok.com
 wwwfacebook.com
 wwwhuluplus.com

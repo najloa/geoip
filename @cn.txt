@@ -53,6 +53,9 @@ full:admob-cn.com @cn
 full:adservice.google.com @cn
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
+full:amp-api-edge.music.apple.com @cn
+full:amp-api.music.apple.com @cn
+full:amp-api.podcasts.apple.com @cn
 full:aod-ssl.itunes.apple.com @cn
 full:aod.itunes.apple.com @cn
 full:api.alibabacloud.com @cn
@@ -170,7 +173,10 @@ full:itunes-apple.com.akadns.net @cn
 full:itunes.apple.com @cn
 full:itunesconnect.apple.com @cn
 full:izattime.qcomgeo2.com @cn
+full:js-cdn.music.apple.com @cn
 full:misc-assets.itunes.apple.com @cn
+full:music.apple.com @cn
+full:musicstatus.music.apple.com @cn
 full:mvod.itunes.apple.com @cn
 full:myapp.itunes.apple.com @cn
 full:np-edge.itunes.apple.com @cn
@@ -197,7 +203,11 @@ full:pd-nk.itunes.apple.com @cn
 full:pd.itunes.apple.com @cn
 full:performanceparameters.googleapis.com @cn
 full:pki-goog.l.google.com @cn
+full:play-edge.itunes.apple.com @cn
 full:play.itunes.apple.com @cn
+full:play.music.apple.com @cn
+full:podcasts.apple.com @cn
+full:podcasts.itunes.apple.com @cn
 full:prod-controlbe.floonet.goog @cn
 full:prod-databe.floonet.goog @cn
 full:prod.databe.floonet.goog @cn
@@ -224,6 +234,7 @@ full:search.itunes.apple.com @cn
 full:service.urchin.com @cn
 full:sf-api-token-service.itunes.apple.com @cn
 full:sp.itunes.apple.com @cn
+full:speedysub.music.apple.com @cn
 full:ssl-google-analytics.l.google.com @cn
 full:ssl.gstatic.com @cn
 full:staging-controlbe.floonet.goog @cn
