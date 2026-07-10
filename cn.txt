@@ -503,6 +503,7 @@ ad.us.sinaimg.cn @ads
 ad.weixin.qq.com @ads
 ad.xiaomi.com @ads
 ad1.xiaomi.com @ads
+adacpp.com
 adash-c.m.taobao.com @ads
 adash-c.ut.taobao.com @ads
 adash-emas.cn-hangzhou.aliyuncs.com @ads
