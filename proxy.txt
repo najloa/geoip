@@ -1559,6 +1559,7 @@ blylq.buzz
 bmia.org
 bnef.com
 bnext.com.tw
+bnxz.net
 boboporn.com
 boboporn.net
 bobovip.cc
@@ -1775,6 +1776,7 @@ byjav.me
 byjhd.com
 bypasscensorship.org
 byspotify.com
+bystys.tech
 bytedapm.com @!cn
 byteoversea.com @!cn
 c-span.org
@@ -3985,6 +3987,7 @@ full:adservice.google.com @cn
 full:adstudio-assets.scdn.co @ads
 full:adv.vk.ru @ads
 full:advk.vk.ru @ads
+full:agb9r0ad.qllfkl.com
 full:ai.google.dev
 full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
@@ -4072,36 +4075,54 @@ full:crashlyticsreports-pa.googleapis.com @cn
 full:crl.pki.goog @cn
 full:crls.pki.goog @cn
 full:csi.gstatic.com @cn
+full:d1d0w7op819ely.cloudfront.net
+full:d1fijc56o1fzod.cloudfront.net
 full:d1g1f25tn8m2e6.cloudfront.net @cn
 full:d1k2us671qcoau.cloudfront.net
 full:d1m7jfoe9zdc1j.cloudfront.net @cn
 full:d1mhjrowxxagfy.cloudfront.net @cn
 full:d1ndex63qxojbr.cloudfront.net @cn
+full:d1nu566dreq9vj.cloudfront.net
 full:d1oca24q5dwo6d.cloudfront.net @cn
+full:d1ugi9qonif2a2.cloudfront.net
 full:d1v5ir2lpwr8os.cloudfront.net
 full:d1w2poirtb3as9.cloudfront.net @cn
 full:d1xhnb4ptk05mw.cloudfront.net @cn
 full:d1ymi26ma8va5x.cloudfront.net @cn
+full:d20g4xwarzxagx.cloudfront.net
 full:d22qjgkvxw22r6.cloudfront.net
 full:d25xi40x97liuc.cloudfront.net
+full:d26rnz3bwp7rlk.cloudfront.net
 full:d27xxe7juh1us6.cloudfront.net
+full:d28odxiw1asdj8.cloudfront.net
 full:d2aba1wr3818hz.cloudfront.net @cn
 full:d2anahhhmp1ffz.cloudfront.net
+full:d2be40xdoc0in8.cloudfront.net
 full:d2dylwb3shzel1.cloudfront.net @cn
 full:d2e2de1etea730.cloudfront.net @cn
+full:d2fg91fzjsrcv1.cloudfront.net
+full:d2j7e8uopcv07.cloudfront.net
 full:d2nvs31859zcd8.cloudfront.net @cn
 full:d2um2qdswy1tb0.cloudfront.net @cn
+full:d2v9yioq9zuuq2.cloudfront.net
 full:d2vjef5jvl6bfs.cloudfront.net @cn
 full:d2xmjdvx03ij56.cloudfront.net @cn
+full:d31dormfno8pk4.cloudfront.net
 full:d36nr0u3xmc4mm.cloudfront.net @cn
 full:d3aqoihi2n8ty8.cloudfront.net @cn
 full:d3c27h4odz752x.cloudfront.net @cn
+full:d3lh5kkip965lj.cloudfront.net
+full:d3nwj80emtnjeo.cloudfront.net
+full:d3ucl0eqgl80l5.cloudfront.net
 full:d3vd9lfkzbru3h.cloudfront.net @cn
 full:d6d4ismr40iw.cloudfront.net @cn
 full:d6tizftlrpuof.cloudfront.net @cn
+full:d96jfp62lg3kj.cloudfront.net
 full:daily-cloudcode-pa.googleapis.com
 full:dartsearch-cn.net @cn
+full:dcb0z5ovq92mz.cloudfront.net
 full:ddacn6pr5v0tl.cloudfront.net @cn
+full:ddpjwstwtpszg.cloudfront.net
 full:deutschewelle.h-cdn.com
 full:developers.facebook.com
 full:dfp6rglgjqszk.cloudfront.net
@@ -4122,6 +4143,7 @@ full:dqrpb9wgowsf5.cloudfront.net @cn
 full:ds-linear-abematv.akamaized.net
 full:ds-vod-abematv.akamaized.net
 full:ds0h3roq6wcgc.cloudfront.net @cn
+full:dstnzhnatv9pz.cloudfront.net
 full:dykkng5hnh52u.cloudfront.net @cn
 full:e122475.dscg.akamaiedge.net
 full:efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net
@@ -4191,6 +4213,7 @@ full:gstaticadssl.l.google.com @cn
 full:gtm.oasisfeng.com @cn
 full:hamivideo.hinet.net
 full:hammerandchisel.ssl.zendesk.com
+full:hb4bbbbb.pmhcjk.com
 full:heads-ak-spotify-com.akamaized.net
 full:heads4-ak-spotify-com.akamaized.net
 full:himalaya-exchange.zendesk.com
@@ -4239,6 +4262,7 @@ full:music.apple.com @cn
 full:musicstatus.music.apple.com @cn
 full:mvod.itunes.apple.com @cn
 full:myapp.itunes.apple.com @cn
+full:nbbb1bb7.pmhcjk.com
 full:netflix.com.edgesuite.net
 full:notebooklm-pa.googleapis.com
 full:notebooklm.googleapis.com
@@ -4308,6 +4332,7 @@ full:productionresultssa8.blob.core.windows.net
 full:productionresultssa9.blob.core.windows.net
 full:publicca.googleapis.com
 full:pvr-hamivideo.cdn.hinet.net
+full:q676790b.pmhcjk.com
 full:qiao-cn.com @cn
 full:qpx.googleflights.net @cn
 full:recaptcha-cn.net @cn
@@ -6780,7 +6805,9 @@ like.com
 like.video
 likee.com
 likee.video
+likeeapp.ru
 likeevideo.com
+likeevideo.ru
 likeseiyu.com
 liketruyen.net
 likuoo.video
@@ -8186,6 +8213,7 @@ over18arcade.com
 overcast.fm
 overthumbs.com
 ow.ly
+owxd.xyz
 oxlife.co
 oxyporn.com
 oyeloca.com
@@ -11021,6 +11049,7 @@ uusexdoll.com
 uusextoy.com
 uux68.com
 uxxxporn.com
+uxzw.club
 v-av.com
 v2ex.com
 v2fly.org
@@ -12501,6 +12530,7 @@ ysporn.com
 yt.be
 ytimg.com
 yuanming.net
+yucf.top
 yuenuge113.xyz
 yuenuge18.cc
 yuming.qxbbs.org
