@@ -3030,6 +3030,7 @@ full:ads5-normal-hl.zijieapi.com @ads
 full:ads5-normal.zijieapi.com @ads
 full:ai.zhaomi.cn
 full:api.alibabacloud.com @cn
+full:api.blipsandchitz.me
 full:apilog-web.acfun.cn @ads
 full:bytedance.map.fastly.net @!cn
 full:cn.alibabacloud.com @cn
@@ -3576,6 +3577,7 @@ hqdoc.com
 hqpcb.com
 hr-welink.com
 hrsec.com.cn
+hrsecn.com
 hsbc.com.cn
 hsbcinsurance.com.cn
 hsbcqh.com.cn
