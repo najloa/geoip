@@ -1505,6 +1505,7 @@ cbern.com.cn
 cbinews.com
 cbjq.com
 cbjs.baidu.com @ads
+cbn.cn
 cc-pay.cn
 ccb-life.com.cn
 ccb.cn
@@ -1847,7 +1848,6 @@ chinaz.net
 chinazns.com
 chinesemooc.org
 chiphell.com
-chn.cn
 chndoi.org
 chnppmuseum.com
 chntel.com
