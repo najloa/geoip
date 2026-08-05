@@ -429,6 +429,8 @@
 9553.com
 95588.com
 95588.com.cn
+95598.cn
+95598pay.com
 962.net
 9718.com
 97973.com
@@ -588,6 +590,7 @@ adv.app.qq.com @ads
 adv.sec.intl.miui.com @ads
 adv.sec.miui.com @ads
 adver.qq.com @ads
+adx.36kr.com @ads
 adx.xiaodutv.com @ads
 adxvip.com
 ae-ad-1.myhuaweicloud.com @!cn
@@ -1497,6 +1500,8 @@ cangpeng.com
 cankaoxiaoxi.com
 caocao.com.cn
 caocaokeji.cn
+capcut.com @!cn
+capcutcdn-us.com @!cn
 capitalonline.net
 cardbaobao.com
 carnoc.com
@@ -2203,6 +2208,7 @@ csdn.net
 csdn.net.cn
 csdnimg.cn
 csfounder.com
+csg.cn
 csjplatform.com @ads
 csmjzs.com
 cspro.org
@@ -2739,6 +2745,7 @@ ebscn-am.com
 ebscn.com
 ebtrust.com
 eceshi.com
+echargenet.com
 ecitic.com
 ecjobhome.com
 eclick.baidu.com @ads
@@ -2749,6 +2756,7 @@ ecmc.bdimg.com @ads
 ecns.cn
 ecombdapi.com
 ecombdstatic.com
+ecsg.com.cn
 ectencent.cn
 ectencent.com.cn
 ecukwai.com
@@ -2810,6 +2818,7 @@ erp321.cn
 erp321.com
 erp321.net
 ersjk.com
+esgcc.com.cn
 esp32.com @!cn
 esp8266.cn
 esp8266.com @!cn
@@ -2996,6 +3005,7 @@ fnnas.net
 fnos.net
 focus-img.cn
 focus.cn
+focuschina.com
 fofa.info
 fofa.so
 fofuai.com
@@ -5001,6 +5011,7 @@ m1905.com
 m6.run
 m9.run
 ma.run
+made-in-china.com
 mafengwo.cn
 mafengwo.com
 mafengwo.net
@@ -5182,6 +5193,7 @@ miaowu.baidu.com @ads
 miaoya.cn
 miaoyanai.com
 miaozhen.com
+micstatic.com
 micun.com
 midasbuy.com
 midea.cn
@@ -5805,6 +5817,7 @@ postfund.com.cn
 postmail.cn
 postoa.com.cn
 powerapp.io
+poweremarket.com
 pp.cn
 ppkankan01.com
 pplive.cn
@@ -6250,6 +6263,7 @@ sfgy.org
 sg.cn
 sg.weibo.com @!cn
 sgamer.com
+sgcc.com.cn
 sgp.file.myqcloud.com @!cn
 sgsic.com
 sgtmos.com
@@ -7073,6 +7087,7 @@ tracking.miui.com @ads
 trackingprd.hwwt8.com @ads
 trackserver.shuxinyc.com @ads
 tracup.com
+trademessenger.com
 trae.ai @!cn
 trae.cn
 trae.com.cn
@@ -7334,6 +7349,7 @@ veigagslb.net
 vemarsdev.com
 vemarsstatic.com
 vemarsweb.com
+vemic.com
 vertciot.com
 veryhuo.com
 veryzhun.com
